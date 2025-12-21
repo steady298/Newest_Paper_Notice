@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+# 保留这些文件，因为它们需要被提交
+# cv-arxiv-daily.json
+# README.md
+# index.html
+
+# 环境变量文件（包含敏感信息）
+.env
+.env.local
+

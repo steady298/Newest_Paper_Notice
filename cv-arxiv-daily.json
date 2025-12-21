@@ -1,0 +1,244 @@
+{
+  "Cell-free mMIMO": {
+    "2512.13243": {
+      "date": "2025-12-15",
+      "title_en": "Interference-Free RIS-Aided Cell-Free Massive MIMO with Physical Layer Security",
+      "title_cn": "无干扰RIS辅助的无蜂窝大规模MIMO物理层安全",
+      "author": "Sumeyra Hassan",
+      "paper_id": "2512.13243v1",
+      "paper_url": "http://arxiv.org/abs/2512.13243v1"
+    },
+    "2512.12223": {
+      "date": "2025-12-13",
+      "title_en": "Robust Energy-Efficient Sleep-Mode Strategy for Multi-RIS-Aided Cell-Free Massive MIMO",
+      "title_cn": "多RIS辅助无蜂窝大规模MIMO的鲁棒节能睡眠模式策略",
+      "author": "Hongyi Luo",
+      "paper_id": "2512.12223v1",
+      "paper_url": "http://arxiv.org/abs/2512.12223v1"
+    },
+    "2512.06998": {
+      "date": "2025-12-07",
+      "title_en": "Cell-free ISAC for Drone Detection Considering Coverage and Age of Sensing",
+      "title_cn": "考虑覆盖和感知时延的无蜂窝ISAC无人机检测",
+      "author": "Zinat Behdad",
+      "paper_id": "2512.06998v1",
+      "paper_url": "http://arxiv.org/abs/2512.06998v1"
+    },
+    "2512.02501": {
+      "date": "2025-12-02",
+      "title_en": "Cell-free versus Conventional Massive MIMO : An Analysis of Channel Capacity based on Channel Measurement in the FR3 Band",
+      "title_cn": "无蜂窝与传统大规模MIMO：基于FR3频段信道测量的信道容量分析",
+      "author": "Qi Zhen",
+      "paper_id": "2512.02501v1",
+      "paper_url": "http://arxiv.org/abs/2512.02501v1"
+    },
+    "2512.00531": {
+      "date": "2025-11-29",
+      "title_en": "Robust Precoding for Resilient Cell-Free Networks",
+      "title_cn": "弹性无蜂窝网络的鲁棒预编码",
+      "author": "Saeed Mashdour",
+      "paper_id": "2512.00531v1",
+      "paper_url": "http://arxiv.org/abs/2512.00531v1"
+    },
+    "2511.23357": {
+      "date": "2025-11-28",
+      "title_en": "EMF-Compliant Power Control in Cell-Free Massive MIMO: Model-Based and Data-Driven Approaches",
+      "title_cn": "无蜂窝大规模MIMO中符合EMF规范的功率控制：基于模型和数据驱动的方法",
+      "author": "Sergi Liesegang",
+      "paper_id": "2511.23357v1",
+      "paper_url": "http://arxiv.org/abs/2511.23357v1"
+    },
+    "2511.22041": {
+      "date": "2025-11-27",
+      "title_en": "CUNEC: A Path Loss Model for Urban Cell-Free Massive MIMO Networks",
+      "title_cn": "CUNEC：一种用于城市无蜂窝大规模MIMO网络的路径损耗模型",
+      "author": "Thomas Choi",
+      "paper_id": "2511.22041v1",
+      "paper_url": "http://arxiv.org/abs/2511.22041v1"
+    },
+    "2511.08775": {
+      "date": "2025-11-11",
+      "title_en": "Power Control Design for ISAC Optimization in User-Target-Centric Cell-Free mMIMO Networks",
+      "title_cn": "以用户-目标为中心的无蜂窝mMIMO网络中ISAC优化的功率控制设计",
+      "author": "Sergi Liesegang",
+      "paper_id": "2511.08775v1",
+      "paper_url": "http://arxiv.org/abs/2511.08775v1"
+    },
+    "2511.07310": {
+      "date": "2025-11-10",
+      "title_en": "Low-Complexity ADMM-Based Multicast Beamforming in Cell-Free Massive MIMO Systems",
+      "title_cn": "无蜂窝大规模MIMO系统中基于ADMM的低复杂度组播波束成形",
+      "author": "Mahmoud Zaher",
+      "paper_id": "2511.07310v1",
+      "paper_url": "http://arxiv.org/abs/2511.07310v1"
+    },
+    "2511.06510": {
+      "date": "2025-11-09",
+      "title_en": "Differential Space-Time Block Coding for Phase-Unsynchronized Cell-Free MIMO Downlink",
+      "title_cn": "用于相位不同步无蜂窝MIMO下行链路的差分空时分组编码",
+      "author": "Marx M. M. Freitas",
+      "paper_id": "2511.06510v1",
+      "paper_url": "http://arxiv.org/abs/2511.06510v1"
+    },
+    "2511.05298": {
+      "date": "2025-11-07",
+      "title_en": "Location-Informed Interference Suppression Precoding Methods for Distributed Massive MIMO Systems",
+      "title_cn": "分布式大规模MIMO系统中位置感知干扰抑制预编码方法",
+      "author": "Emiel Vanspranghels",
+      "paper_id": "2511.05298v1",
+      "paper_url": "http://arxiv.org/abs/2511.05298v1"
+    },
+    "2511.00887": {
+      "date": "2025-11-02",
+      "title_en": "Fairness Designs for Load Balancing Optimization in Satellite-Cell-Free Massive MIMO Systems",
+      "title_cn": "卫星-无蜂窝大规模MIMO系统中负载均衡优化的公平性设计",
+      "author": "Trinh Van Chien",
+      "paper_id": "2511.00887v1",
+      "paper_url": "http://arxiv.org/abs/2511.00887v1"
+    },
+    "2510.27069": {
+      "date": "2025-10-31",
+      "title_en": "Distributed Precoding for Cell-free Massive MIMO in O-RAN: A Multi-agent Deep Reinforcement Learning Framework",
+      "title_cn": "O-RAN中无蜂窝大规模MIMO的分布式预编码：一种多智能体深度强化学习框架",
+      "author": "Mohammad Hossein Shokouhi",
+      "paper_id": "2510.27069v1",
+      "paper_url": "http://arxiv.org/abs/2510.27069v1"
+    },
+    "2510.24185": {
+      "date": "2025-10-28",
+      "title_en": "Performance Analysis of Sub-band Full-duplex Cell-free Massive MIMO JCAS Systems",
+      "title_cn": "子带全双工无蜂窝大规模MIMO JCAS系统的性能分析",
+      "author": "Kwadwo Mensah Obeng Afrane",
+      "paper_id": "2510.24185v1",
+      "paper_url": "http://arxiv.org/abs/2510.24185v1"
+    },
+    "2510.17741": {
+      "date": "2025-10-20",
+      "title_en": "Precoding for Uplink RIS-Assisted Cell-Free MIMO-OFDM Systems with Hardware Impairments",
+      "title_cn": "具有硬件损伤的上行链路RIS辅助无蜂窝MIMO-OFDM系统的预编码",
+      "author": "Navid Reyhanian",
+      "paper_id": "2510.17741v1",
+      "paper_url": "http://arxiv.org/abs/2510.17741v1"
+    },
+    "2510.16432": {
+      "date": "2025-10-18",
+      "title_en": "Cluster-wise processing in fronthaul-aware cell-free massive MIMO systems",
+      "title_cn": "前传感知的无蜂窝大规模MIMO系统中的簇式处理",
+      "author": "Zahra Mobini",
+      "paper_id": "2510.16432v1",
+      "paper_url": "http://arxiv.org/abs/2510.16432v1"
+    },
+    "2510.13171": {
+      "date": "2025-10-15",
+      "title_en": "On the performance of Active STAR-RIS-Assisted Cell-Free Massive MIMO Systems with Phase Errors and Channel Aging",
+      "title_cn": "具有相位误差和信道老化的有源STAR-RIS辅助无蜂窝大规模MIMO系统的性能",
+      "author": "Jun Qian",
+      "paper_id": "2510.13171v1",
+      "paper_url": "http://arxiv.org/abs/2510.13171v1"
+    },
+    "2510.12406": {
+      "date": "2025-10-14",
+      "title_en": "Hybrid centralized-distributed precoding in fronthaul-constrained CF-mMIMO systems",
+      "title_cn": "前传受限CF-mMIMO系统中的混合集中式-分布式预编码",
+      "author": "Zahra Mobini",
+      "paper_id": "2510.12406v1",
+      "paper_url": "http://arxiv.org/abs/2510.12406v1"
+    },
+    "2510.06936": {
+      "date": "2025-10-08",
+      "title_en": "Sensing Management for Pilot-Free Predictive Beamforming in Cell-Free Massive MIMO Systems",
+      "title_cn": "无蜂窝大规模MIMO系统中无导频预测波束成形的感知管理",
+      "author": "Eren Berk Kama",
+      "paper_id": "2510.06936v1",
+      "paper_url": "http://arxiv.org/abs/2510.06936v1"
+    },
+    "2510.06734": {
+      "date": "2025-10-08",
+      "title_en": "Optimizing Fronthaul Quantization for Flexible User Load in Cell-Free Massive MIMO",
+      "title_cn": "无蜂窝大规模MIMO中灵活用户负载的前传量化优化",
+      "author": "Fabian Göttsch",
+      "paper_id": "2510.06734v1",
+      "paper_url": "http://arxiv.org/abs/2510.06734v1"
+    },
+    "2509.25517": {
+      "date": "2025-09-29",
+      "title_en": "From Legacy to Leadership Intelligent Radio Network Planning Framework for Cell-Free Massive MIMO in B5G6G Era",
+      "title_cn": "从传统到主导：B5G/6G时代无蜂窝大规模MIMO的智能无线网络规划框架",
+      "author": "Valdemar Farré",
+      "paper_id": "2509.25517v1",
+      "paper_url": "http://arxiv.org/abs/2509.25517v1"
+    },
+    "2509.15162": {
+      "date": "2025-09-18",
+      "title_en": "A Unified Distributed Algorithm for Hybrid Near-Far Field Activity Detection in Cell-Free Massive MIMO",
+      "title_cn": "无蜂窝大规模MIMO中混合近场-远场活动检测的统一分布式算法",
+      "author": "Jingreng Lei",
+      "paper_id": "2509.15162v1",
+      "paper_url": "http://arxiv.org/abs/2509.15162v1"
+    },
+    "2509.07770": {
+      "date": "2025-09-09",
+      "title_en": "Multi-Static Target Position Estimation and System Optimization for Cell-Free mMIMO-OTFS ISAC",
+      "title_cn": "无蜂窝mMIMO-OTFS ISAC的多站目标位置估计与系统优化",
+      "author": "Yifei Fan",
+      "paper_id": "2509.07770v1",
+      "paper_url": "http://arxiv.org/abs/2509.07770v1"
+    },
+    "2509.00478": {
+      "date": "2025-08-30",
+      "title_en": "Pilot Allocation and Receiver Design for Cell-Free Massive MIMO ISAC Systems",
+      "title_cn": "无蜂窝大规模MIMO ISAC系统的导频分配与接收机设计",
+      "author": "Getuar Rexhepi",
+      "paper_id": "2509.00478v2",
+      "paper_url": "http://arxiv.org/abs/2509.00478v2"
+    },
+    "2508.20708": {
+      "date": "2025-08-28",
+      "title_en": "What is the Most Efficient Technique for Uplink Cell-Free Massive MIMO?",
+      "title_cn": "上行链路无蜂窝大规模MIMO哪种技术最有效？",
+      "author": "Wei Jiang",
+      "paper_id": "2508.20708v1",
+      "paper_url": "http://arxiv.org/abs/2508.20708v1"
+    },
+    "2508.20704": {
+      "date": "2025-08-28",
+      "title_en": "Achieving Optimal Performance-Cost Trade-Off in Hierarchical Cell-Free Massive MIMO",
+      "title_cn": "分层无蜂窝大规模MIMO中实现最佳性能-成本权衡",
+      "author": "Wei Jiang",
+      "paper_id": "2508.20704v1",
+      "paper_url": "http://arxiv.org/abs/2508.20704v1"
+    },
+    "2508.19931": {
+      "date": "2025-08-27",
+      "title_en": "Cell-Free Massive MIMO-Based Physical-Layer Authentication",
+      "title_cn": "基于无蜂窝大规模MIMO的物理层认证",
+      "author": "Isabella W. G. da Silva",
+      "paper_id": "2508.19931v1",
+      "paper_url": "http://arxiv.org/abs/2508.19931v1"
+    },
+    "2508.17615": {
+      "date": "2025-08-25",
+      "title_en": "Average Achievable Rate Analysis of Cell-Free Massive MIMO in the Finite Blocklength Regime with Imperfect CSI",
+      "title_cn": "具有不完美CSI的有限码长机制下无蜂窝大规模MIMO的平均可达速率分析",
+      "author": "Kai Chen",
+      "paper_id": "2508.17615v2",
+      "paper_url": "http://arxiv.org/abs/2508.17615v2"
+    },
+    "2508.13771": {
+      "date": "2025-08-19",
+      "title_en": "Joint AP Selection and Power Allocation for Unicast-Multicast Cell-Free Massive MIMO",
+      "title_cn": "单播-组播无蜂窝大规模MIMO的联合AP选择与功率分配",
+      "author": "Mustafa S. Abbas",
+      "paper_id": "2508.13771v1",
+      "paper_url": "http://arxiv.org/abs/2508.13771v1"
+    },
+    "2508.13067": {
+      "date": "2025-08-18",
+      "title_en": "Low-complexity Leakage Minimization Beamforming for Large-scale Multi-user Cell-Free Massive MIMO",
+      "title_cn": "大规模多用户无蜂窝大规模MIMO的低复杂度泄露最小化波束成形",
+      "author": "Iván Alexander Morales Sandoval",
+      "paper_id": "2508.13067v2",
+      "paper_url": "http://arxiv.org/abs/2508.13067v2"
+    }
+  }
+}

@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cell-free Massive MIMO 论文追踪</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        
+        .header .subtitle {
+            font-size: 1.1em;
+            opacity: 0.95;
+            margin-top: 10px;
+        }
+        
+        .header .update-time {
+            font-size: 0.95em;
+            opacity: 0.9;
+            margin-top: 15px;
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .section {
+            margin-bottom: 50px;
+        }
+        
+        .section-title {
+            font-size: 1.8em;
+            color: #667eea;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #667eea;
+            font-weight: 600;
+        }
+        
+        .section-stats {
+            color: #666;
+            font-size: 1.1em;
+            margin-bottom: 30px;
+            font-weight: 500;
+        }
+        
+        .month-section {
+            margin-bottom: 40px;
+        }
+        
+        .month-title {
+            font-size: 1.4em;
+            color: #764ba2;
+            margin-bottom: 20px;
+            padding: 10px 15px;
+            background: #f5f5f5;
+            border-left: 4px solid #764ba2;
+            border-radius: 4px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+            background: white;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        
+        thead {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        
+        th {
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 1em;
+        }
+        
+        td {
+            padding: 15px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        tr:hover {
+            background-color: #f8f9ff;
+            transition: background-color 0.2s;
+        }
+        
+        tr:last-child td {
+            border-bottom: none;
+        }
+        
+        .paper-title {
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        
+        .paper-title a {
+            color: #667eea;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        
+        .paper-title a:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+        
+        .paper-title-cn {
+            font-style: italic;
+            color: #666;
+            font-size: 0.9em;
+            margin-top: 5px;
+            display: block;
+        }
+        
+        .author {
+            color: #555;
+        }
+        
+        .pdf-link {
+            display: inline-block;
+            padding: 5px 12px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 0.9em;
+            transition: background 0.2s;
+        }
+        
+        .pdf-link:hover {
+            background: #764ba2;
+        }
+        
+        .date {
+            color: #888;
+            font-size: 0.95em;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 30px;
+            color: #666;
+            background: #f8f9fa;
+            border-top: 1px solid #eee;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8em;
+            }
+            
+            .content {
+                padding: 20px;
+            }
+            
+            table {
+                font-size: 0.9em;
+            }
+            
+            th, td {
+                padding: 10px;
+            }
+            
+            .paper-title-cn {
+                font-size: 0.85em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📚 Cell-free Massive MIMO 论文追踪</h1>
+            <div class="subtitle">自动追踪 arXiv 上关于无蜂窝式大规模 MIMO 领域的最新论文</div>
+            <div class="update-time">最后更新: 2025年12月21日</div>
+        </div>
+        
+        <div class="content">
+
+            <div class="section">
+                <h2 class="section-title">Cell-free mMIMO</h2>
+                <div class="section-stats">总计: <strong>30</strong> 篇论文</div>
+
+                <div class="month-section">
+                    <h3 class="month-title">2025年12月</h3>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>发布日期</th>
+                                <th>论文标题</th>
+                                <th>第一作者</th>
+                                <th>PDF链接</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            <tr>
+                                <td class="date">2025-12-15</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2512.13243v1" target="_blank">Interference-Free RIS-Aided Cell-Free Massive MIMO with Physical Layer Security</a>
+                                    </div>
+                                    <div class="paper-title-cn">无干扰RIS辅助的无蜂窝大规模MIMO物理层安全</div>
+                                </td>
+                                <td class="author">Sumeyra Hassan et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2512.13243v1" class="pdf-link" target="_blank">2512.13243v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-12-13</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2512.12223v1" target="_blank">Robust Energy-Efficient Sleep-Mode Strategy for Multi-RIS-Aided Cell-Free Massive MIMO</a>
+                                    </div>
+                                    <div class="paper-title-cn">多RIS辅助无蜂窝大规模MIMO的鲁棒节能睡眠模式策略</div>
+                                </td>
+                                <td class="author">Hongyi Luo et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2512.12223v1" class="pdf-link" target="_blank">2512.12223v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-12-07</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2512.06998v1" target="_blank">Cell-free ISAC for Drone Detection Considering Coverage and Age of Sensing</a>
+                                    </div>
+                                    <div class="paper-title-cn">考虑覆盖和感知时延的无蜂窝ISAC无人机检测</div>
+                                </td>
+                                <td class="author">Zinat Behdad et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2512.06998v1" class="pdf-link" target="_blank">2512.06998v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-12-02</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2512.02501v1" target="_blank">Cell-free versus Conventional Massive MIMO : An Analysis of Channel Capacity based on Channel Measurement in the FR3 Band</a>
+                                    </div>
+                                    <div class="paper-title-cn">无蜂窝与传统大规模MIMO：基于FR3频段信道测量的信道容量分析</div>
+                                </td>
+                                <td class="author">Qi Zhen et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2512.02501v1" class="pdf-link" target="_blank">2512.02501v1</a></td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="month-section">
+                    <h3 class="month-title">2025年11月</h3>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>发布日期</th>
+                                <th>论文标题</th>
+                                <th>第一作者</th>
+                                <th>PDF链接</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            <tr>
+                                <td class="date">2025-11-29</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2512.00531v1" target="_blank">Robust Precoding for Resilient Cell-Free Networks</a>
+                                    </div>
+                                    <div class="paper-title-cn">弹性无蜂窝网络的鲁棒预编码</div>
+                                </td>
+                                <td class="author">Saeed Mashdour et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2512.00531v1" class="pdf-link" target="_blank">2512.00531v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-11-28</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2511.23357v1" target="_blank">EMF-Compliant Power Control in Cell-Free Massive MIMO: Model-Based and Data-Driven Approaches</a>
+                                    </div>
+                                    <div class="paper-title-cn">无蜂窝大规模MIMO中符合EMF规范的功率控制：基于模型和数据驱动的方法</div>
+                                </td>
+                                <td class="author">Sergi Liesegang et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2511.23357v1" class="pdf-link" target="_blank">2511.23357v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-11-27</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2511.22041v1" target="_blank">CUNEC: A Path Loss Model for Urban Cell-Free Massive MIMO Networks</a>
+                                    </div>
+                                    <div class="paper-title-cn">CUNEC：一种用于城市无蜂窝大规模MIMO网络的路径损耗模型</div>
+                                </td>
+                                <td class="author">Thomas Choi et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2511.22041v1" class="pdf-link" target="_blank">2511.22041v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-11-11</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2511.08775v1" target="_blank">Power Control Design for ISAC Optimization in User-Target-Centric Cell-Free mMIMO Networks</a>
+                                    </div>
+                                    <div class="paper-title-cn">以用户-目标为中心的无蜂窝mMIMO网络中ISAC优化的功率控制设计</div>
+                                </td>
+                                <td class="author">Sergi Liesegang et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2511.08775v1" class="pdf-link" target="_blank">2511.08775v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-11-10</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2511.07310v1" target="_blank">Low-Complexity ADMM-Based Multicast Beamforming in Cell-Free Massive MIMO Systems</a>
+                                    </div>
+                                    <div class="paper-title-cn">无蜂窝大规模MIMO系统中基于ADMM的低复杂度组播波束成形</div>
+                                </td>
+                                <td class="author">Mahmoud Zaher et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2511.07310v1" class="pdf-link" target="_blank">2511.07310v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-11-09</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2511.06510v1" target="_blank">Differential Space-Time Block Coding for Phase-Unsynchronized Cell-Free MIMO Downlink</a>
+                                    </div>
+                                    <div class="paper-title-cn">用于相位不同步无蜂窝MIMO下行链路的差分空时分组编码</div>
+                                </td>
+                                <td class="author">Marx M. M. Freitas et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2511.06510v1" class="pdf-link" target="_blank">2511.06510v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-11-07</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2511.05298v1" target="_blank">Location-Informed Interference Suppression Precoding Methods for Distributed Massive MIMO Systems</a>
+                                    </div>
+                                    <div class="paper-title-cn">分布式大规模MIMO系统中位置感知干扰抑制预编码方法</div>
+                                </td>
+                                <td class="author">Emiel Vanspranghels et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2511.05298v1" class="pdf-link" target="_blank">2511.05298v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-11-02</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2511.00887v1" target="_blank">Fairness Designs for Load Balancing Optimization in Satellite-Cell-Free Massive MIMO Systems</a>
+                                    </div>
+                                    <div class="paper-title-cn">卫星-无蜂窝大规模MIMO系统中负载均衡优化的公平性设计</div>
+                                </td>
+                                <td class="author">Trinh Van Chien et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2511.00887v1" class="pdf-link" target="_blank">2511.00887v1</a></td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="month-section">
+                    <h3 class="month-title">2025年10月</h3>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>发布日期</th>
+                                <th>论文标题</th>
+                                <th>第一作者</th>
+                                <th>PDF链接</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            <tr>
+                                <td class="date">2025-10-31</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2510.27069v1" target="_blank">Distributed Precoding for Cell-free Massive MIMO in O-RAN: A Multi-agent Deep Reinforcement Learning Framework</a>
+                                    </div>
+                                    <div class="paper-title-cn">O-RAN中无蜂窝大规模MIMO的分布式预编码：一种多智能体深度强化学习框架</div>
+                                </td>
+                                <td class="author">Mohammad Hossein Shokouhi et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2510.27069v1" class="pdf-link" target="_blank">2510.27069v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-10-28</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2510.24185v1" target="_blank">Performance Analysis of Sub-band Full-duplex Cell-free Massive MIMO JCAS Systems</a>
+                                    </div>
+                                    <div class="paper-title-cn">子带全双工无蜂窝大规模MIMO JCAS系统的性能分析</div>
+                                </td>
+                                <td class="author">Kwadwo Mensah Obeng Afrane et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2510.24185v1" class="pdf-link" target="_blank">2510.24185v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-10-20</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2510.17741v1" target="_blank">Precoding for Uplink RIS-Assisted Cell-Free MIMO-OFDM Systems with Hardware Impairments</a>
+                                    </div>
+                                    <div class="paper-title-cn">具有硬件损伤的上行链路RIS辅助无蜂窝MIMO-OFDM系统的预编码</div>
+                                </td>
+                                <td class="author">Navid Reyhanian et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2510.17741v1" class="pdf-link" target="_blank">2510.17741v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-10-18</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2510.16432v1" target="_blank">Cluster-wise processing in fronthaul-aware cell-free massive MIMO systems</a>
+                                    </div>
+                                    <div class="paper-title-cn">前传感知的无蜂窝大规模MIMO系统中的簇式处理</div>
+                                </td>
+                                <td class="author">Zahra Mobini et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2510.16432v1" class="pdf-link" target="_blank">2510.16432v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-10-15</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2510.13171v1" target="_blank">On the performance of Active STAR-RIS-Assisted Cell-Free Massive MIMO Systems with Phase Errors and Channel Aging</a>
+                                    </div>
+                                    <div class="paper-title-cn">具有相位误差和信道老化的有源STAR-RIS辅助无蜂窝大规模MIMO系统的性能</div>
+                                </td>
+                                <td class="author">Jun Qian et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2510.13171v1" class="pdf-link" target="_blank">2510.13171v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-10-14</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2510.12406v1" target="_blank">Hybrid centralized-distributed precoding in fronthaul-constrained CF-mMIMO systems</a>
+                                    </div>
+                                    <div class="paper-title-cn">前传受限CF-mMIMO系统中的混合集中式-分布式预编码</div>
+                                </td>
+                                <td class="author">Zahra Mobini et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2510.12406v1" class="pdf-link" target="_blank">2510.12406v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-10-08</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2510.06936v1" target="_blank">Sensing Management for Pilot-Free Predictive Beamforming in Cell-Free Massive MIMO Systems</a>
+                                    </div>
+                                    <div class="paper-title-cn">无蜂窝大规模MIMO系统中无导频预测波束成形的感知管理</div>
+                                </td>
+                                <td class="author">Eren Berk Kama et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2510.06936v1" class="pdf-link" target="_blank">2510.06936v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-10-08</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2510.06734v1" target="_blank">Optimizing Fronthaul Quantization for Flexible User Load in Cell-Free Massive MIMO</a>
+                                    </div>
+                                    <div class="paper-title-cn">无蜂窝大规模MIMO中灵活用户负载的前传量化优化</div>
+                                </td>
+                                <td class="author">Fabian Göttsch et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2510.06734v1" class="pdf-link" target="_blank">2510.06734v1</a></td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="month-section">
+                    <h3 class="month-title">2025年09月</h3>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>发布日期</th>
+                                <th>论文标题</th>
+                                <th>第一作者</th>
+                                <th>PDF链接</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            <tr>
+                                <td class="date">2025-09-29</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2509.25517v1" target="_blank">From Legacy to Leadership Intelligent Radio Network Planning Framework for Cell-Free Massive MIMO in B5G6G Era</a>
+                                    </div>
+                                    <div class="paper-title-cn">从传统到主导：B5G/6G时代无蜂窝大规模MIMO的智能无线网络规划框架</div>
+                                </td>
+                                <td class="author">Valdemar Farré et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2509.25517v1" class="pdf-link" target="_blank">2509.25517v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-09-18</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2509.15162v1" target="_blank">A Unified Distributed Algorithm for Hybrid Near-Far Field Activity Detection in Cell-Free Massive MIMO</a>
+                                    </div>
+                                    <div class="paper-title-cn">无蜂窝大规模MIMO中混合近场-远场活动检测的统一分布式算法</div>
+                                </td>
+                                <td class="author">Jingreng Lei et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2509.15162v1" class="pdf-link" target="_blank">2509.15162v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-09-09</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2509.07770v1" target="_blank">Multi-Static Target Position Estimation and System Optimization for Cell-Free mMIMO-OTFS ISAC</a>
+                                    </div>
+                                    <div class="paper-title-cn">无蜂窝mMIMO-OTFS ISAC的多站目标位置估计与系统优化</div>
+                                </td>
+                                <td class="author">Yifei Fan et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2509.07770v1" class="pdf-link" target="_blank">2509.07770v1</a></td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="month-section">
+                    <h3 class="month-title">2025年08月</h3>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>发布日期</th>
+                                <th>论文标题</th>
+                                <th>第一作者</th>
+                                <th>PDF链接</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            <tr>
+                                <td class="date">2025-08-30</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2509.00478v2" target="_blank">Pilot Allocation and Receiver Design for Cell-Free Massive MIMO ISAC Systems</a>
+                                    </div>
+                                    <div class="paper-title-cn">无蜂窝大规模MIMO ISAC系统的导频分配与接收机设计</div>
+                                </td>
+                                <td class="author">Getuar Rexhepi et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2509.00478v2" class="pdf-link" target="_blank">2509.00478v2</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-08-28</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2508.20708v1" target="_blank">What is the Most Efficient Technique for Uplink Cell-Free Massive MIMO?</a>
+                                    </div>
+                                    <div class="paper-title-cn">上行链路无蜂窝大规模MIMO哪种技术最有效？</div>
+                                </td>
+                                <td class="author">Wei Jiang et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2508.20708v1" class="pdf-link" target="_blank">2508.20708v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-08-28</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2508.20704v1" target="_blank">Achieving Optimal Performance-Cost Trade-Off in Hierarchical Cell-Free Massive MIMO</a>
+                                    </div>
+                                    <div class="paper-title-cn">分层无蜂窝大规模MIMO中实现最佳性能-成本权衡</div>
+                                </td>
+                                <td class="author">Wei Jiang et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2508.20704v1" class="pdf-link" target="_blank">2508.20704v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-08-27</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2508.19931v1" target="_blank">Cell-Free Massive MIMO-Based Physical-Layer Authentication</a>
+                                    </div>
+                                    <div class="paper-title-cn">基于无蜂窝大规模MIMO的物理层认证</div>
+                                </td>
+                                <td class="author">Isabella W. G. da Silva et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2508.19931v1" class="pdf-link" target="_blank">2508.19931v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-08-25</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2508.17615v2" target="_blank">Average Achievable Rate Analysis of Cell-Free Massive MIMO in the Finite Blocklength Regime with Imperfect CSI</a>
+                                    </div>
+                                    <div class="paper-title-cn">具有不完美CSI的有限码长机制下无蜂窝大规模MIMO的平均可达速率分析</div>
+                                </td>
+                                <td class="author">Kai Chen et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2508.17615v2" class="pdf-link" target="_blank">2508.17615v2</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-08-19</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2508.13771v1" target="_blank">Joint AP Selection and Power Allocation for Unicast-Multicast Cell-Free Massive MIMO</a>
+                                    </div>
+                                    <div class="paper-title-cn">单播-组播无蜂窝大规模MIMO的联合AP选择与功率分配</div>
+                                </td>
+                                <td class="author">Mustafa S. Abbas et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2508.13771v1" class="pdf-link" target="_blank">2508.13771v1</a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="date">2025-08-18</td>
+                                <td>
+                                    <div class="paper-title">
+                                        <a href="http://arxiv.org/abs/2508.13067v2" target="_blank">Low-complexity Leakage Minimization Beamforming for Large-scale Multi-user Cell-Free Massive MIMO</a>
+                                    </div>
+                                    <div class="paper-title-cn">大规模多用户无蜂窝大规模MIMO的低复杂度泄露最小化波束成形</div>
+                                </td>
+                                <td class="author">Iván Alexander Morales Sandoval et.al.</td>
+                                <td><a href="http://arxiv.org/abs/2508.13067v2" class="pdf-link" target="_blank">2508.13067v2</a></td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+
+        </div>
+        
+        <div class="footer">
+            <p>自动生成于 2025年12月21日</p>
+            <p>数据来源: <a href="https://arxiv.org" target="_blank">arXiv</a></p>
+        </div>
+    </div>
+</body>
+</html>
