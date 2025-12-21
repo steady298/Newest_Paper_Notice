@@ -1,0 +1,48 @@
+name: Daily Paper Update
+
+on:
+  schedule:
+    # 每天早上8点（北京时间）运行，UTC时间为0点（北京时间 UTC+8）
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-papers:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 允许写入内容（提交更改）
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Configure Git
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+    
+    - name: Run paper tracker
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        PUSHDEER_KEY: ${{ secrets.PUSHDEER_KEY }}
+      run: |
+        python main.py
+    
+    - name: Commit and push changes
+      run: |
+        git add README.md index.html cv-arxiv-daily.json
+        git diff --staged --quiet || git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
+
