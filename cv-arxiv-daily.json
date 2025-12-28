@@ -3,7 +3,7 @@
     "2512.13243": {
       "date": "2025-12-15",
       "title_en": "Interference-Free RIS-Aided Cell-Free Massive MIMO with Physical Layer Security",
-      "title_cn": "具有物理层安全的无干扰RIS辅助无蜂窝大规模MIMO",
+      "title_cn": "物理层安全下无干扰RIS辅助无蜂窝大规模MIMO",
       "author": "Sumeyra Hassan",
       "paper_id": "2512.13243v1",
       "paper_url": "http://arxiv.org/abs/2512.13243v1"
@@ -43,7 +43,7 @@
     "2511.23357": {
       "date": "2025-11-28",
       "title_en": "EMF-Compliant Power Control in Cell-Free Massive MIMO: Model-Based and Data-Driven Approaches",
-      "title_cn": "无蜂窝大规模MIMO中符合EMF规范的功率控制：基于模型和数据驱动的方法",
+      "title_cn": "无蜂窝大规模MIMO中符合EMF标准的功率控制：基于模型和数据驱动的方法",
       "author": "Sergi Liesegang",
       "paper_id": "2511.23357v1",
       "paper_url": "http://arxiv.org/abs/2511.23357v1"
@@ -67,7 +67,7 @@
     "2511.07310": {
       "date": "2025-11-10",
       "title_en": "Low-Complexity ADMM-Based Multicast Beamforming in Cell-Free Massive MIMO Systems",
-      "title_cn": "无蜂窝大规模MIMO系统中基于ADMM的低复杂度组播波束赋形",
+      "title_cn": "无蜂窝大规模MIMO系统中基于ADMM的低复杂度组播波束成形",
       "author": "Mahmoud Zaher",
       "paper_id": "2511.07310v1",
       "paper_url": "http://arxiv.org/abs/2511.07310v1"
@@ -75,7 +75,7 @@
     "2511.06510": {
       "date": "2025-11-09",
       "title_en": "Differential Space-Time Block Coding for Phase-Unsynchronized Cell-Free MIMO Downlink",
-      "title_cn": "相位不同步无蜂窝MIMO下行链路的差分空时分组编码",
+      "title_cn": "相位非同步无蜂窝MIMO下行链路的差分空时分组编码",
       "author": "Marx M. M. Freitas",
       "paper_id": "2511.06510v1",
       "paper_url": "http://arxiv.org/abs/2511.06510v1"
@@ -115,7 +115,7 @@
     "2510.17741": {
       "date": "2025-10-20",
       "title_en": "Precoding for Uplink RIS-Assisted Cell-Free MIMO-OFDM Systems with Hardware Impairments",
-      "title_cn": "具有硬件损伤的上行链路RIS辅助无蜂窝MIMO-OFDM系统的预编码",
+      "title_cn": "存在硬件损伤的上行链路RIS辅助无蜂窝MIMO-OFDM系统的预编码",
       "author": "Navid Reyhanian",
       "paper_id": "2510.17741v1",
       "paper_url": "http://arxiv.org/abs/2510.17741v1"
@@ -131,7 +131,7 @@
     "2510.13171": {
       "date": "2025-10-15",
       "title_en": "On the performance of Active STAR-RIS-Assisted Cell-Free Massive MIMO Systems with Phase Errors and Channel Aging",
-      "title_cn": "具有相位误差和信道老化的有源STAR-RIS辅助无蜂窝大规模MIMO系统性能研究",
+      "title_cn": "存在相位误差和信道老化的有源STAR-RIS辅助无蜂窝大规模MIMO系统性能研究",
       "author": "Jun Qian",
       "paper_id": "2510.13171v1",
       "paper_url": "http://arxiv.org/abs/2510.13171v1"
@@ -147,7 +147,7 @@
     "2510.06936": {
       "date": "2025-10-08",
       "title_en": "Sensing Management for Pilot-Free Predictive Beamforming in Cell-Free Massive MIMO Systems",
-      "title_cn": "无蜂窝大规模MIMO系统中无导频预测波束赋形的感知管理",
+      "title_cn": "无蜂窝大规模MIMO系统中无导频预测波束成形的感知管理",
       "author": "Eren Berk Kama",
       "paper_id": "2510.06936v1",
       "paper_url": "http://arxiv.org/abs/2510.06936v1"
@@ -179,7 +179,7 @@
     "2509.07770": {
       "date": "2025-09-09",
       "title_en": "Multi-Static Target Position Estimation and System Optimization for Cell-Free mMIMO-OTFS ISAC",
-      "title_cn": "无蜂窝大规模MIMO-OTFS ISAC的多基地目标位置估计与系统优化",
+      "title_cn": "无蜂窝大规模MIMO-OTFS ISAC的多静态目标位置估计与系统优化",
       "author": "Yifei Fan",
       "paper_id": "2509.07770v1",
       "paper_url": "http://arxiv.org/abs/2509.07770v1"
@@ -219,7 +219,7 @@
     "2508.17615": {
       "date": "2025-08-25",
       "title_en": "Average Achievable Rate Analysis of Cell-Free Massive MIMO in the Finite Blocklength Regime with Imperfect CSI",
-      "title_cn": "具有不完美CSI的有限码长机制下无蜂窝大规模MIMO的平均可达速率分析",
+      "title_cn": "不完美CSI下有限码长机制中无蜂窝大规模MIMO的平均可达速率分析",
       "author": "Kai Chen",
       "paper_id": "2508.17615v2",
       "paper_url": "http://arxiv.org/abs/2508.17615v2"
