@@ -19,7 +19,7 @@
     "2512.06998": {
       "date": "2025-12-07",
       "title_en": "Cell-free ISAC for Drone Detection Considering Coverage and Age of Sensing",
-      "title_cn": "考虑覆盖和感知时效的用于无人机检测的无蜂窝ISAC",
+      "title_cn": "考虑覆盖和感知时效的无人机检测无蜂窝ISAC",
       "author": "Zinat Behdad",
       "paper_id": "2512.06998v1",
       "paper_url": "http://arxiv.org/abs/2512.06998v1"
@@ -43,7 +43,7 @@
     "2511.23357": {
       "date": "2025-11-28",
       "title_en": "EMF-Compliant Power Control in Cell-Free Massive MIMO: Model-Based and Data-Driven Approaches",
-      "title_cn": "无蜂窝大规模MIMO中符合电磁场规范的功率控制：基于模型和数据驱动的方法",
+      "title_cn": "无蜂窝大规模MIMO中符合EMF规范的功率控制：基于模型和数据驱动的方法",
       "author": "Sergi Liesegang",
       "paper_id": "2511.23357v1",
       "paper_url": "http://arxiv.org/abs/2511.23357v1"
@@ -59,7 +59,7 @@
     "2511.08775": {
       "date": "2025-11-11",
       "title_en": "Power Control Design for ISAC Optimization in User-Target-Centric Cell-Free mMIMO Networks",
-      "title_cn": "以用户-目标为中心的无蜂窝大规模MIMO网络中ISAC优化的功率控制设计",
+      "title_cn": "用户-目标中心无蜂窝大规模MIMO网络中ISAC优化的功率控制设计",
       "author": "Sergi Liesegang",
       "paper_id": "2511.08775v1",
       "paper_url": "http://arxiv.org/abs/2511.08775v1"
@@ -67,7 +67,7 @@
     "2511.07310": {
       "date": "2025-11-10",
       "title_en": "Low-Complexity ADMM-Based Multicast Beamforming in Cell-Free Massive MIMO Systems",
-      "title_cn": "无蜂窝大规模MIMO系统中低复杂度基于ADMM的组播波束赋形",
+      "title_cn": "无蜂窝大规模MIMO系统中基于ADMM的低复杂度组播波束赋形",
       "author": "Mahmoud Zaher",
       "paper_id": "2511.07310v1",
       "paper_url": "http://arxiv.org/abs/2511.07310v1"
@@ -107,7 +107,7 @@
     "2510.24185": {
       "date": "2025-10-28",
       "title_en": "Performance Analysis of Sub-band Full-duplex Cell-free Massive MIMO JCAS Systems",
-      "title_cn": "子带全双工无蜂窝大规模MIMO JCAS系统的性能分析",
+      "title_cn": "子带全双工无蜂窝大规模MIMO通信感知一体化系统的性能分析",
       "author": "Kwadwo Mensah Obeng Afrane",
       "paper_id": "2510.24185v1",
       "paper_url": "http://arxiv.org/abs/2510.24185v1"
@@ -123,7 +123,7 @@
     "2510.16432": {
       "date": "2025-10-18",
       "title_en": "Cluster-wise processing in fronthaul-aware cell-free massive MIMO systems",
-      "title_cn": "前传感知无蜂窝大规模MIMO系统中的分簇处理",
+      "title_cn": "前传感知无蜂窝大规模MIMO系统中的簇级处理",
       "author": "Zahra Mobini",
       "paper_id": "2510.16432v1",
       "paper_url": "http://arxiv.org/abs/2510.16432v1"
@@ -131,7 +131,7 @@
     "2510.13171": {
       "date": "2025-10-15",
       "title_en": "On the performance of Active STAR-RIS-Assisted Cell-Free Massive MIMO Systems with Phase Errors and Channel Aging",
-      "title_cn": "具有相位误差和信道老化的有源STAR-RIS辅助无蜂窝大规模MIMO系统的性能",
+      "title_cn": "具有相位误差和信道老化的有源STAR-RIS辅助无蜂窝大规模MIMO系统性能",
       "author": "Jun Qian",
       "paper_id": "2510.13171v1",
       "paper_url": "http://arxiv.org/abs/2510.13171v1"
@@ -171,7 +171,7 @@
     "2509.15162": {
       "date": "2025-09-18",
       "title_en": "A Unified Distributed Algorithm for Hybrid Near-Far Field Activity Detection in Cell-Free Massive MIMO",
-      "title_cn": "无蜂窝大规模MIMO中混合近远场活动检测的统一分布式算法",
+      "title_cn": "无蜂窝大规模MIMO中混合近场-远场活动检测的统一分布式算法",
       "author": "Jingreng Lei",
       "paper_id": "2509.15162v1",
       "paper_url": "http://arxiv.org/abs/2509.15162v1"
@@ -195,7 +195,7 @@
     "2508.20708": {
       "date": "2025-08-28",
       "title_en": "What is the Most Efficient Technique for Uplink Cell-Free Massive MIMO?",
-      "title_cn": "上行链路无蜂窝大规模MIMO最有效技术是什么？",
+      "title_cn": "上行链路无蜂窝大规模MIMO最有效的技术是什么？",
       "author": "Wei Jiang",
       "paper_id": "2508.20708v1",
       "paper_url": "http://arxiv.org/abs/2508.20708v1"
@@ -243,7 +243,7 @@
     "2512.17466": {
       "date": "2025-12-19",
       "title_en": "Linear Attention for Joint Power Optimization and User-Centric Clustering in Cell-Free Networks",
-      "title_cn": "无蜂窝网络中联合功率优化和以用户为中心的聚类的线性注意力",
+      "title_cn": "无蜂窝网络中联合功率优化和用户中心聚类的线性注意力",
       "author": "Irched Chafaa",
       "paper_id": "2512.17466v1",
       "paper_url": "http://arxiv.org/abs/2512.17466v1"
@@ -251,7 +251,7 @@
     "2512.18359": {
       "date": "2025-12-20",
       "title_en": "Downlink Power Allocation for STAR-RIS-Assisted Cell-Free Massive MIMO with Multi-antenna Users",
-      "title_cn": "具有多天线用户的STAR-RIS辅助无蜂窝大规模MIMO的下行链路功率分配",
+      "title_cn": "STAR-RIS辅助多天线用户无蜂窝大规模MIMO的下行链路功率分配",
       "author": "Jun Qian",
       "paper_id": "2512.18359v1",
       "paper_url": "http://arxiv.org/abs/2512.18359v1"
@@ -259,7 +259,7 @@
     "2512.23046": {
       "date": "2025-12-28",
       "title_en": "User-Centric Cell-Free Massive MIMO Enhanced by Fluid-Antenna Access Points: Uplink Analysis",
-      "title_cn": "流体天线接入点增强的以用户为中心的无蜂窝大规模MIMO：上行链路分析",
+      "title_cn": "流体天线接入点增强的用户中心无蜂窝大规模MIMO：上行链路分析",
       "author": "Maryam Olyaee",
       "paper_id": "2512.23046v1",
       "paper_url": "http://arxiv.org/abs/2512.23046v1"
@@ -267,7 +267,7 @@
     "2512.22639": {
       "date": "2025-12-27",
       "title_en": "Tree Meets Transformer: A Hybrid Architecture for Scalable Power Allocation in Cell-Free Networks",
-      "title_cn": "树模型与Transformer的结合：无蜂窝网络中可扩展功率分配的混合架构",
+      "title_cn": "树与Transformer结合：无蜂窝网络中可扩展功率分配的混合架构",
       "author": "Irched Chafaa",
       "paper_id": "2512.22639v1",
       "paper_url": "http://arxiv.org/abs/2512.22639v1"
