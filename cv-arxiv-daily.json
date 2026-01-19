@@ -11,7 +11,7 @@
     "2512.12223": {
       "date": "2025-12-13",
       "title_en": "Robust Energy-Efficient Sleep-Mode Strategy for Multi-RIS-Aided Cell-Free Massive MIMO",
-      "title_cn": "多RIS辅助无蜂窝大规模MIMO的鲁棒节能睡眠模式策略",
+      "title_cn": "多RIS辅助无蜂窝大规模MIMO的鲁棒节能休眠模式策略",
       "author": "Hongyi Luo",
       "paper_id": "2512.12223v1",
       "paper_url": "http://arxiv.org/abs/2512.12223v1"
@@ -19,7 +19,7 @@
     "2512.06998": {
       "date": "2025-12-07",
       "title_en": "Cell-free ISAC for Drone Detection Considering Coverage and Age of Sensing",
-      "title_cn": "考虑覆盖和感知时效的无人机检测无蜂窝ISAC",
+      "title_cn": "考虑覆盖和感知时延的无蜂窝ISAC无人机检测",
       "author": "Zinat Behdad",
       "paper_id": "2512.06998v1",
       "paper_url": "http://arxiv.org/abs/2512.06998v1"
@@ -43,7 +43,7 @@
     "2511.23357": {
       "date": "2025-11-28",
       "title_en": "EMF-Compliant Power Control in Cell-Free Massive MIMO: Model-Based and Data-Driven Approaches",
-      "title_cn": "无蜂窝大规模MIMO中符合EMF规范的功率控制：基于模型和数据驱动的方法",
+      "title_cn": "无蜂窝大规模MIMO中符合EMF标准的功率控制：基于模型和数据驱动的方法",
       "author": "Sergi Liesegang",
       "paper_id": "2511.23357v1",
       "paper_url": "http://arxiv.org/abs/2511.23357v1"
@@ -51,7 +51,7 @@
     "2511.22041": {
       "date": "2025-11-27",
       "title_en": "CUNEC: A Path Loss Model for Urban Cell-Free Massive MIMO Networks",
-      "title_cn": "CUNEC：城市无蜂窝大规模MIMO网络的路径损耗模型",
+      "title_cn": "CUNEC：一种用于城市无蜂窝大规模MIMO网络的路径损耗模型",
       "author": "Thomas Choi",
       "paper_id": "2511.22041v1",
       "paper_url": "http://arxiv.org/abs/2511.22041v1"
@@ -67,7 +67,7 @@
     "2511.07310": {
       "date": "2025-11-10",
       "title_en": "Low-Complexity ADMM-Based Multicast Beamforming in Cell-Free Massive MIMO Systems",
-      "title_cn": "无蜂窝大规模MIMO系统中基于ADMM的低复杂度组播波束成形",
+      "title_cn": "无蜂窝大规模MIMO系统中基于ADMM的低复杂度多播波束成形",
       "author": "Mahmoud Zaher",
       "paper_id": "2511.07310v1",
       "paper_url": "http://arxiv.org/abs/2511.07310v1"
@@ -99,7 +99,7 @@
     "2510.27069": {
       "date": "2025-10-31",
       "title_en": "Distributed Precoding for Cell-free Massive MIMO in O-RAN: A Multi-agent Deep Reinforcement Learning Framework",
-      "title_cn": "O-RAN中无蜂窝大规模MIMO的分布式预编码：多智能体深度强化学习框架",
+      "title_cn": "O-RAN中无蜂窝大规模MIMO的分布式预编码：一种多智能体深度强化学习框架",
       "author": "Mohammad Hossein Shokouhi",
       "paper_id": "2510.27069v1",
       "paper_url": "http://arxiv.org/abs/2510.27069v1"
@@ -107,7 +107,7 @@
     "2510.24185": {
       "date": "2025-10-28",
       "title_en": "Performance Analysis of Sub-band Full-duplex Cell-free Massive MIMO JCAS Systems",
-      "title_cn": "子带全双工无蜂窝大规模MIMO联合通信与感知系统的性能分析",
+      "title_cn": "子带全双工无蜂窝大规模MIMO通感一体化系统的性能分析",
       "author": "Kwadwo Mensah Obeng Afrane",
       "paper_id": "2510.24185v1",
       "paper_url": "http://arxiv.org/abs/2510.24185v1"
@@ -123,7 +123,7 @@
     "2510.16432": {
       "date": "2025-10-18",
       "title_en": "Cluster-wise processing in fronthaul-aware cell-free massive MIMO systems",
-      "title_cn": "前传感知无蜂窝大规模MIMO系统中的分簇处理",
+      "title_cn": "前传感知无蜂窝大规模MIMO系统中的簇间处理",
       "author": "Zahra Mobini",
       "paper_id": "2510.16432v1",
       "paper_url": "http://arxiv.org/abs/2510.16432v1"
@@ -131,7 +131,7 @@
     "2510.13171": {
       "date": "2025-10-15",
       "title_en": "On the performance of Active STAR-RIS-Assisted Cell-Free Massive MIMO Systems with Phase Errors and Channel Aging",
-      "title_cn": "具有相位误差和信道老化的有源STAR-RIS辅助无蜂窝大规模MIMO系统的性能",
+      "title_cn": "具有相位误差和信道老化的有源STAR-RIS辅助无蜂窝大规模MIMO系统性能研究",
       "author": "Jun Qian",
       "paper_id": "2510.13171v1",
       "paper_url": "http://arxiv.org/abs/2510.13171v1"
@@ -243,7 +243,7 @@
     "2512.17466": {
       "date": "2025-12-19",
       "title_en": "Linear Attention for Joint Power Optimization and User-Centric Clustering in Cell-Free Networks",
-      "title_cn": "无蜂窝网络中联合功率优化和以用户为中心聚类的线性注意力",
+      "title_cn": "无蜂窝网络中联合功率优化和以用户为中心聚类的线性注意力机制",
       "author": "Irched Chafaa",
       "paper_id": "2512.17466v1",
       "paper_url": "http://arxiv.org/abs/2512.17466v1"
@@ -251,7 +251,7 @@
     "2512.18359": {
       "date": "2025-12-20",
       "title_en": "Downlink Power Allocation for STAR-RIS-Assisted Cell-Free Massive MIMO with Multi-antenna Users",
-      "title_cn": "多天线用户STAR-RIS辅助无蜂窝大规模MIMO的下行链路功率分配",
+      "title_cn": "具有多天线用户的STAR-RIS辅助无蜂窝大规模MIMO下行链路功率分配",
       "author": "Jun Qian",
       "paper_id": "2512.18359v1",
       "paper_url": "http://arxiv.org/abs/2512.18359v1"
@@ -267,7 +267,7 @@
     "2512.22639": {
       "date": "2025-12-27",
       "title_en": "Tree Meets Transformer: A Hybrid Architecture for Scalable Power Allocation in Cell-Free Networks",
-      "title_cn": "树形网络与Transformer融合：无蜂窝网络中可扩展功率分配的混合架构",
+      "title_cn": "树形网络与Transformer的融合：无蜂窝网络中可扩展功率分配的混合架构",
       "author": "Irched Chafaa",
       "paper_id": "2512.22639v1",
       "paper_url": "http://arxiv.org/abs/2512.22639v1"
@@ -275,7 +275,7 @@
     "2601.04166": {
       "date": "2026-01-07",
       "title_en": "Expectation Propagation for Distributed Inference in Grant-Free Cell-Free Massive MIMO",
-      "title_cn": "免授权无蜂窝大规模MIMO中分布式推理的期望传播",
+      "title_cn": "免授权无蜂窝大规模MIMO中分布式推理的期望传播算法",
       "author": "Christian Forsch",
       "paper_id": "2601.04166v1",
       "paper_url": "http://arxiv.org/abs/2601.04166v1"
@@ -291,7 +291,7 @@
     "2601.06483": {
       "date": "2026-01-10",
       "title_en": "Joint Impact of ADC and Fronthaul Quantization in Cell-Free Massive MIMO-OFDM Uplink",
-      "title_cn": "模数转换器与前传量化对无蜂窝大规模MIMO-OFDM上行链路的联合影响",
+      "title_cn": "模数转换器和前传量化对无蜂窝大规模MIMO-OFDM上行链路的联合影响",
       "author": "Özlem Tuğfe Demir",
       "paper_id": "2601.06483v1",
       "paper_url": "http://arxiv.org/abs/2601.06483v1"
@@ -299,7 +299,7 @@
     "2601.06075": {
       "date": "2025-12-29",
       "title_en": "Jamming Detection in Cell-Free MIMO with Dynamic Graphs",
-      "title_cn": "动态图无蜂窝MIMO中的干扰检测",
+      "title_cn": "基于动态图的无蜂窝MIMO干扰检测",
       "author": "Ali Hossary",
       "paper_id": "2601.06075v1",
       "paper_url": "http://arxiv.org/abs/2601.06075v1"
