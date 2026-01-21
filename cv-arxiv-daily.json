@@ -3,7 +3,7 @@
     "2512.13243": {
       "date": "2025-12-15",
       "title_en": "Interference-Free RIS-Aided Cell-Free Massive MIMO with Physical Layer Security",
-      "title_cn": "具有物理层安全的无干扰RIS辅助无蜂窝大规模MIMO",
+      "title_cn": "物理层安全下的无干扰RIS辅助无蜂窝大规模MIMO",
       "author": "Sumeyra Hassan",
       "paper_id": "2512.13243v1",
       "paper_url": "http://arxiv.org/abs/2512.13243v1"
@@ -19,7 +19,7 @@
     "2512.06998": {
       "date": "2025-12-07",
       "title_en": "Cell-free ISAC for Drone Detection Considering Coverage and Age of Sensing",
-      "title_cn": "考虑覆盖和感知时效的无人机检测无蜂窝感知通信一体化",
+      "title_cn": "考虑覆盖和感知时效的无蜂窝感知通信一体化无人机检测",
       "author": "Zinat Behdad",
       "paper_id": "2512.06998v1",
       "paper_url": "http://arxiv.org/abs/2512.06998v1"
@@ -59,7 +59,7 @@
     "2511.08775": {
       "date": "2025-11-11",
       "title_en": "Power Control Design for ISAC Optimization in User-Target-Centric Cell-Free mMIMO Networks",
-      "title_cn": "以用户-目标为中心的无蜂窝mMIMO网络中感知通信一体化优化的功率控制设计",
+      "title_cn": "以用户-目标为中心的无蜂窝大规模MIMO网络中感知通信一体化优化的功率控制设计",
       "author": "Sergi Liesegang",
       "paper_id": "2511.08775v1",
       "paper_url": "http://arxiv.org/abs/2511.08775v1"
@@ -67,7 +67,7 @@
     "2511.07310": {
       "date": "2025-11-10",
       "title_en": "Low-Complexity ADMM-Based Multicast Beamforming in Cell-Free Massive MIMO Systems",
-      "title_cn": "无蜂窝大规模MIMO系统中低复杂度基于ADMM的组播波束赋形",
+      "title_cn": "无蜂窝大规模MIMO系统中基于ADMM的低复杂度组播波束赋形",
       "author": "Mahmoud Zaher",
       "paper_id": "2511.07310v1",
       "paper_url": "http://arxiv.org/abs/2511.07310v1"
@@ -99,7 +99,7 @@
     "2510.27069": {
       "date": "2025-10-31",
       "title_en": "Distributed Precoding for Cell-free Massive MIMO in O-RAN: A Multi-agent Deep Reinforcement Learning Framework",
-      "title_cn": "O-RAN中无蜂窝大规模MIMO的分布式预编码：一种多智能体深度强化学习框架",
+      "title_cn": "O-RAN中无蜂窝大规模MIMO的分布式预编码：多智能体深度强化学习框架",
       "author": "Mohammad Hossein Shokouhi",
       "paper_id": "2510.27069v1",
       "paper_url": "http://arxiv.org/abs/2510.27069v1"
@@ -115,7 +115,7 @@
     "2510.17741": {
       "date": "2025-10-20",
       "title_en": "Precoding for Uplink RIS-Assisted Cell-Free MIMO-OFDM Systems with Hardware Impairments",
-      "title_cn": "存在硬件损伤的上行链路RIS辅助无蜂窝MIMO-OFDM系统的预编码",
+      "title_cn": "硬件损伤下上行链路RIS辅助无蜂窝MIMO-OFDM系统的预编码",
       "author": "Navid Reyhanian",
       "paper_id": "2510.17741v1",
       "paper_url": "http://arxiv.org/abs/2510.17741v1"
@@ -123,7 +123,7 @@
     "2510.16432": {
       "date": "2025-10-18",
       "title_en": "Cluster-wise processing in fronthaul-aware cell-free massive MIMO systems",
-      "title_cn": "考虑前传的无蜂窝大规模MIMO系统中的逐簇处理",
+      "title_cn": "考虑前传的无蜂窝大规模MIMO系统中的分簇处理",
       "author": "Zahra Mobini",
       "paper_id": "2510.16432v1",
       "paper_url": "http://arxiv.org/abs/2510.16432v1"
@@ -139,7 +139,7 @@
     "2510.12406": {
       "date": "2025-10-14",
       "title_en": "Hybrid centralized-distributed precoding in fronthaul-constrained CF-mMIMO systems",
-      "title_cn": "前传受限无蜂窝mMIMO系统中的混合集中式-分布式预编码",
+      "title_cn": "前传受限无蜂窝大规模MIMO系统中的混合集中式-分布式预编码",
       "author": "Zahra Mobini",
       "paper_id": "2510.12406v1",
       "paper_url": "http://arxiv.org/abs/2510.12406v1"
@@ -251,7 +251,7 @@
     "2512.18359": {
       "date": "2025-12-20",
       "title_en": "Downlink Power Allocation for STAR-RIS-Assisted Cell-Free Massive MIMO with Multi-antenna Users",
-      "title_cn": "多天线用户STAR-RIS辅助无蜂窝大规模MIMO的下行链路功率分配",
+      "title_cn": "STAR-RIS辅助多天线用户无蜂窝大规模MIMO的下行链路功率分配",
       "author": "Jun Qian",
       "paper_id": "2512.18359v1",
       "paper_url": "http://arxiv.org/abs/2512.18359v1"
@@ -267,7 +267,7 @@
     "2512.22639": {
       "date": "2025-12-27",
       "title_en": "Tree Meets Transformer: A Hybrid Architecture for Scalable Power Allocation in Cell-Free Networks",
-      "title_cn": "树型结构与Transformer的结合：无蜂窝网络中可扩展功率分配的混合架构",
+      "title_cn": "树与Transformer的结合：无蜂窝网络中可扩展功率分配的混合架构",
       "author": "Irched Chafaa",
       "paper_id": "2512.22639v1",
       "paper_url": "http://arxiv.org/abs/2512.22639v1"
@@ -283,7 +283,7 @@
     "2601.06486": {
       "date": "2026-01-10",
       "title_en": "Cell-Free Massive MIMO with Hardware-Impaired Wireless Fronthaul",
-      "title_cn": "存在硬件损伤无线前传的无蜂窝大规模MIMO",
+      "title_cn": "硬件损伤无线前传的无蜂窝大规模MIMO",
       "author": "Özlem Tuğfe Demir",
       "paper_id": "2601.06486v1",
       "paper_url": "http://arxiv.org/abs/2601.06486v1"
@@ -291,7 +291,7 @@
     "2601.06483": {
       "date": "2026-01-10",
       "title_en": "Joint Impact of ADC and Fronthaul Quantization in Cell-Free Massive MIMO-OFDM Uplink",
-      "title_cn": "模数转换器和前传量化对无蜂窝大规模MIMO-OFDM上行链路的联合影响",
+      "title_cn": "模数转换器与前传量化对无蜂窝大规模MIMO-OFDM上行链路的联合影响",
       "author": "Özlem Tuğfe Demir",
       "paper_id": "2601.06483v1",
       "paper_url": "http://arxiv.org/abs/2601.06483v1"
