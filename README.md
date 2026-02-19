@@ -1,6 +1,6 @@
 # Cell-free Massive MIMO 论文追踪
 
-**最后更新**: 2026年02月18日
+**最后更新**: 2026年02月19日
 
 本文档自动追踪 arXiv 上关于无蜂窝式大规模 MIMO (Cell-free Massive MIMO) 领域的最新论文。
 
@@ -15,10 +15,10 @@
 | 发布日期 | 论文标题 | 第一作者 | PDF链接 |
 |:--------|:---------|:---------|:--------|
 |2026-02-13|[EARL: Energy-Aware Adaptive Antenna Control with Reinforcement Learning in O-RAN Cell-Free Massive MIMO Networks](http://arxiv.org/abs/2602.12841v1)<br/>*EARL：O-RAN无蜂窝大规模MIMO网络中基于强化学习的能量感知自适应天线控制*|Zilin Ge et.al.|[2602.12841v1](http://arxiv.org/abs/2602.12841v1)|
-|2026-02-12|[Is Downlink Training Necessary for User-Centric Cell-Free RSMA Systems With Mobile Users?](http://arxiv.org/abs/2602.11891v2)<br/>*移动用户场景下以用户为中心的无蜂窝RSMA系统是否需要下行训练？*|Ravi Kiran Palla et.al.|[2602.11891v2](http://arxiv.org/abs/2602.11891v2)|
+|2026-02-12|[Is Downlink Training Necessary for User-Centric Cell-Free RSMA Systems With Mobile Users?](http://arxiv.org/abs/2602.11891v2)<br/>*针对移动用户的以用户为中心的无蜂窝RSMA系统，下行训练是否必要？*|Ravi Kiran Palla et.al.|[2602.11891v2](http://arxiv.org/abs/2602.11891v2)|
 |2026-02-11|[Generative AI-Driven Phase Control for RIS-Aided Cell-Free Massive MIMO Systems](http://arxiv.org/abs/2602.11226v1)<br/>*生成式AI驱动的RIS辅助无蜂窝大规模MIMO系统相位控制*|Kalpesh K. Patel et.al.|[2602.11226v1](http://arxiv.org/abs/2602.11226v1)|
-|2026-02-06|[Spectrum Coexistence, Network Dimensioning, and Cell-Free Architectures in 5G and 5G-Advanced Wireless Networks](http://arxiv.org/abs/2602.07270v1)<br/>*5G和5G-Advanced无线网络中的频谱共存、网络规划与无蜂窝架构*|Siminfar Samakoush Galougah et.al.|[2602.07270v1](http://arxiv.org/abs/2602.07270v1)|
-|2026-02-06|[UnifSrv: AP Selection for Achieving Uniformly Good Performance of CF-MIMO in Realistic Urban Networks](http://arxiv.org/abs/2602.06780v1)<br/>*UnifSrv：在实际城市网络中实现CF-MIMO均匀良好性能的AP选择*|Yunlu Xiao et.al.|[2602.06780v1](http://arxiv.org/abs/2602.06780v1)|
+|2026-02-06|[Spectrum Coexistence, Network Dimensioning, and Cell-Free Architectures in 5G and 5G-Advanced Wireless Networks](http://arxiv.org/abs/2602.07270v1)<br/>*5G和5G-Advanced无线网络中的频谱共存、网络维度设计和无蜂窝架构*|Siminfar Samakoush Galougah et.al.|[2602.07270v1](http://arxiv.org/abs/2602.07270v1)|
+|2026-02-06|[UnifSrv: AP Selection for Achieving Uniformly Good Performance of CF-MIMO in Realistic Urban Networks](http://arxiv.org/abs/2602.06780v1)<br/>*UnifSrv：在实际城市网络中实现无蜂窝MIMO均匀良好性能的AP选择*|Yunlu Xiao et.al.|[2602.06780v1](http://arxiv.org/abs/2602.06780v1)|
 |2026-02-03|[Statistics Approximation-Enabled Distributed Beamforming for Cell-Free Massive MIMO](http://arxiv.org/abs/2602.03590v2)<br/>*基于统计近似的无蜂窝大规模MIMO分布式波束赋形*|Zhe Wang et.al.|[2602.03590v2](http://arxiv.org/abs/2602.03590v2)|
 
 ### 2026年01月
@@ -33,11 +33,11 @@
 |2026-01-21|[Experimental Performance of Bidirectional Phase Coherent Transmission and Sensing for mmWave Cell-free Massive MIMO Systems with Reciprocity Calibration](http://arxiv.org/abs/2601.14648v1)<br/>*具有互易性校准的毫米波无蜂窝大规模MIMO系统双向相位相干传输与感知实验性能*|Qingji Jiang et.al.|[2601.14648v1](http://arxiv.org/abs/2601.14648v1)|
 |2026-01-20|[Deep Reinforcement Learning-Based Dynamic Resource Allocation in Cell-Free Massive MIMO](http://arxiv.org/abs/2601.13934v2)<br/>*无蜂窝大规模MIMO中基于深度强化学习的动态资源分配*|Phuong Nam Tran et.al.|[2601.13934v2](http://arxiv.org/abs/2601.13934v2)|
 |2026-01-19|[Closed-loop Uplink Radio Resource Management in CF-O-RAN Empowered 5G Aerial Corridor](http://arxiv.org/abs/2601.12694v2)<br/>*CF-O-RAN赋能的5G空中走廊闭环上行无线资源管理*|Manobendu Sarker et.al.|[2601.12694v2](http://arxiv.org/abs/2601.12694v2)|
-|2026-01-19|[Priority-Based Bandwidth Allocation in Network Slicing-Enabled Cell-Free Massive MIMO Systems](http://arxiv.org/abs/2601.12689v2)<br/>*支持网络切片的无蜂窝大规模MIMO系统中基于优先级的带宽分配*|Manobendu Sarker et.al.|[2601.12689v2](http://arxiv.org/abs/2601.12689v2)|
+|2026-01-19|[Priority-Based Bandwidth Allocation in Network Slicing-Enabled Cell-Free Massive MIMO Systems](http://arxiv.org/abs/2601.12689v2)<br/>*网络切片使能的无蜂窝大规模MIMO系统中基于优先级的带宽分配*|Manobendu Sarker et.al.|[2601.12689v2](http://arxiv.org/abs/2601.12689v2)|
 |2026-01-19|[Network Slicing Resource Management in Uplink User-Centric Cell-Free Massive MIMO Systems](http://arxiv.org/abs/2601.12687v2)<br/>*上行以用户为中心的无蜂窝大规模MIMO系统中的网络切片资源管理*|Manobendu Sarker et.al.|[2601.12687v2](http://arxiv.org/abs/2601.12687v2)|
 |2026-01-16|[Performance Analysis of Cell-Free Massive MIMO under Imperfect LoS Phase Tracking](http://arxiv.org/abs/2601.11179v1)<br/>*不完美视距相位跟踪下无蜂窝大规模MIMO的性能分析*|Noor Ul Ain et.al.|[2601.11179v1](http://arxiv.org/abs/2601.11179v1)|
-|2026-01-10|[Cell-Free Massive MIMO with Hardware-Impaired Wireless Fronthaul](http://arxiv.org/abs/2601.06486v2)<br/>*具有硬件损伤无线前传的无蜂窝大规模MIMO*|Özlem Tuğfe Demir et.al.|[2601.06486v2](http://arxiv.org/abs/2601.06486v2)|
-|2026-01-10|[Joint Impact of ADC and Fronthaul Quantization in Cell-Free Massive MIMO-OFDM Uplink](http://arxiv.org/abs/2601.06483v1)<br/>*无蜂窝大规模MIMO-OFDM上行中ADC和前传量化的联合影响*|Özlem Tuğfe Demir et.al.|[2601.06483v1](http://arxiv.org/abs/2601.06483v1)|
+|2026-01-10|[Cell-Free Massive MIMO with Hardware-Impaired Wireless Fronthaul](http://arxiv.org/abs/2601.06486v2)<br/>*具有硬件受损无线前传的无蜂窝大规模MIMO*|Özlem Tuğfe Demir et.al.|[2601.06486v2](http://arxiv.org/abs/2601.06486v2)|
+|2026-01-10|[Joint Impact of ADC and Fronthaul Quantization in Cell-Free Massive MIMO-OFDM Uplink](http://arxiv.org/abs/2601.06483v1)<br/>*ADC和前传量化对无蜂窝大规模MIMO-OFDM上行链路的联合影响*|Özlem Tuğfe Demir et.al.|[2601.06483v1](http://arxiv.org/abs/2601.06483v1)|
 |2026-01-07|[Expectation Propagation for Distributed Inference in Grant-Free Cell-Free Massive MIMO](http://arxiv.org/abs/2601.04166v1)<br/>*免授权无蜂窝大规模MIMO中分布式推理的期望传播*|Christian Forsch et.al.|[2601.04166v1](http://arxiv.org/abs/2601.04166v1)|
 
 ### 2025年12月
@@ -45,14 +45,14 @@
 | 发布日期 | 论文标题 | 第一作者 | PDF链接 |
 |:--------|:---------|:---------|:--------|
 |2025-12-29|[Jamming Detection in Cell-Free MIMO with Dynamic Graphs](http://arxiv.org/abs/2601.06075v1)<br/>*动态图无蜂窝MIMO中的干扰检测*|Ali Hossary et.al.|[2601.06075v1](http://arxiv.org/abs/2601.06075v1)|
-|2025-12-28|[User-Centric Cell-Free Massive MIMO Enhanced by Fluid-Antenna Access Points: Uplink Analysis](http://arxiv.org/abs/2512.23046v1)<br/>*流体天线接入点增强的以用户为中心的无蜂窝大规模MIMO：上行分析*|Maryam Olyaee et.al.|[2512.23046v1](http://arxiv.org/abs/2512.23046v1)|
-|2025-12-27|[Tree Meets Transformer: A Hybrid Architecture for Scalable Power Allocation in Cell-Free Networks](http://arxiv.org/abs/2512.22639v1)<br/>*树型结构与Transformer的结合：无蜂窝网络中可扩展功率分配的混合架构*|Irched Chafaa et.al.|[2512.22639v1](http://arxiv.org/abs/2512.22639v1)|
+|2025-12-28|[User-Centric Cell-Free Massive MIMO Enhanced by Fluid-Antenna Access Points: Uplink Analysis](http://arxiv.org/abs/2512.23046v1)<br/>*流体天线接入点增强的以用户为中心的无蜂窝大规模MIMO：上行链路分析*|Maryam Olyaee et.al.|[2512.23046v1](http://arxiv.org/abs/2512.23046v1)|
+|2025-12-27|[Tree Meets Transformer: A Hybrid Architecture for Scalable Power Allocation in Cell-Free Networks](http://arxiv.org/abs/2512.22639v1)<br/>*树形结构与Transformer的结合：无蜂窝网络中可扩展功率分配的混合架构*|Irched Chafaa et.al.|[2512.22639v1](http://arxiv.org/abs/2512.22639v1)|
 |2025-12-20|[Downlink Power Allocation for STAR-RIS-Assisted Cell-Free Massive MIMO with Multi-antenna Users](http://arxiv.org/abs/2512.18359v1)<br/>*具有多天线用户的STAR-RIS辅助无蜂窝大规模MIMO下行功率分配*|Jun Qian et.al.|[2512.18359v1](http://arxiv.org/abs/2512.18359v1)|
-|2025-12-19|[Linear Attention for Joint Power Optimization and User-Centric Clustering in Cell-Free Networks](http://arxiv.org/abs/2512.17466v1)<br/>*无蜂窝网络中联合功率优化和以用户为中心聚类的线性注意力机制*|Irched Chafaa et.al.|[2512.17466v1](http://arxiv.org/abs/2512.17466v1)|
+|2025-12-19|[Linear Attention for Joint Power Optimization and User-Centric Clustering in Cell-Free Networks](http://arxiv.org/abs/2512.17466v1)<br/>*无蜂窝网络中联合功率优化和以用户为中心聚类的线性注意力*|Irched Chafaa et.al.|[2512.17466v1](http://arxiv.org/abs/2512.17466v1)|
 |2025-12-15|[Interference-Free RIS-Aided Cell-Free Massive MIMO with Physical Layer Security](http://arxiv.org/abs/2512.13243v1)<br/>*具有物理层安全的无干扰RIS辅助无蜂窝大规模MIMO*|Sumeyra Hassan et.al.|[2512.13243v1](http://arxiv.org/abs/2512.13243v1)|
 |2025-12-13|[Robust Energy-Efficient Sleep-Mode Strategy for Multi-RIS-Aided Cell-Free Massive MIMO](http://arxiv.org/abs/2512.12223v1)<br/>*多RIS辅助无蜂窝大规模MIMO的鲁棒节能睡眠模式策略*|Hongyi Luo et.al.|[2512.12223v1](http://arxiv.org/abs/2512.12223v1)|
 |2025-12-07|[Cell-free ISAC for Drone Detection Considering Coverage and Age of Sensing](http://arxiv.org/abs/2512.06998v1)<br/>*考虑覆盖和感知时效的无人机检测无蜂窝ISAC*|Zinat Behdad et.al.|[2512.06998v1](http://arxiv.org/abs/2512.06998v1)|
-|2025-12-02|[Cell-free versus Conventional Massive MIMO : An Analysis of Channel Capacity based on Channel Measurement in the FR3 Band](http://arxiv.org/abs/2512.02501v1)<br/>*无蜂窝与传统大规模MIMO对比：基于FR3频段信道测量的信道容量分析*|Qi Zhen et.al.|[2512.02501v1](http://arxiv.org/abs/2512.02501v1)|
+|2025-12-02|[Cell-free versus Conventional Massive MIMO : An Analysis of Channel Capacity based on Channel Measurement in the FR3 Band](http://arxiv.org/abs/2512.02501v1)<br/>*无蜂窝与传统大规模MIMO的比较：基于FR3频段信道测量的信道容量分析*|Qi Zhen et.al.|[2512.02501v1](http://arxiv.org/abs/2512.02501v1)|
 
 ### 2025年11月
 
