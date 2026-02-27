@@ -1,6 +1,6 @@
 # Cell-free Massive MIMO 论文追踪
 
-**最后更新**: 2026年02月26日
+**最后更新**: 2026年02月27日
 
 本文档自动追踪 arXiv 上关于无蜂窝式大规模 MIMO (Cell-free Massive MIMO) 领域的最新论文。
 
@@ -15,17 +15,17 @@
 | 发布日期 | 论文标题 | 第一作者 | PDF链接 |
 |:--------|:---------|:---------|:--------|
 |2026-02-24|[Resilient Cell-Free Massive MIMO Networks](http://arxiv.org/abs/2602.21107v1)<br/>*弹性无蜂窝大规模MIMO网络*|Junbin Yu et.al.|[2602.21107v1](http://arxiv.org/abs/2602.21107v1)|
-|2026-02-24|[Cell-Free Massive MIMO-Assisted SWIPT Using Stacked Intelligent Metasurfaces](http://arxiv.org/abs/2602.20983v1)<br/>*基于堆叠智能超表面的无蜂窝大规模MIMO辅助同步无线信息与功率传输*|Thien Duc Hua et.al.|[2602.20983v1](http://arxiv.org/abs/2602.20983v1)|
-|2026-02-21|[A Spatial Similarity-Guided Pilot Assignment and Access Point Selection for Cell-Free Massive MIMO Networks](http://arxiv.org/abs/2602.18901v1)<br/>*空间相似性引导的无蜂窝大规模MIMO网络导频分配与接入点选择*|Saeed Mohammadzadeh et.al.|[2602.18901v1](http://arxiv.org/abs/2602.18901v1)|
-|2026-02-21|[Channel-Correlation-Based Access Point Selection and Pilot Power Allocation for Cell-Free Massive MIMO](http://arxiv.org/abs/2602.18875v1)<br/>*基于信道相关的无蜂窝大规模MIMO接入点选择与导频功率分配*|Saeed Mohammadzadeh et.al.|[2602.18875v1](http://arxiv.org/abs/2602.18875v1)|
-|2026-02-20|[Graph-Neural Multi-Agent Coordination for Distributed Access-Point Selection in Cell-Free Massive MIMO](http://arxiv.org/abs/2602.17954v1)<br/>*图神经网络多智能体协同的无蜂窝大规模MIMO分布式接入点选择*|Mohammad Zangooei et.al.|[2602.17954v1](http://arxiv.org/abs/2602.17954v1)|
-|2026-02-18|[Failure-Aware Access Point Selection for Resilient Cell-Free Massive MIMO Networks](http://arxiv.org/abs/2602.16546v1)<br/>*故障感知的弹性无蜂窝大规模MIMO网络接入点选择*|Mostafa Rahmani Ghourtani et.al.|[2602.16546v1](http://arxiv.org/abs/2602.16546v1)|
+|2026-02-24|[Cell-Free Massive MIMO-Assisted SWIPT Using Stacked Intelligent Metasurfaces](http://arxiv.org/abs/2602.20983v1)<br/>*基于堆叠智能超表面的无蜂窝大规模MIMO辅助无线信息与功率同传*|Thien Duc Hua et.al.|[2602.20983v1](http://arxiv.org/abs/2602.20983v1)|
+|2026-02-21|[A Spatial Similarity-Guided Pilot Assignment and Access Point Selection for Cell-Free Massive MIMO Networks](http://arxiv.org/abs/2602.18901v1)<br/>*一种用于无蜂窝大规模MIMO网络的空间相似性引导导频分配与接入点选择*|Saeed Mohammadzadeh et.al.|[2602.18901v1](http://arxiv.org/abs/2602.18901v1)|
+|2026-02-21|[Channel-Correlation-Based Access Point Selection and Pilot Power Allocation for Cell-Free Massive MIMO](http://arxiv.org/abs/2602.18875v1)<br/>*基于信道相关性的无蜂窝大规模MIMO接入点选择与导频功率分配*|Saeed Mohammadzadeh et.al.|[2602.18875v1](http://arxiv.org/abs/2602.18875v1)|
+|2026-02-20|[Graph-Neural Multi-Agent Coordination for Distributed Access-Point Selection in Cell-Free Massive MIMO](http://arxiv.org/abs/2602.17954v1)<br/>*图神经网络多智能体协同在无蜂窝大规模MIMO中的分布式接入点选择*|Mohammad Zangooei et.al.|[2602.17954v1](http://arxiv.org/abs/2602.17954v1)|
+|2026-02-18|[Failure-Aware Access Point Selection for Resilient Cell-Free Massive MIMO Networks](http://arxiv.org/abs/2602.16546v1)<br/>*故障感知接入点选择用于弹性无蜂窝大规模MIMO网络*|Mostafa Rahmani Ghourtani et.al.|[2602.16546v1](http://arxiv.org/abs/2602.16546v1)|
 |2026-02-18|[Continuous Fluid Antenna Sampling for Channel Estimation in Cell-Free Massive MIMO](http://arxiv.org/abs/2602.16459v1)<br/>*无蜂窝大规模MIMO中用于信道估计的连续流体天线采样*|Masoud Kaveh et.al.|[2602.16459v1](http://arxiv.org/abs/2602.16459v1)|
 |2026-02-13|[EARL: Energy-Aware Adaptive Antenna Control with Reinforcement Learning in O-RAN Cell-Free Massive MIMO Networks](http://arxiv.org/abs/2602.12841v1)<br/>*EARL：O-RAN无蜂窝大规模MIMO网络中基于强化学习的能量感知自适应天线控制*|Zilin Ge et.al.|[2602.12841v1](http://arxiv.org/abs/2602.12841v1)|
-|2026-02-12|[Is Downlink Training Necessary for User-Centric Cell-Free RSMA Systems With Mobile Users?](http://arxiv.org/abs/2602.11891v2)<br/>*对于具有移动用户的以用户为中心的无蜂窝RSMA系统，下行训练是否必要？*|Ravi Kiran Palla et.al.|[2602.11891v2](http://arxiv.org/abs/2602.11891v2)|
-|2026-02-11|[Generative AI-Driven Phase Control for RIS-Aided Cell-Free Massive MIMO Systems](http://arxiv.org/abs/2602.11226v1)<br/>*生成式AI驱动的RIS辅助无蜂窝大规模MIMO系统相位控制*|Kalpesh K. Patel et.al.|[2602.11226v1](http://arxiv.org/abs/2602.11226v1)|
-|2026-02-06|[Spectrum Coexistence, Network Dimensioning, and Cell-Free Architectures in 5G and 5G-Advanced Wireless Networks](http://arxiv.org/abs/2602.07270v1)<br/>*5G和5G-Advanced无线网络中的频谱共存、网络规划与无蜂窝架构*|Siminfar Samakoush Galougah et.al.|[2602.07270v1](http://arxiv.org/abs/2602.07270v1)|
-|2026-02-06|[UnifSrv: AP Selection for Achieving Uniformly Good Performance of CF-MIMO in Realistic Urban Networks](http://arxiv.org/abs/2602.06780v1)<br/>*UnifSrv：在实际城市网络中实现无蜂窝MIMO均匀良好性能的接入点选择*|Yunlu Xiao et.al.|[2602.06780v1](http://arxiv.org/abs/2602.06780v1)|
+|2026-02-12|[Is Downlink Training Necessary for User-Centric Cell-Free RSMA Systems With Mobile Users?](http://arxiv.org/abs/2602.11891v2)<br/>*移动用户场景下以用户为中心的无蜂窝RSMA系统中下行训练的必要性*|Ravi Kiran Palla et.al.|[2602.11891v2](http://arxiv.org/abs/2602.11891v2)|
+|2026-02-11|[Generative AI-Driven Phase Control for RIS-Aided Cell-Free Massive MIMO Systems](http://arxiv.org/abs/2602.11226v1)<br/>*生成式人工智能驱动的RIS辅助无蜂窝大规模MIMO系统相位控制*|Kalpesh K. Patel et.al.|[2602.11226v1](http://arxiv.org/abs/2602.11226v1)|
+|2026-02-06|[Spectrum Coexistence, Network Dimensioning, and Cell-Free Architectures in 5G and 5G-Advanced Wireless Networks](http://arxiv.org/abs/2602.07270v1)<br/>*5G和5G-Advanced无线网络中的频谱共存、网络规模设计与无蜂窝架构*|Siminfar Samakoush Galougah et.al.|[2602.07270v1](http://arxiv.org/abs/2602.07270v1)|
+|2026-02-06|[UnifSrv: AP Selection for Achieving Uniformly Good Performance of CF-MIMO in Realistic Urban Networks](http://arxiv.org/abs/2602.06780v1)<br/>*UnifSrv：实际城市网络中实现无蜂窝MIMO均匀良好性能的接入点选择*|Yunlu Xiao et.al.|[2602.06780v1](http://arxiv.org/abs/2602.06780v1)|
 |2026-02-03|[Statistics Approximation-Enabled Distributed Beamforming for Cell-Free Massive MIMO](http://arxiv.org/abs/2602.03590v2)<br/>*统计近似使能的无蜂窝大规模MIMO分布式波束赋形*|Zhe Wang et.al.|[2602.03590v2](http://arxiv.org/abs/2602.03590v2)|
 
 ### 2026年01月
@@ -33,17 +33,17 @@
 | 发布日期 | 论文标题 | 第一作者 | PDF链接 |
 |:--------|:---------|:---------|:--------|
 |2026-01-28|[Sequential Processing Strategies in Fronthaul Constrained Cell-Free Massive MIMO Networks](http://arxiv.org/abs/2601.20721v1)<br/>*前传受限无蜂窝大规模MIMO网络中的序列处理策略*|Vida Ranjbar et.al.|[2601.20721v1](http://arxiv.org/abs/2601.20721v1)|
-|2026-01-27|[Master-Assisted Distributed Uplink Operation for Cell-Free Massive MIMO Networks](http://arxiv.org/abs/2601.19518v1)<br/>*主站辅助的无蜂窝大规模MIMO网络分布式上行操作*|Andreas Angelou et.al.|[2601.19518v1](http://arxiv.org/abs/2601.19518v1)|
-|2026-01-26|[A Heterogeneous Massive MIMO Technique for Uniform Service in Cellular Networks](http://arxiv.org/abs/2601.18298v1)<br/>*蜂窝网络中用于均匀服务的一种异构大规模MIMO技术*|Wei Jiang et.al.|[2601.18298v1](http://arxiv.org/abs/2601.18298v1)|
+|2026-01-27|[Master-Assisted Distributed Uplink Operation for Cell-Free Massive MIMO Networks](http://arxiv.org/abs/2601.19518v1)<br/>*主控辅助的无蜂窝大规模MIMO网络分布式上行操作*|Andreas Angelou et.al.|[2601.19518v1](http://arxiv.org/abs/2601.19518v1)|
+|2026-01-26|[A Heterogeneous Massive MIMO Technique for Uniform Service in Cellular Networks](http://arxiv.org/abs/2601.18298v1)<br/>*蜂窝网络中实现均匀服务的一种异构大规模MIMO技术*|Wei Jiang et.al.|[2601.18298v1](http://arxiv.org/abs/2601.18298v1)|
 |2026-01-24|[Study of Robust Power Allocation for User-Centric Cell-Free Massive MIMO Networks](http://arxiv.org/abs/2601.17632v1)<br/>*以用户为中心的无蜂窝大规模MIMO网络鲁棒功率分配研究*|Saeed Mashdour et.al.|[2601.17632v1](http://arxiv.org/abs/2601.17632v1)|
 |2026-01-23|[Load Balanced ISAC Systems for URLLC Users](http://arxiv.org/abs/2601.16495v1)<br/>*用于URLLC用户的负载均衡感知通信一体化系统*|Shivani Singh et.al.|[2601.16495v1](http://arxiv.org/abs/2601.16495v1)|
-|2026-01-21|[Experimental Performance of Bidirectional Phase Coherent Transmission and Sensing for mmWave Cell-free Massive MIMO Systems with Reciprocity Calibration](http://arxiv.org/abs/2601.14648v1)<br/>*具有互易性校准的毫米波无蜂窝大规模MIMO系统双向相位相干传输与感知实验性能*|Qingji Jiang et.al.|[2601.14648v1](http://arxiv.org/abs/2601.14648v1)|
+|2026-01-21|[Experimental Performance of Bidirectional Phase Coherent Transmission and Sensing for mmWave Cell-free Massive MIMO Systems with Reciprocity Calibration](http://arxiv.org/abs/2601.14648v1)<br/>*具有互易校准的毫米波无蜂窝大规模MIMO系统双向相位相干传输与感知实验性能*|Qingji Jiang et.al.|[2601.14648v1](http://arxiv.org/abs/2601.14648v1)|
 |2026-01-20|[Deep Reinforcement Learning-Based Dynamic Resource Allocation in Cell-Free Massive MIMO](http://arxiv.org/abs/2601.13934v2)<br/>*无蜂窝大规模MIMO中基于深度强化学习的动态资源分配*|Phuong Nam Tran et.al.|[2601.13934v2](http://arxiv.org/abs/2601.13934v2)|
-|2026-01-19|[Closed-loop Uplink Radio Resource Management in CF-O-RAN Empowered 5G Aerial Corridor](http://arxiv.org/abs/2601.12694v2)<br/>*CF-O-RAN赋能的5G空中走廊中闭环上行无线资源管理*|Manobendu Sarker et.al.|[2601.12694v2](http://arxiv.org/abs/2601.12694v2)|
-|2026-01-19|[Priority-Based Bandwidth Allocation in Network Slicing-Enabled Cell-Free Massive MIMO Systems](http://arxiv.org/abs/2601.12689v2)<br/>*网络切片使能的无蜂窝大规模MIMO系统中基于优先级的带宽分配*|Manobendu Sarker et.al.|[2601.12689v2](http://arxiv.org/abs/2601.12689v2)|
+|2026-01-19|[Closed-loop Uplink Radio Resource Management in CF-O-RAN Empowered 5G Aerial Corridor](http://arxiv.org/abs/2601.12694v2)<br/>*CF-O-RAN赋能的5G空中走廊中的闭环上行无线资源管理*|Manobendu Sarker et.al.|[2601.12694v2](http://arxiv.org/abs/2601.12694v2)|
+|2026-01-19|[Priority-Based Bandwidth Allocation in Network Slicing-Enabled Cell-Free Massive MIMO Systems](http://arxiv.org/abs/2601.12689v2)<br/>*网络切片使能的无蜂窝大规模MIMO系统中的基于优先级的带宽分配*|Manobendu Sarker et.al.|[2601.12689v2](http://arxiv.org/abs/2601.12689v2)|
 |2026-01-19|[Network Slicing Resource Management in Uplink User-Centric Cell-Free Massive MIMO Systems](http://arxiv.org/abs/2601.12687v2)<br/>*上行以用户为中心的无蜂窝大规模MIMO系统中的网络切片资源管理*|Manobendu Sarker et.al.|[2601.12687v2](http://arxiv.org/abs/2601.12687v2)|
-|2026-01-16|[Performance Analysis of Cell-Free Massive MIMO under Imperfect LoS Phase Tracking](http://arxiv.org/abs/2601.11179v1)<br/>*不完美视距相位跟踪下无蜂窝大规模MIMO的性能分析*|Noor Ul Ain et.al.|[2601.11179v1](http://arxiv.org/abs/2601.11179v1)|
-|2026-01-10|[Cell-Free Massive MIMO with Hardware-Impaired Wireless Fronthaul](http://arxiv.org/abs/2601.06486v2)<br/>*具有硬件受损无线前传的无蜂窝大规模MIMO*|Özlem Tuğfe Demir et.al.|[2601.06486v2](http://arxiv.org/abs/2601.06486v2)|
+|2026-01-16|[Performance Analysis of Cell-Free Massive MIMO under Imperfect LoS Phase Tracking](http://arxiv.org/abs/2601.11179v1)<br/>*不完美视距相位跟踪下的无蜂窝大规模MIMO性能分析*|Noor Ul Ain et.al.|[2601.11179v1](http://arxiv.org/abs/2601.11179v1)|
+|2026-01-10|[Cell-Free Massive MIMO with Hardware-Impaired Wireless Fronthaul](http://arxiv.org/abs/2601.06486v2)<br/>*具有硬件损伤无线前传的无蜂窝大规模MIMO*|Özlem Tuğfe Demir et.al.|[2601.06486v2](http://arxiv.org/abs/2601.06486v2)|
 |2026-01-10|[Joint Impact of ADC and Fronthaul Quantization in Cell-Free Massive MIMO-OFDM Uplink](http://arxiv.org/abs/2601.06483v1)<br/>*无蜂窝大规模MIMO-OFDM上行链路中模数转换器和前传量化的联合影响*|Özlem Tuğfe Demir et.al.|[2601.06483v1](http://arxiv.org/abs/2601.06483v1)|
 |2026-01-07|[Expectation Propagation for Distributed Inference in Grant-Free Cell-Free Massive MIMO](http://arxiv.org/abs/2601.04166v1)<br/>*免授权无蜂窝大规模MIMO中用于分布式推理的期望传播*|Christian Forsch et.al.|[2601.04166v1](http://arxiv.org/abs/2601.04166v1)|
 
@@ -52,8 +52,8 @@
 | 发布日期 | 论文标题 | 第一作者 | PDF链接 |
 |:--------|:---------|:---------|:--------|
 |2025-12-29|[Jamming Detection in Cell-Free MIMO with Dynamic Graphs](http://arxiv.org/abs/2601.06075v1)<br/>*具有动态图的无蜂窝MIMO中的干扰检测*|Ali Hossary et.al.|[2601.06075v1](http://arxiv.org/abs/2601.06075v1)|
-|2025-12-28|[User-Centric Cell-Free Massive MIMO Enhanced by Fluid-Antenna Access Points: Uplink Analysis](http://arxiv.org/abs/2512.23046v1)<br/>*流体天线接入点增强的以用户为中心的无蜂窝大规模MIMO：上行链路分析*|Maryam Olyaee et.al.|[2512.23046v1](http://arxiv.org/abs/2512.23046v1)|
-|2025-12-27|[Tree Meets Transformer: A Hybrid Architecture for Scalable Power Allocation in Cell-Free Networks](http://arxiv.org/abs/2512.22639v1)<br/>*树与Transformer的结合：无蜂窝网络中可扩展功率分配的混合架构*|Irched Chafaa et.al.|[2512.22639v1](http://arxiv.org/abs/2512.22639v1)|
+|2025-12-28|[User-Centric Cell-Free Massive MIMO Enhanced by Fluid-Antenna Access Points: Uplink Analysis](http://arxiv.org/abs/2512.23046v1)<br/>*流体天线接入点增强的以用户为中心的无蜂窝大规模MIMO：上行分析*|Maryam Olyaee et.al.|[2512.23046v1](http://arxiv.org/abs/2512.23046v1)|
+|2025-12-27|[Tree Meets Transformer: A Hybrid Architecture for Scalable Power Allocation in Cell-Free Networks](http://arxiv.org/abs/2512.22639v1)<br/>*树模型与Transformer结合：无蜂窝网络中可扩展功率分配的一种混合架构*|Irched Chafaa et.al.|[2512.22639v1](http://arxiv.org/abs/2512.22639v1)|
 |2025-12-20|[Downlink Power Allocation for STAR-RIS-Assisted Cell-Free Massive MIMO with Multi-antenna Users](http://arxiv.org/abs/2512.18359v1)<br/>*STAR-RIS辅助的带多天线用户的无蜂窝大规模MIMO下行功率分配*|Jun Qian et.al.|[2512.18359v1](http://arxiv.org/abs/2512.18359v1)|
 |2025-12-19|[Linear Attention for Joint Power Optimization and User-Centric Clustering in Cell-Free Networks](http://arxiv.org/abs/2512.17466v1)<br/>*线性注意力，用于无蜂窝网络中联合功率优化与以用户为中心的聚类*|Irched Chafaa et.al.|[2512.17466v1](http://arxiv.org/abs/2512.17466v1)|
 |2025-12-15|[Interference-Free RIS-Aided Cell-Free Massive MIMO with Physical Layer Security](http://arxiv.org/abs/2512.13243v1)<br/>*具有物理层安全的无干扰RIS辅助无蜂窝大规模MIMO*|Sumeyra Hassan et.al.|[2512.13243v1](http://arxiv.org/abs/2512.13243v1)|
