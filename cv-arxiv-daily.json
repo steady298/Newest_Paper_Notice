@@ -267,7 +267,7 @@
     "2512.22639": {
       "date": "2025-12-27",
       "title_en": "Tree Meets Transformer: A Hybrid Architecture for Scalable Power Allocation in Cell-Free Networks",
-      "title_cn": "树形结构与Transformer的结合：无蜂窝网络中可扩展功率分配的混合架构",
+      "title_cn": "树与Transformer的结合：无蜂窝网络中可扩展功率分配的混合架构",
       "author": "Irched Chafaa",
       "paper_id": "2512.22639v1",
       "paper_url": "http://arxiv.org/abs/2512.22639v1"
@@ -291,7 +291,7 @@
     "2601.06483": {
       "date": "2026-01-10",
       "title_en": "Joint Impact of ADC and Fronthaul Quantization in Cell-Free Massive MIMO-OFDM Uplink",
-      "title_cn": "无蜂窝大规模MIMO-OFDM上行链路中ADC和前传量化的联合影响",
+      "title_cn": "无蜂窝大规模MIMO-OFDM上行链路中模数转换器与前传量化的联合影响",
       "author": "Özlem Tuğfe Demir",
       "paper_id": "2601.06483v1",
       "paper_url": "http://arxiv.org/abs/2601.06483v1"
@@ -315,7 +315,7 @@
     "2601.13934": {
       "date": "2026-01-20",
       "title_en": "Deep Reinforcement Learning-Based Dynamic Resource Allocation in Cell-Free Massive MIMO",
-      "title_cn": "基于深度强化学习的无蜂窝大规模MIMO动态资源分配",
+      "title_cn": "无蜂窝大规模MIMO中基于深度强化学习的动态资源分配",
       "author": "Phuong Nam Tran",
       "paper_id": "2601.13934v2",
       "paper_url": "http://arxiv.org/abs/2601.13934v2"
@@ -347,7 +347,7 @@
     "2601.14648": {
       "date": "2026-01-21",
       "title_en": "Experimental Performance of Bidirectional Phase Coherent Transmission and Sensing for mmWave Cell-free Massive MIMO Systems with Reciprocity Calibration",
-      "title_cn": "具有互易性校准的毫米波无蜂窝大规模MIMO系统双向相干传输与感知实验性能",
+      "title_cn": "具有互易性校准的毫米波无蜂窝大规模MIMO系统双向相位相干传输与感知实验性能",
       "author": "Qingji Jiang",
       "paper_id": "2601.14648v1",
       "paper_url": "http://arxiv.org/abs/2601.14648v1"
@@ -355,7 +355,7 @@
     "2601.16495": {
       "date": "2026-01-23",
       "title_en": "Load Balanced ISAC Systems for URLLC Users",
-      "title_cn": "用于URLLC用户的负载均衡ISAC系统",
+      "title_cn": "用于URLLC用户的负载均衡感知与通信一体化系统",
       "author": "Shivani Singh",
       "paper_id": "2601.16495v1",
       "paper_url": "http://arxiv.org/abs/2601.16495v1"
@@ -363,7 +363,7 @@
     "2601.18298": {
       "date": "2026-01-26",
       "title_en": "A Heterogeneous Massive MIMO Technique for Uniform Service in Cellular Networks",
-      "title_cn": "蜂窝网络中实现均匀服务的一种异构大规模MIMO技术",
+      "title_cn": "蜂窝网络中用于均匀服务的一种异构大规模MIMO技术",
       "author": "Wei Jiang",
       "paper_id": "2601.18298v1",
       "paper_url": "http://arxiv.org/abs/2601.18298v1"
@@ -379,7 +379,7 @@
     "2601.19518": {
       "date": "2026-01-27",
       "title_en": "Master-Assisted Distributed Uplink Operation for Cell-Free Massive MIMO Networks",
-      "title_cn": "主站辅助的无蜂窝大规模MIMO网络分布式上行操作",
+      "title_cn": "主站辅助的无蜂窝大规模MIMO网络分布式上行链路操作",
       "author": "Andreas Angelou",
       "paper_id": "2601.19518v1",
       "paper_url": "http://arxiv.org/abs/2601.19518v1"
@@ -395,7 +395,7 @@
     "2602.03590": {
       "date": "2026-02-03",
       "title_en": "Statistics Approximation-Enabled Distributed Beamforming for Cell-Free Massive MIMO",
-      "title_cn": "基于统计近似的无蜂窝大规模MIMO分布式波束赋形",
+      "title_cn": "统计近似使能的无蜂窝大规模MIMO分布式波束赋形",
       "author": "Zhe Wang",
       "paper_id": "2602.03590v2",
       "paper_url": "http://arxiv.org/abs/2602.03590v2"
@@ -411,7 +411,7 @@
     "2602.06780": {
       "date": "2026-02-06",
       "title_en": "UnifSrv: AP Selection for Achieving Uniformly Good Performance of CF-MIMO in Realistic Urban Networks",
-      "title_cn": "UnifSrv：实际城市网络中实现无蜂窝大规模MIMO均匀良好性能的接入点选择",
+      "title_cn": "UnifSrv：在实际城市网络中实现无蜂窝MIMO均匀良好性能的接入点选择",
       "author": "Yunlu Xiao",
       "paper_id": "2602.06780v1",
       "paper_url": "http://arxiv.org/abs/2602.06780v1"
@@ -419,7 +419,7 @@
     "2602.11891": {
       "date": "2026-02-12",
       "title_en": "Is Downlink Training Necessary for User-Centric Cell-Free RSMA Systems With Mobile Users?",
-      "title_cn": "移动用户场景下，以用户为中心的无蜂窝RSMA系统是否需要下行训练？",
+      "title_cn": "针对移动用户的以用户为中心的无蜂窝RSMA系统是否需要下行训练？",
       "author": "Ravi Kiran Palla",
       "paper_id": "2602.11891v2",
       "paper_url": "http://arxiv.org/abs/2602.11891v2"
@@ -475,7 +475,7 @@
     "2602.18875": {
       "date": "2026-02-21",
       "title_en": "Channel-Correlation-Based Access Point Selection and Pilot Power Allocation for Cell-Free Massive MIMO",
-      "title_cn": "基于信道相关的无蜂窝大规模MIMO接入点选择与导频功率分配",
+      "title_cn": "基于信道相关性的无蜂窝大规模MIMO接入点选择与导频功率分配",
       "author": "Saeed Mohammadzadeh",
       "paper_id": "2602.18875v1",
       "paper_url": "http://arxiv.org/abs/2602.18875v1"
@@ -491,7 +491,7 @@
     "2602.20983": {
       "date": "2026-02-24",
       "title_en": "Cell-Free Massive MIMO-Assisted SWIPT Using Stacked Intelligent Metasurfaces",
-      "title_cn": "基于堆叠智能超表面的无蜂窝大规模MIMO辅助SWIPT",
+      "title_cn": "基于堆叠智能超表面的无蜂窝大规模MIMO辅助同步无线信息与功率传输",
       "author": "Thien Duc Hua",
       "paper_id": "2602.20983v1",
       "paper_url": "http://arxiv.org/abs/2602.20983v1"
