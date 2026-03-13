@@ -283,7 +283,7 @@
     "2601.06486": {
       "date": "2026-01-10",
       "title_en": "Cell-Free Massive MIMO with Hardware-Impaired Wireless Fronthaul",
-      "title_cn": "具有硬件受损无线前传的无蜂窝大规模MIMO",
+      "title_cn": "具有硬件损伤无线前传的无蜂窝大规模MIMO",
       "author": "Özlem Tuğfe Demir",
       "paper_id": "2601.06486v2",
       "paper_url": "http://arxiv.org/abs/2601.06486v2"
@@ -323,7 +323,7 @@
     "2601.12694": {
       "date": "2026-01-19",
       "title_en": "Closed-loop Uplink Radio Resource Management in CF-O-RAN Empowered 5G Aerial Corridor",
-      "title_cn": "无蜂窝开放无线接入网赋能的5G空中走廊闭环上行无线资源管理",
+      "title_cn": "无蜂窝开放无线接入网赋能的5G空中走廊中闭环上行无线资源管理",
       "author": "Manobendu Sarker",
       "paper_id": "2601.12694v2",
       "paper_url": "http://arxiv.org/abs/2601.12694v2"
@@ -339,7 +339,7 @@
     "2601.12687": {
       "date": "2026-01-19",
       "title_en": "Network Slicing Resource Management in Uplink User-Centric Cell-Free Massive MIMO Systems",
-      "title_cn": "上行以用户为中心的无蜂窝大规模MIMO系统网络切片资源管理",
+      "title_cn": "上行以用户为中心的无蜂窝大规模MIMO系统中网络切片资源管理",
       "author": "Manobendu Sarker",
       "paper_id": "2601.12687v2",
       "paper_url": "http://arxiv.org/abs/2601.12687v2"
@@ -371,7 +371,7 @@
     "2601.17632": {
       "date": "2026-01-24",
       "title_en": "Study of Robust Power Allocation for User-Centric Cell-Free Massive MIMO Networks",
-      "title_cn": "以用户为中心的无蜂窝大规模MIMO网络鲁棒功率分配研究",
+      "title_cn": "以用户为中心的无蜂窝大规模MIMO网络中鲁棒功率分配研究",
       "author": "Saeed Mashdour",
       "paper_id": "2601.17632v1",
       "paper_url": "http://arxiv.org/abs/2601.17632v1"
@@ -379,7 +379,7 @@
     "2601.19518": {
       "date": "2026-01-27",
       "title_en": "Master-Assisted Distributed Uplink Operation for Cell-Free Massive MIMO Networks",
-      "title_cn": "主站辅助的无蜂窝大规模MIMO网络分布式上行操作",
+      "title_cn": "无蜂窝大规模MIMO网络中主站辅助的分布式上行操作",
       "author": "Andreas Angelou",
       "paper_id": "2601.19518v1",
       "paper_url": "http://arxiv.org/abs/2601.19518v1"
@@ -395,7 +395,7 @@
     "2602.03590": {
       "date": "2026-02-03",
       "title_en": "Statistics Approximation-Enabled Distributed Beamforming for Cell-Free Massive MIMO",
-      "title_cn": "基于统计近似的无蜂窝大规模MIMO分布式波束赋形",
+      "title_cn": "无蜂窝大规模MIMO中统计近似使能的分布式波束赋形",
       "author": "Zhe Wang",
       "paper_id": "2602.03590v2",
       "paper_url": "http://arxiv.org/abs/2602.03590v2"
@@ -411,7 +411,7 @@
     "2602.06780": {
       "date": "2026-02-06",
       "title_en": "UnifSrv: AP Selection for Achieving Uniformly Good Performance of CF-MIMO in Realistic Urban Networks",
-      "title_cn": "UnifSrv：在实际城市网络中实现无蜂窝大规模MIMO均匀良好性能的接入点选择",
+      "title_cn": "UnifSrv：在实际城市网络中实现无蜂窝MIMO均匀良好性能的接入点选择",
       "author": "Yunlu Xiao",
       "paper_id": "2602.06780v1",
       "paper_url": "http://arxiv.org/abs/2602.06780v1"
@@ -419,7 +419,7 @@
     "2602.11891": {
       "date": "2026-02-12",
       "title_en": "Is Downlink Training Necessary for User-Centric Cell-Free RSMA Systems With Mobile Users?",
-      "title_cn": "移动用户场景下，以用户为中心的无蜂窝速率分裂多址接入系统是否需要下行训练？",
+      "title_cn": "针对移动用户的以用户为中心的无蜂窝速率分裂多址系统是否需要下行训练？",
       "author": "Ravi Kiran Palla",
       "paper_id": "2602.11891v2",
       "paper_url": "http://arxiv.org/abs/2602.11891v2"
@@ -427,7 +427,7 @@
     "2602.11226": {
       "date": "2026-02-11",
       "title_en": "Generative AI-Driven Phase Control for RIS-Aided Cell-Free Massive MIMO Systems",
-      "title_cn": "生成式AI驱动的可重构智能表面辅助无蜂窝大规模MIMO系统相位控制",
+      "title_cn": "可重构智能表面辅助无蜂窝大规模MIMO系统中生成式AI驱动的相位控制",
       "author": "Kalpesh K. Patel",
       "paper_id": "2602.11226v1",
       "paper_url": "http://arxiv.org/abs/2602.11226v1"
@@ -435,7 +435,7 @@
     "2602.12841": {
       "date": "2026-02-13",
       "title_en": "EARL: Energy-Aware Adaptive Antenna Control with Reinforcement Learning in O-RAN Cell-Free Massive MIMO Networks",
-      "title_cn": "EARL：O-RAN无蜂窝大规模MIMO网络中基于强化学习的能量感知自适应天线控制",
+      "title_cn": "EARL：开放无线接入网无蜂窝大规模MIMO网络中基于强化学习的能量感知自适应天线控制",
       "author": "Zilin Ge",
       "paper_id": "2602.12841v1",
       "paper_url": "http://arxiv.org/abs/2602.12841v1"
@@ -475,7 +475,7 @@
     "2602.18875": {
       "date": "2026-02-21",
       "title_en": "Channel-Correlation-Based Access Point Selection and Pilot Power Allocation for Cell-Free Massive MIMO",
-      "title_cn": "基于信道相关性的无蜂窝大规模MIMO接入点选择与导频功率分配",
+      "title_cn": "无蜂窝大规模MIMO中基于信道相关性的接入点选择与导频功率分配",
       "author": "Saeed Mohammadzadeh",
       "paper_id": "2602.18875v1",
       "paper_url": "http://arxiv.org/abs/2602.18875v1"
@@ -491,7 +491,7 @@
     "2602.20983": {
       "date": "2026-02-24",
       "title_en": "Cell-Free Massive MIMO-Assisted SWIPT Using Stacked Intelligent Metasurfaces",
-      "title_cn": "基于堆叠智能超表面的无蜂窝大规模MIMO辅助同步无线信息与功率传输",
+      "title_cn": "基于堆叠智能超表面的无蜂窝大规模MIMO辅助无线信息与功率同步传输",
       "author": "Thien Duc Hua",
       "paper_id": "2602.20983v1",
       "paper_url": "http://arxiv.org/abs/2602.20983v1"
@@ -499,7 +499,7 @@
     "2602.24018": {
       "date": "2026-02-27",
       "title_en": "Master-Assisted Channel Estimation for Cell-Free Massive MIMO Networks",
-      "title_cn": "主站辅助的无蜂窝大规模MIMO网络信道估计",
+      "title_cn": "无蜂窝大规模MIMO网络中主站辅助的信道估计",
       "author": "Andreas Angelou",
       "paper_id": "2602.24018v1",
       "paper_url": "http://arxiv.org/abs/2602.24018v1"
@@ -507,7 +507,7 @@
     "2603.03948": {
       "date": "2026-03-04",
       "title_en": "Distributed vs. Centralized Precoding in Cell-Free Systems: Impact of Realistic Per-AP Power Limits",
-      "title_cn": "无蜂窝系统中分布式与集中式预编码：实际每接入点功率限制的影响",
+      "title_cn": "无蜂窝系统中分布式与集中式预编码：实际单接入点功率限制的影响",
       "author": "Wei Jiang",
       "paper_id": "2603.03948v1",
       "paper_url": "http://arxiv.org/abs/2603.03948v1"
@@ -515,7 +515,7 @@
     "2603.08962": {
       "date": "2026-03-09",
       "title_en": "Mitigation of UE Antenna Calibration Errors via Differential STBC in Cell-Free Massive MIMO",
-      "title_cn": "无蜂窝大规模MIMO中通过差分空时分组编码缓解用户设备天线校准误差",
+      "title_cn": "无蜂窝大规模MIMO中基于差分空时分组编码的用户设备天线校准误差缓解",
       "author": "Marx M. M. Freitas",
       "paper_id": "2603.08962v1",
       "paper_url": "http://arxiv.org/abs/2603.08962v1"
