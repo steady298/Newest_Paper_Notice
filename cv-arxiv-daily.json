@@ -355,7 +355,7 @@
     "2601.16495": {
       "date": "2026-01-23",
       "title_en": "Load Balanced ISAC Systems for URLLC Users",
-      "title_cn": "用于URLLC用户的负载均衡感知与通信一体化系统",
+      "title_cn": "用于超可靠低时延通信用户的负载均衡感知通信一体化系统",
       "author": "Shivani Singh",
       "paper_id": "2601.16495v1",
       "paper_url": "http://arxiv.org/abs/2601.16495v1"
@@ -363,7 +363,7 @@
     "2601.18298": {
       "date": "2026-01-26",
       "title_en": "A Heterogeneous Massive MIMO Technique for Uniform Service in Cellular Networks",
-      "title_cn": "用于蜂窝网络中统一服务的一种异构大规模MIMO技术",
+      "title_cn": "一种用于蜂窝网络中均匀服务的异构大规模MIMO技术",
       "author": "Wei Jiang",
       "paper_id": "2601.18298v1",
       "paper_url": "http://arxiv.org/abs/2601.18298v1"
@@ -411,7 +411,7 @@
     "2602.06780": {
       "date": "2026-02-06",
       "title_en": "UnifSrv: AP Selection for Achieving Uniformly Good Performance of CF-MIMO in Realistic Urban Networks",
-      "title_cn": "UnifSrv：在真实城市网络中实现无蜂窝MIMO均匀良好性能的AP选择",
+      "title_cn": "UnifSrv：在实际城市网络中实现无蜂窝大规模MIMO均匀良好性能的AP选择",
       "author": "Yunlu Xiao",
       "paper_id": "2602.06780v1",
       "paper_url": "http://arxiv.org/abs/2602.06780v1"
@@ -419,7 +419,7 @@
     "2602.11891": {
       "date": "2026-02-12",
       "title_en": "Is Downlink Training Necessary for User-Centric Cell-Free RSMA Systems With Mobile Users?",
-      "title_cn": "对于具有移动用户的以用户为中心的无蜂窝RSMA系统，下行训练是否必要？",
+      "title_cn": "对于具有移动用户的以用户为中心的无蜂窝速率分裂多址系统，下行训练是否必要？",
       "author": "Ravi Kiran Palla",
       "paper_id": "2602.11891v2",
       "paper_url": "http://arxiv.org/abs/2602.11891v2"
@@ -435,7 +435,7 @@
     "2602.12841": {
       "date": "2026-02-13",
       "title_en": "EARL: Energy-Aware Adaptive Antenna Control with Reinforcement Learning in O-RAN Cell-Free Massive MIMO Networks",
-      "title_cn": "EARL：开放无线接入网络无蜂窝大规模MIMO网络中基于强化学习的能量感知自适应天线控制",
+      "title_cn": "EARL：O-RAN无蜂窝大规模MIMO网络中基于强化学习的能量感知自适应天线控制",
       "author": "Zilin Ge",
       "paper_id": "2602.12841v1",
       "paper_url": "http://arxiv.org/abs/2602.12841v1"
@@ -443,7 +443,7 @@
     "2602.16546": {
       "date": "2026-02-18",
       "title_en": "Failure-Aware Access Point Selection for Resilient Cell-Free Massive MIMO Networks",
-      "title_cn": "用于弹性无蜂窝大规模MIMO网络的故障感知AP选择",
+      "title_cn": "用于弹性无蜂窝大规模MIMO网络的故障感知接入点选择",
       "author": "Mostafa Rahmani Ghourtani",
       "paper_id": "2602.16546v1",
       "paper_url": "http://arxiv.org/abs/2602.16546v1"
@@ -459,7 +459,7 @@
     "2602.17954": {
       "date": "2026-02-20",
       "title_en": "Graph-Neural Multi-Agent Coordination for Distributed Access-Point Selection in Cell-Free Massive MIMO",
-      "title_cn": "用于无蜂窝大规模MIMO中分布式AP选择的图神经网络多智能体协同",
+      "title_cn": "用于无蜂窝大规模MIMO中分布式接入点选择的图神经网络多智能体协同",
       "author": "Mohammad Zangooei",
       "paper_id": "2602.17954v1",
       "paper_url": "http://arxiv.org/abs/2602.17954v1"
@@ -467,7 +467,7 @@
     "2602.18901": {
       "date": "2026-02-21",
       "title_en": "A Spatial Similarity-Guided Pilot Assignment and Access Point Selection for Cell-Free Massive MIMO Networks",
-      "title_cn": "用于无蜂窝大规模MIMO网络的一种空间相似性引导的导频分配和AP选择",
+      "title_cn": "一种用于无蜂窝大规模MIMO网络的空间相似性引导导频分配和接入点选择",
       "author": "Saeed Mohammadzadeh",
       "paper_id": "2602.18901v1",
       "paper_url": "http://arxiv.org/abs/2602.18901v1"
@@ -475,7 +475,7 @@
     "2602.18875": {
       "date": "2026-02-21",
       "title_en": "Channel-Correlation-Based Access Point Selection and Pilot Power Allocation for Cell-Free Massive MIMO",
-      "title_cn": "用于无蜂窝大规模MIMO的基于信道相关的AP选择和导频功率分配",
+      "title_cn": "用于无蜂窝大规模MIMO的基于信道相关性的接入点选择和导频功率分配",
       "author": "Saeed Mohammadzadeh",
       "paper_id": "2602.18875v1",
       "paper_url": "http://arxiv.org/abs/2602.18875v1"
@@ -507,7 +507,7 @@
     "2603.03948": {
       "date": "2026-03-04",
       "title_en": "Distributed vs. Centralized Precoding in Cell-Free Systems: Impact of Realistic Per-AP Power Limits",
-      "title_cn": "无蜂窝系统中的分布式与集中式预编码：实际每个AP功率限制的影响",
+      "title_cn": "无蜂窝系统中的分布式与集中式预编码：实际每AP功率限制的影响",
       "author": "Wei Jiang",
       "paper_id": "2603.03948v1",
       "paper_url": "http://arxiv.org/abs/2603.03948v1"
@@ -515,7 +515,7 @@
     "2603.08962": {
       "date": "2026-03-09",
       "title_en": "Mitigation of UE Antenna Calibration Errors via Differential STBC in Cell-Free Massive MIMO",
-      "title_cn": "通过无蜂窝大规模MIMO中的差分空时分组码缓解用户设备天线校准误差",
+      "title_cn": "通过差分空时分组码缓解无蜂窝大规模MIMO中的用户设备天线校准误差",
       "author": "Marx M. M. Freitas",
       "paper_id": "2603.08962v1",
       "paper_url": "http://arxiv.org/abs/2603.08962v1"
@@ -523,7 +523,7 @@
     "2603.18635": {
       "date": "2026-03-19",
       "title_en": "Secure Cell-Free Massive MIMO ISAC Systems: Joint AP Selection and Power Allocation Against Eavesdropping",
-      "title_cn": "安全无蜂窝大规模MIMO感知与通信一体化系统：抗窃听的联合AP选择与功率分配",
+      "title_cn": "安全无蜂窝大规模MIMO感知通信一体化系统：对抗窃听的联合AP选择和功率分配",
       "author": "Ruiguang Wang",
       "paper_id": "2603.18635v1",
       "paper_url": "http://arxiv.org/abs/2603.18635v1"
@@ -539,7 +539,7 @@
     "2603.27853": {
       "date": "2026-03-29",
       "title_en": "Fronthaul Network Planning for Hierarchical and Radio-Stripes-Enabled CF-mMIMO in O-RAN",
-      "title_cn": "开放无线接入网络中分层和无线条带使能的无蜂窝大规模MIMO前传网络规划",
+      "title_cn": "O-RAN中分层和无线电条带使能的无蜂窝大规模MIMO前传网络规划",
       "author": "Anas S. Mohammed",
       "paper_id": "2603.27853v1",
       "paper_url": "http://arxiv.org/abs/2603.27853v1"
@@ -555,7 +555,7 @@
     "2604.04073": {
       "date": "2026-04-05",
       "title_en": "Unlocking the Energy-Saving Potential in O-RAN Cell-Free Massive MIMO by Joint Orchestration of Radio, Wireless Fronthaul, and Cloud Resources",
-      "title_cn": "通过无线、无线前传和云资源的联合编排释放开放无线接入网络无蜂窝大规模MIMO的节能潜力",
+      "title_cn": "通过无线电、无线前传和云资源的联合编排释放O-RAN无蜂窝大规模MIMO的节能潜力",
       "author": "Ozan Alp Topal",
       "paper_id": "2604.04073v1",
       "paper_url": "http://arxiv.org/abs/2604.04073v1"
@@ -571,7 +571,7 @@
     "2604.06657": {
       "date": "2026-04-08",
       "title_en": "Network-Wide PAoI Guarantee in CF-mMIMO Networks with S&C Coexistence: A Unified Framework for Spatial Partitioning Toward xURLLC",
-      "title_cn": "感知与通信共存的无蜂窝大规模MIMO网络中的全网络信息峰值年龄保证：一种面向极致超可靠低时延通信的空间划分统一框架",
+      "title_cn": "具有感知与通信共存的无蜂窝大规模MIMO网络中的全网络范围信息峰值年龄保证：一种面向扩展超可靠低时延通信的空间划分统一框架",
       "author": "Yanxi Zhang",
       "paper_id": "2604.06657v1",
       "paper_url": "http://arxiv.org/abs/2604.06657v1"
@@ -579,7 +579,7 @@
     "2604.11604": {
       "date": "2026-04-13",
       "title_en": "Network-Assisted Full-Duplex Cell-Free Massive MIMO Systems Under Infeasible Circumstances",
-      "title_cn": "不可行条件下的网络辅助全双工无蜂窝大规模MIMO系统",
+      "title_cn": "网络辅助全双工无蜂窝大规模MIMO系统在不可行条件下的研究",
       "author": "Trinh Van Chien",
       "paper_id": "2604.11604v1",
       "paper_url": "http://arxiv.org/abs/2604.11604v1"
