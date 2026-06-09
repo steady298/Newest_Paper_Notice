@@ -430,8 +430,8 @@ def json_to_html(filename):
 <body>
     <div class="container">
         <div class="header">
-            <h1>📚 Cell-free Massive MIMO 论文追踪</h1>
-            <div class="subtitle">自动追踪 arXiv 上关于无蜂窝式大规模 MIMO 领域的最新论文</div>
+            <h1>📚  曲面RIS 论文追踪</h1>
+            <div class="subtitle">自动追踪 arXiv 上关于曲面RIS领域的最新论文</div>
             <div class="update-time">最后更新: {DateNow_display}</div>
         </div>
         
