@@ -114,9 +114,9 @@ def json_to_md(filename):
     # clean README.md if daily already exist else create it
     with open(md_filename, "w+", encoding='utf-8') as f:
         # 写入标题和介绍
-        f.write("# Cell-free Massive MIMO 论文追踪\n\n")
+        f.write("# 曲面RIS 论文追踪\n\n")
         f.write(f"**最后更新**: {DateNow_display}\n\n")
-        f.write("本文档自动追踪 arXiv 上关于无蜂窝式大规模 MIMO (Cell-free Massive MIMO) 领域的最新论文。\n\n")
+        f.write("本文档自动追踪 arXiv 上关于曲面RIS相关领域的最新论文。\n\n")
         f.write("---\n\n")
     
     # write data into README.md
