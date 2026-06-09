@@ -427,7 +427,7 @@
     "2602.11226": {
       "date": "2026-02-11",
       "title_en": "Generative AI-Driven Phase Control for RIS-Aided Cell-Free Massive MIMO Systems",
-      "title_cn": "生成式人工智能驱动的RIS辅助无蜂窝大规模MIMO系统相位控制",
+      "title_cn": "生成式AI驱动的RIS辅助无蜂窝大规模MIMO系统相位控制",
       "author": "Kalpesh K. Patel",
       "paper_id": "2602.11226v1",
       "paper_url": "http://arxiv.org/abs/2602.11226v1"
@@ -595,7 +595,7 @@
     "2604.17634": {
       "date": "2026-04-19",
       "title_en": "RIS-Assisted Cell-Free Massive MIMO: RIS-MS Selection in FR1 and FR3",
-      "title_cn": "RIS辅助无蜂窝大规模MIMO：FR1和FR3频段中的RIS-MS选择",
+      "title_cn": "RIS辅助无蜂窝大规模MIMO：FR1和FR3中的RIS-MS选择",
       "author": "Alejandro de la Fuente",
       "paper_id": "2604.17634v1",
       "paper_url": "http://arxiv.org/abs/2604.17634v1"
@@ -731,7 +731,7 @@
     "2605.16129": {
       "date": "2026-05-15",
       "title_en": "IoT and Massive Connectivity: Massive MIMO Optimization for IoT Connectivity in 5G and Beyond Networks",
-      "title_cn": "物联网与海量连接：5G及未来网络中面向物联网连接的大规模MIMO优化",
+      "title_cn": "物联网与大规模连接：5G及未来网络中物联网连接的大规模MIMO优化",
       "author": "Praveen Hegde",
       "paper_id": "2605.16129v1",
       "paper_url": "http://arxiv.org/abs/2605.16129v1"
@@ -739,7 +739,7 @@
     "2605.16006": {
       "date": "2026-05-15",
       "title_en": "Reciprocal Beyond Diagonal Reconfigurable Intelligent Surface: Distributed Scattering Matrix Design and MIMO Beamforming via Fractional Programming and Manifold Optimization",
-      "title_cn": "互易超对角可重构智能表面：基于分数规划与流形优化的分布式散射矩阵设计与MIMO波束成形",
+      "title_cn": "互易超对角可重构智能表面：基于分数规划和流形优化的分布式散射矩阵设计与MIMO波束赋形",
       "author": "Iván Alexander Morales Sandoval",
       "paper_id": "2605.16006v1",
       "paper_url": "http://arxiv.org/abs/2605.16006v1"
