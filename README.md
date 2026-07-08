@@ -1,6 +1,6 @@
 # 曲面RIS 论文追踪
 
-**最后更新**: 2026年07月02日
+**最后更新**: 2026年07月08日
 
 本文档自动追踪 arXiv 上关于曲面RIS相关领域的最新论文。
 
@@ -33,41 +33,46 @@
 
 ## RIS
 
-**总计**: 49 篇论文
+**总计**: 54 篇论文
 
 ### 2026年07月
 
 | 发布日期 | 论文标题 | 第一作者 | PDF链接 |
 |:--------|:---------|:---------|:--------|
-|2026-07-01|[Performance Evaluation of A Certain Transceiver Architecture for Multiple-Input Multiple-Output Phase-Modulated Channels](http://arxiv.org/abs/2607.00356v1)<br/>*某种收发器架构在多输入多输出相位调制信道中的性能评估*|Hengyu Cui et.al.|[2607.00356v1](http://arxiv.org/abs/2607.00356v1)|
+|2026-07-07|[Rydberg Atomic Quantum Radio: A Comprehensive Survey From Wireless Communication Perspective](http://arxiv.org/abs/2607.05931v1)<br/>*里德堡原子量子无线电：从无线通信角度的全面综述*|Yiyue Xiang et.al.|[2607.05931v1](http://arxiv.org/abs/2607.05931v1)|
+|2026-07-06|[Energy Efficiency Maximization for Hybrid RIS-Aided Communications via Deep Unfolding](http://arxiv.org/abs/2607.04889v1)<br/>*基于深度展开的混合RIS辅助通信能量效率最大化*|Pouya Mobaraki et.al.|[2607.04889v1](http://arxiv.org/abs/2607.04889v1)|
+|2026-07-03|[STAR-RIS-Assisted Integrated Sensing, Secure Communication, and Power Transfer: A Transmit Power Minimization Framework](http://arxiv.org/abs/2607.03637v1)<br/>*STAR-RIS辅助的集成感知、安全通信与能量传输：一种发射功率最小化框架*|Ling He et.al.|[2607.03637v1](http://arxiv.org/abs/2607.03637v1)|
+|2026-07-03|[Ambient IoT Backscatter Devices as Passive Anchors for NLOS Cellular Positioning: Fundamental Limits](http://arxiv.org/abs/2607.03459v1)<br/>*环境物联网反向散射设备作为非视距蜂窝定位的无源锚点：基本极限*|Hüseyin Yiğitler et.al.|[2607.03459v1](http://arxiv.org/abs/2607.03459v1)|
+|2026-07-02|[Robust Transmission Design for RIS-Assisted RSMA-SWIPT Systems With Movable Antennas Under Hardware Distortions](http://arxiv.org/abs/2607.02384v1)<br/>*硬件失真下可移动天线RIS辅助RSMA-SWIPT系统的鲁棒传输设计*|Muhammad Asif et.al.|[2607.02384v1](http://arxiv.org/abs/2607.02384v1)|
+|2026-07-01|[Performance Evaluation of A Certain Transceiver Architecture for Multiple-Input Multiple-Output Phase-Modulated Channels](http://arxiv.org/abs/2607.00356v1)<br/>*多输入多输出相位调制信道中某种收发机架构的性能评估*|Hengyu Cui et.al.|[2607.00356v1](http://arxiv.org/abs/2607.00356v1)|
 
 ### 2026年06月
 
 | 发布日期 | 论文标题 | 第一作者 | PDF链接 |
 |:--------|:---------|:---------|:--------|
 |2026-06-30|[Decision Feedback Differential Detection for Reconfigurable Intelligent Surfaces](http://arxiv.org/abs/2607.00121v1)<br/>*可重构智能表面中的判决反馈差分检测*|Jiawei Qiu et.al.|[2607.00121v1](http://arxiv.org/abs/2607.00121v1)|
-|2026-06-30|[Active Sensing for RIS-Aided Tracking and Power Control: A Hybrid Neuroevolution and Supervised Learning Approach](http://arxiv.org/abs/2607.00056v1)<br/>*RIS辅助跟踪与功率控制中的主动感知：一种混合神经进化与监督学习方法*|George Stamatelis et.al.|[2607.00056v1](http://arxiv.org/abs/2607.00056v1)|
+|2026-06-30|[Active Sensing for RIS-Aided Tracking and Power Control: A Hybrid Neuroevolution and Supervised Learning Approach](http://arxiv.org/abs/2607.00056v2)<br/>*RIS辅助跟踪与功率控制中的主动感知：一种混合神经进化与监督学习方法*|George Stamatelis et.al.|[2607.00056v2](http://arxiv.org/abs/2607.00056v2)|
 |2026-06-29|[CALO: Constraint-Aware Learning Optimization for Joint Resource Allocation in Double-Active RIS-Assisted Wireless Networks](http://arxiv.org/abs/2606.30803v1)<br/>*CALO：双主动RIS辅助无线网络中联合资源分配的约束感知学习优化*|Alaa S. Arabiyat et.al.|[2606.30803v1](http://arxiv.org/abs/2606.30803v1)|
-|2026-06-27|[Communication-Centric RIS-Assisted ISAC: Signal Modeling and BER Analysis](http://arxiv.org/abs/2606.28924v1)<br/>*以通信为中心的RIS辅助感知通信一体化：信号建模与误码率分析*|Yosefine Triwidyastuti et.al.|[2606.28924v1](http://arxiv.org/abs/2606.28924v1)|
+|2026-06-27|[Communication-Centric RIS-Assisted ISAC: Signal Modeling and BER Analysis](http://arxiv.org/abs/2606.28924v1)<br/>*以通信为中心的RIS辅助ISAC：信号建模与误码率分析*|Yosefine Triwidyastuti et.al.|[2606.28924v1](http://arxiv.org/abs/2606.28924v1)|
 |2026-06-27|[A Survey of Physical-layer Authentication Enhanced by Emerging Spatial Domain Technologies](http://arxiv.org/abs/2606.28807v1)<br/>*新兴空间域技术增强的物理层认证综述*|Yuhao Chen et.al.|[2606.28807v1](http://arxiv.org/abs/2606.28807v1)|
 |2026-06-25|[RIS-Assisted Proactive Handover for Reliable mmWave Wireless Networks](http://arxiv.org/abs/2606.26885v1)<br/>*RIS辅助的可靠毫米波无线网络主动切换*|Alaa Adnan et.al.|[2606.26885v1](http://arxiv.org/abs/2606.26885v1)|
-|2026-06-25|[An Experimental Assessment of the Spatial and Frequency Selectivity of Reconfigurable Intelligent Surfaces](http://arxiv.org/abs/2606.26808v1)<br/>*可重构智能表面的空间和频率选择性实验评估*|Cyrille Morin et.al.|[2606.26808v1](http://arxiv.org/abs/2606.26808v1)|
+|2026-06-25|[An Experimental Assessment of the Spatial and Frequency Selectivity of Reconfigurable Intelligent Surfaces](http://arxiv.org/abs/2606.26808v1)<br/>*可重构智能表面空间与频率选择性的实验评估*|Cyrille Morin et.al.|[2606.26808v1](http://arxiv.org/abs/2606.26808v1)|
 |2026-06-23|[Offline Channel-Independent QAOA Angles for RIS Power Aggregation: Unit-Circle Phase Dictionaries and Infinite-Size Spin-Glass Limits](http://arxiv.org/abs/2606.24540v1)<br/>*用于RIS功率聚合的离线信道无关QAOA角度：单位圆相位字典与无限尺寸自旋玻璃极限*|Burhan Gulbahar et.al.|[2606.24540v1](http://arxiv.org/abs/2606.24540v1)|
 |2026-06-20|[Joint Visibility Analysis of RIS in Non-Terrestrial Networks through Stochastic Geometry](http://arxiv.org/abs/2606.21946v1)<br/>*基于随机几何的非地面网络中RIS联合可见性分析*|Ashutosh Balakrishnan et.al.|[2606.21946v1](http://arxiv.org/abs/2606.21946v1)|
-|2026-06-18|[Reliable ORIS-assisted FSO Communications via HARQ](http://arxiv.org/abs/2606.20222v1)<br/>*基于HARQ的可靠ORIS辅助自由空间光通信*|Georgios D. Chondrogiannis et.al.|[2606.20222v1](http://arxiv.org/abs/2606.20222v1)|
-|2026-06-17|[Beamforming and RIS-Aided Ambient Backscatter Communications with Residual-Feature SVM Detection](http://arxiv.org/abs/2606.20741v1)<br/>*采用残余特征支持向量机检测的波束赋形与RIS辅助环境反向散射通信*|Aobakwe Makgarapa et.al.|[2606.20741v1](http://arxiv.org/abs/2606.20741v1)|
-|2026-06-16|[Exploiting RIS Optimization Limits for Multi-User Beamforming and Signal Suppression](http://arxiv.org/abs/2606.17484v1)<br/>*探索RIS优化极限以实现多用户波束赋形和信号抑制*|Subham Sabud et.al.|[2606.17484v1](http://arxiv.org/abs/2606.17484v1)|
-|2026-06-12|[Prototype-Aware Fundamental Electromagnetic Limits on Wavefront Synthesis with Programmable Metasurfaces](http://arxiv.org/abs/2606.14944v1)<br/>*采用可编程超表面进行波前合成的原型感知基本电磁极限*|Philipp del Hougne et.al.|[2606.14944v1](http://arxiv.org/abs/2606.14944v1)|
+|2026-06-18|[Reliable ORIS-assisted FSO Communications via HARQ](http://arxiv.org/abs/2606.20222v1)<br/>*通过HARQ实现可靠的ORIS辅助FSO通信*|Georgios D. Chondrogiannis et.al.|[2606.20222v1](http://arxiv.org/abs/2606.20222v1)|
+|2026-06-17|[Beamforming and RIS-Aided Ambient Backscatter Communications with Residual-Feature SVM Detection](http://arxiv.org/abs/2606.20741v1)<br/>*基于残余特征SVM检测的波束赋形与RIS辅助环境反向散射通信*|Aobakwe Makgarapa et.al.|[2606.20741v1](http://arxiv.org/abs/2606.20741v1)|
+|2026-06-16|[Exploiting RIS Optimization Limits for Multi-User Beamforming and Signal Suppression](http://arxiv.org/abs/2606.17484v1)<br/>*探索RIS优化极限以实现多用户波束赋形与信号抑制*|Subham Sabud et.al.|[2606.17484v1](http://arxiv.org/abs/2606.17484v1)|
+|2026-06-12|[Prototype-Aware Fundamental Electromagnetic Limits on Wavefront Synthesis with Programmable Metasurfaces](http://arxiv.org/abs/2606.14944v1)<br/>*可编程超表面波前合成的原型感知基本电磁极限*|Philipp del Hougne et.al.|[2606.14944v1](http://arxiv.org/abs/2606.14944v1)|
 |2026-06-12|[Implications of the Reciprocity Theorem for Reconfigurable Intelligent Surfaces](http://arxiv.org/abs/2606.14486v1)<br/>*互易定理对可重构智能表面的启示*|Uday K Khankhoje et.al.|[2606.14486v1](http://arxiv.org/abs/2606.14486v1)|
-|2026-06-10|[Maximizing Connectivity of Uplink RIS-Assisted UAV Networks](http://arxiv.org/abs/2606.11523v1)<br/>*上行RIS辅助无人机网络连接性最大化*|Mohammed Saif et.al.|[2606.11523v1](http://arxiv.org/abs/2606.11523v1)|
-|2026-06-09|[Joint Movable Antenna Positioning and RIS Partitioning for Sum-Rate Maximization](http://arxiv.org/abs/2606.11519v1)<br/>*用于和速率最大化的联合可移动天线定位与RIS分区*|Mohammed Saif et.al.|[2606.11519v1](http://arxiv.org/abs/2606.11519v1)|
-|2026-06-08|[Optimal Illumination via Joint Movement and Phase Optimization for Movable Antenna-RIS Configuration](http://arxiv.org/abs/2606.10190v1)<br/>*针对可移动天线-RIS配置的联合移动与相位优化实现最佳照明*|Yan Zhang et.al.|[2606.10190v1](http://arxiv.org/abs/2606.10190v1)|
-|2026-06-07|[Non-Uniform Codebook Design for Optical IRS-Assisted VLC Systems](http://arxiv.org/abs/2606.08774v1)<br/>*光学IRS辅助可见光系统中的非均匀码本设计*|Rashid Iqbal et.al.|[2606.08774v1](http://arxiv.org/abs/2606.08774v1)|
-|2026-06-05|[A Novel Stripe-based RIS Optimization for UAV Communications and Sensing in Low-Altitude Wireless Networks](http://arxiv.org/abs/2606.07026v1)<br/>*低空无线网络中用于无人机通信与感知的一种新颖条带式RIS优化*|Burak Ahmet Celebi et.al.|[2606.07026v1](http://arxiv.org/abs/2606.07026v1)|
-|2026-06-05|[Weighted Sum-Rate Enhancement for Flexible Intelligent Metasurface-Assisted Multicell Systems](http://arxiv.org/abs/2606.06845v1)<br/>*柔性智能超表面辅助多蜂窝系统的加权和速率增强*|Hanwen Hu et.al.|[2606.06845v1](http://arxiv.org/abs/2606.06845v1)|
+|2026-06-10|[Maximizing Connectivity of Uplink RIS-Assisted UAV Networks](http://arxiv.org/abs/2606.11523v1)<br/>*上行RIS辅助无人机网络的连接性最大化*|Mohammed Saif et.al.|[2606.11523v1](http://arxiv.org/abs/2606.11523v1)|
+|2026-06-09|[Joint Movable Antenna Positioning and RIS Partitioning for Sum-Rate Maximization](http://arxiv.org/abs/2606.11519v1)<br/>*和速率最大化中的可移动天线定位与RIS分区联合优化*|Mohammed Saif et.al.|[2606.11519v1](http://arxiv.org/abs/2606.11519v1)|
+|2026-06-08|[Optimal Illumination via Joint Movement and Phase Optimization for Movable Antenna-RIS Configuration](http://arxiv.org/abs/2606.10190v1)<br/>*可移动天线-RIS配置中联合移动与相位优化实现最佳照明*|Yan Zhang et.al.|[2606.10190v1](http://arxiv.org/abs/2606.10190v1)|
+|2026-06-07|[Non-Uniform Codebook Design for Optical IRS-Assisted VLC Systems](http://arxiv.org/abs/2606.08774v1)<br/>*光学IRS辅助可见光通信系统中的非均匀码本设计*|Rashid Iqbal et.al.|[2606.08774v1](http://arxiv.org/abs/2606.08774v1)|
+|2026-06-05|[A Novel Stripe-based RIS Optimization for UAV Communications and Sensing in Low-Altitude Wireless Networks](http://arxiv.org/abs/2606.07026v1)<br/>*低空无线网络中用于无人机通信与感知的新型条带式RIS优化*|Burak Ahmet Celebi et.al.|[2606.07026v1](http://arxiv.org/abs/2606.07026v1)|
+|2026-06-05|[Weighted Sum-Rate Enhancement for Flexible Intelligent Metasurface-Assisted Multicell Systems](http://arxiv.org/abs/2606.06845v1)<br/>*柔性智能超表面辅助多小区系统中的加权和速率增强*|Hanwen Hu et.al.|[2606.06845v1](http://arxiv.org/abs/2606.06845v1)|
 |2026-06-02|[How Many Bits Are Required for RIS Designs Without Far-Field Quantization Lobe?](http://arxiv.org/abs/2606.04156v1)<br/>*无远场量化旁瓣的RIS设计需要多少比特？*|Ruiqi Wang et.al.|[2606.04156v1](http://arxiv.org/abs/2606.04156v1)|
-|2026-06-02|[Secrecy Sum Rate Maximization for OIRS-Aided Visible Light Communications with Confidential Messages](http://arxiv.org/abs/2606.03505v1)<br/>*带有保密消息的OIRS辅助可见光通信保密和速率最大化*|Trinh K. Nguyen et.al.|[2606.03505v1](http://arxiv.org/abs/2606.03505v1)|
-|2026-06-01|[Deconstructing the Composite Channel for Beyond Diagonal RIS: Channel Estimation and Beamforming Design](http://arxiv.org/abs/2606.01564v1)<br/>*超对角线RIS的复合信道解构：信道估计与波束赋形设计*|Fazal-E Asim et.al.|[2606.01564v1](http://arxiv.org/abs/2606.01564v1)|
+|2026-06-02|[Secrecy Sum Rate Maximization for OIRS-Aided Visible Light Communications with Confidential Messages](http://arxiv.org/abs/2606.03505v1)<br/>*含机密消息的OIRS辅助可见光通信保密和速率最大化*|Trinh K. Nguyen et.al.|[2606.03505v1](http://arxiv.org/abs/2606.03505v1)|
+|2026-06-01|[Deconstructing the Composite Channel for Beyond Diagonal RIS: Channel Estimation and Beamforming Design](http://arxiv.org/abs/2606.01564v1)<br/>*超越对角线RIS的复合信道解构：信道估计与波束赋形设计*|Fazal-E Asim et.al.|[2606.01564v1](http://arxiv.org/abs/2606.01564v1)|
 
 ### 2026年05月
 
@@ -75,7 +80,7 @@
 |:--------|:---------|:---------|:--------|
 |2026-05-31|[Efficient Numerical Modeling of Near-Field Diffraction in ORIS-Assisted Free-Space Optical Links](http://arxiv.org/abs/2606.01195v1)<br/>*ORIS辅助自由空间光链路中近场衍射的高效数值建模*|Tuan A. Hoang et.al.|[2606.01195v1](http://arxiv.org/abs/2606.01195v1)|
 |2026-05-31|[Multicast Capacity of XL-RIS Assisted Hybrid Near- and Far-Field mmWave Communications](http://arxiv.org/abs/2606.01133v1)<br/>*XL-RIS辅助混合近场和远场毫米波通信的组播容量*|Hui Chen et.al.|[2606.01133v1](http://arxiv.org/abs/2606.01133v1)|
-|2026-05-31|[Multi-Agent DRL for QoS and Energy Optimization in RIS-Enabled Open-RAN Industrial 6G TN/NTN Networks](http://arxiv.org/abs/2606.28339v1)<br/>*RIS使能的开放无线接入网工业6G地面/非地面网络中用于服务质量和能量优化的多智能体深度强化学习*|Marwan Dhuheir et.al.|[2606.28339v1](http://arxiv.org/abs/2606.28339v1)|
+|2026-05-31|[Multi-Agent DRL for QoS and Energy Optimization in RIS-Enabled Open-RAN Industrial 6G TN/NTN Networks](http://arxiv.org/abs/2606.28339v1)<br/>*RIS使能的开放RAN工业6G地面/非地面网络中QoS与能量优化的多智能体DRL*|Marwan Dhuheir et.al.|[2606.28339v1](http://arxiv.org/abs/2606.28339v1)|
 |2026-05-29|[Joint Channel and Symbol Estimation for RIS-Assisted Fluid Antenna Systems](http://arxiv.org/abs/2606.00423v1)<br/>*RIS辅助流体天线系统中的联合信道与符号估计*|Josué V. de Araújo et.al.|[2606.00423v1](http://arxiv.org/abs/2606.00423v1)|
 |2026-05-29|[Microwave Linear Analog Computer (MiLAC) for Simultaneous Active and Passive Beamforming](http://arxiv.org/abs/2605.31549v1)<br/>*用于同时主动和被动波束赋形的微波线性模拟计算机 (MiLAC)*|Matteo Nerini et.al.|[2605.31549v1](http://arxiv.org/abs/2605.31549v1)|
 |2026-05-29|[Distributionally Robust Physical-Layer Security for Satellite Communication via Aerial Reconfigurable Intelligent Surface](http://arxiv.org/abs/2605.31526v1)<br/>*通过空中可重构智能表面实现卫星通信的分布式鲁棒物理层安全*|Zhaole Wang et.al.|[2605.31526v1](http://arxiv.org/abs/2605.31526v1)|
