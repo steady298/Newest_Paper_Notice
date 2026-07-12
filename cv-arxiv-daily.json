@@ -37,7 +37,7 @@
     "2606.08774": {
       "date": "2026-06-07",
       "title_en": "Non-Uniform Codebook Design for Optical IRS-Assisted VLC Systems",
-      "title_cn": "光学IRS辅助VLC系统的非均匀码本设计",
+      "title_cn": "光学IRS辅助可见光系统的非均匀码本设计",
       "author": "Rashid Iqbal",
       "paper_id": "2606.08774v1",
       "paper_url": "http://arxiv.org/abs/2606.08774v1"
@@ -45,7 +45,7 @@
     "2606.07026": {
       "date": "2026-06-05",
       "title_en": "A Novel Stripe-based RIS Optimization for UAV Communications and Sensing in Low-Altitude Wireless Networks",
-      "title_cn": "低空无线网络中无人机通信与感知的新型条带式RIS优化",
+      "title_cn": "低空无线网络中用于无人机通信与感知的新颖条带式RIS优化",
       "author": "Burak Ahmet Celebi",
       "paper_id": "2606.07026v1",
       "paper_url": "http://arxiv.org/abs/2606.07026v1"
@@ -285,7 +285,7 @@
     "2606.11519": {
       "date": "2026-06-09",
       "title_en": "Joint Movable Antenna Positioning and RIS Partitioning for Sum-Rate Maximization",
-      "title_cn": "联合可移动天线定位与RIS分区实现和速率最大化",
+      "title_cn": "可移动天线定位与RIS分区联合优化以实现和速率最大化",
       "author": "Mohammed Saif",
       "paper_id": "2606.11519v1",
       "paper_url": "http://arxiv.org/abs/2606.11519v1"
@@ -293,7 +293,7 @@
     "2606.10190": {
       "date": "2026-06-08",
       "title_en": "Optimal Illumination via Joint Movement and Phase Optimization for Movable Antenna-RIS Configuration",
-      "title_cn": "可移动天线-RIS配置中基于联合移动与相位优化的最佳照明",
+      "title_cn": "可移动天线-RIS配置中基于联合移动与相位优化的最优照明",
       "author": "Yan Zhang",
       "paper_id": "2606.10190v1",
       "paper_url": "http://arxiv.org/abs/2606.10190v1"
@@ -317,7 +317,7 @@
     "2606.20741": {
       "date": "2026-06-17",
       "title_en": "Beamforming and RIS-Aided Ambient Backscatter Communications with Residual-Feature SVM Detection",
-      "title_cn": "波束赋形与RIS辅助环境反向散射通信：残余特征SVM检测",
+      "title_cn": "具有残余特征SVM检测的波束赋形与RIS辅助环境反向散射通信",
       "author": "Aobakwe Makgarapa",
       "paper_id": "2606.20741v1",
       "paper_url": "http://arxiv.org/abs/2606.20741v1"
@@ -325,7 +325,7 @@
     "2606.17484": {
       "date": "2026-06-16",
       "title_en": "Exploiting RIS Optimization Limits for Multi-User Beamforming and Signal Suppression",
-      "title_cn": "利用RIS优化极限实现多用户波束赋形与信号抑制",
+      "title_cn": "探索RIS优化极限以实现多用户波束赋形和信号抑制",
       "author": "Subham Sabud",
       "paper_id": "2606.17484v1",
       "paper_url": "http://arxiv.org/abs/2606.17484v1"
@@ -357,7 +357,7 @@
     "2606.26808": {
       "date": "2026-06-25",
       "title_en": "An Experimental Assessment of the Spatial and Frequency Selectivity of Reconfigurable Intelligent Surfaces",
-      "title_cn": "可重构智能表面空间与频率选择性的实验评估",
+      "title_cn": "可重构智能表面的空间和频率选择性实验评估",
       "author": "Cyrille Morin",
       "paper_id": "2606.26808v1",
       "paper_url": "http://arxiv.org/abs/2606.26808v1"
@@ -365,7 +365,7 @@
     "2606.24540": {
       "date": "2026-06-23",
       "title_en": "Offline Channel-Independent QAOA Angles for RIS Power Aggregation: Unit-Circle Phase Dictionaries and Infinite-Size Spin-Glass Limits",
-      "title_cn": "RIS功率聚合的离线信道无关QAOA角度：单位圆相位字典与无限尺寸自旋玻璃极限",
+      "title_cn": "用于RIS功率聚合的离线信道无关QAOA角度：单位圆相位字典与无限尺寸自旋玻璃极限",
       "author": "Burhan Gulbahar",
       "paper_id": "2606.24540v1",
       "paper_url": "http://arxiv.org/abs/2606.24540v1"
@@ -373,7 +373,7 @@
     "2607.00356": {
       "date": "2026-07-01",
       "title_en": "Performance Evaluation of A Certain Transceiver Architecture for Multiple-Input Multiple-Output Phase-Modulated Channels",
-      "title_cn": "多输入多输出相位调制信道中某收发器架构的性能评估",
+      "title_cn": "某种收发机架构在多输入多输出相移调制信道中的性能评估",
       "author": "Hengyu Cui",
       "paper_id": "2607.00356v1",
       "paper_url": "http://arxiv.org/abs/2607.00356v1"
@@ -389,7 +389,7 @@
     "2607.00056": {
       "date": "2026-06-30",
       "title_en": "Active Sensing for RIS-Aided Tracking and Power Control: A Hybrid Neuroevolution and Supervised Learning Approach",
-      "title_cn": "RIS辅助跟踪与功率控制的主动感知：混合神经进化与监督学习方法",
+      "title_cn": "RIS辅助跟踪与功率控制的主动感知：一种混合神经进化与监督学习方法",
       "author": "George Stamatelis",
       "paper_id": "2607.00056v2",
       "paper_url": "http://arxiv.org/abs/2607.00056v2"
@@ -429,10 +429,10 @@
     "2607.05931": {
       "date": "2026-07-07",
       "title_en": "Rydberg Atomic Quantum Radio: A Comprehensive Survey From Wireless Communication Perspective",
-      "title_cn": "里德堡原子量子无线电：无线通信视角的全面综述",
+      "title_cn": "里德堡原子量子无线电：从无线通信角度的综合综述",
       "author": "Yiyue Xiang",
-      "paper_id": "2607.05931v1",
-      "paper_url": "http://arxiv.org/abs/2607.05931v1"
+      "paper_id": "2607.05931v2",
+      "paper_url": "http://arxiv.org/abs/2607.05931v2"
     },
     "2607.04889": {
       "date": "2026-07-06",
@@ -445,7 +445,7 @@
     "2607.03637": {
       "date": "2026-07-03",
       "title_en": "STAR-RIS-Assisted Integrated Sensing, Secure Communication, and Power Transfer: A Transmit Power Minimization Framework",
-      "title_cn": "STAR-RIS辅助的融合感知、安全通信与能量传输：发射功率最小化框架",
+      "title_cn": "STAR-RIS辅助的感知、安全通信与功率传输一体化：一种发射功率最小化框架",
       "author": "Ling He",
       "paper_id": "2607.03637v1",
       "paper_url": "http://arxiv.org/abs/2607.03637v1"
@@ -469,7 +469,7 @@
     "2607.07447": {
       "date": "2026-07-08",
       "title_en": "A Unified Fully Reconfigurable Architecture for Wireless Powered Communication Networks",
-      "title_cn": "无线携能通信网络统一全可重构架构",
+      "title_cn": "一种用于无线供能通信网络的统一全可重构架构",
       "author": "Bingxin Zhang",
       "paper_id": "2607.07447v1",
       "paper_url": "http://arxiv.org/abs/2607.07447v1"
@@ -485,7 +485,7 @@
     "2607.06861": {
       "date": "2026-07-07",
       "title_en": "Performance Limits of FRIS Systems in Nakagami-$m$ Fading",
-      "title_cn": "Nakagami-$m$衰落中FRIS系统的性能极限",
+      "title_cn": "Nakagami-$m$ 衰落下FRIS系统的性能极限",
       "author": "Masoud Khazaee",
       "paper_id": "2607.06861v1",
       "paper_url": "http://arxiv.org/abs/2607.06861v1"
@@ -497,6 +497,14 @@
       "author": "Kentaro Nagaya",
       "paper_id": "2607.06859v1",
       "paper_url": "http://arxiv.org/abs/2607.06859v1"
+    },
+    "2607.07990": {
+      "date": "2026-07-08",
+      "title_en": "Optimal Multi-RIS Placement: Coverage-Guaranteed Sum Rate Maximization Under Inhomogeneous User Distributions",
+      "title_cn": "最优多RIS部署：非均匀用户分布下覆盖保证的和速率最大化",
+      "author": "Abhishek Rajasekaran",
+      "paper_id": "2607.07990v1",
+      "paper_url": "http://arxiv.org/abs/2607.07990v1"
     }
   }
 }
