@@ -509,7 +509,7 @@
     "2607.21235": {
       "date": "2026-07-23",
       "title_en": "Automated Full-Sphere Measurement Methodology for Reconfigurable Intelligent Surface Beam Steering in an Anechoic Chamber",
-      "title_cn": "微波暗室中可重构智能表面波束赋形的自动化全球面测量方法",
+      "title_cn": "微波暗室中可重构智能表面波束控制的自动化全向测量方法",
       "author": "Tobias Kancz",
       "paper_id": "2607.21235v1",
       "paper_url": "http://arxiv.org/abs/2607.21235v1"
@@ -517,7 +517,7 @@
     "2607.19883": {
       "date": "2026-07-22",
       "title_en": "A Covert Precision Satellite Communication Framework Assisted by Cooperative IRSs",
-      "title_cn": "合作式RIS辅助的隐蔽精密卫星通信框架",
+      "title_cn": "协作IRS辅助的隐蔽精密卫星通信框架",
       "author": "Haoyang Wu",
       "paper_id": "2607.19883v1",
       "paper_url": "http://arxiv.org/abs/2607.19883v1"
@@ -533,7 +533,7 @@
     "2607.18723": {
       "date": "2026-07-21",
       "title_en": "Distribution of $k$-th Maximum Order Statistics of Independent, & Non-Identical SNR random variables in $κ-μ$ fading and its applications in $6G$",
-      "title_cn": "$κ-μ$衰落中独立非同分布信噪比随机变量的第$k$个最大顺序统计量分布及其在$6G$中的应用",
+      "title_cn": "$κ-μ$衰落中独立非同分布信噪比随机变量的第k最大序统计量分布及其在6G中的应用",
       "author": "Srinivas Sagar",
       "paper_id": "2607.18723v1",
       "paper_url": "http://arxiv.org/abs/2607.18723v1"
@@ -541,7 +541,7 @@
     "2607.17485": {
       "date": "2026-07-20",
       "title_en": "Transmit Beamforming Design for Integrated Sensing and Communication Using Transmissive RIS Transceiver",
-      "title_cn": "基于透射式RIS收发机的一体化感知与通信发射波束赋形设计",
+      "title_cn": "基于透射式RIS收发器的感知通信一体化发射波束赋形设计",
       "author": "Yuan Guo",
       "paper_id": "2607.17485v1",
       "paper_url": "http://arxiv.org/abs/2607.17485v1"
@@ -549,7 +549,7 @@
     "2607.17475": {
       "date": "2026-07-20",
       "title_en": "Transmissive RIS Transceiver-Empowered ISAC Systems: Energy Efficiency Optimization for Perfect and Imperfect CSI",
-      "title_cn": "透射式RIS收发机赋能的ISAC系统：完美与不完美CSI下的能量效率优化",
+      "title_cn": "透射式RIS收发器赋能的ISAC系统：完美与不完美信道状态信息下的能量效率优化",
       "author": "Yuan Guo",
       "paper_id": "2607.17475v1",
       "paper_url": "http://arxiv.org/abs/2607.17475v1"
@@ -557,7 +557,7 @@
     "2607.17169": {
       "date": "2026-07-19",
       "title_en": "Joint Channel Estimation and Dynamics-Aware Grouping for Time-Varying RIS-Assisted OTA Federated Learning",
-      "title_cn": "时变RIS辅助空口联邦学习中的联合信道估计与动态感知分组",
+      "title_cn": "时变RIS辅助OTA联邦学习中的联合信道估计与动态感知分组",
       "author": "Ziqi Li",
       "paper_id": "2607.17169v1",
       "paper_url": "http://arxiv.org/abs/2607.17169v1"
@@ -565,7 +565,7 @@
     "2607.16611": {
       "date": "2026-07-18",
       "title_en": "RIS-Aided ISAC in Cluttered Environments",
-      "title_cn": "杂波环境中的RIS辅助一体化感知与通信",
+      "title_cn": "杂波环境下RIS辅助的ISAC",
       "author": "Yosefine Triwidyastuti",
       "paper_id": "2607.16611v1",
       "paper_url": "http://arxiv.org/abs/2607.16611v1"
@@ -573,7 +573,7 @@
     "2607.14851": {
       "date": "2026-07-16",
       "title_en": "LIVE-RIS: Real-Time In-Flight Actuation of UAV-Mounted RIS",
-      "title_cn": "LIVE-RIS：无人机搭载RIS的实时飞行中驱动",
+      "title_cn": "LIVE-RIS：无人机搭载RIS的实时在飞驱动",
       "author": "David Müller",
       "paper_id": "2607.14851v1",
       "paper_url": "http://arxiv.org/abs/2607.14851v1"
@@ -581,7 +581,7 @@
     "2607.14806": {
       "date": "2026-07-16",
       "title_en": "Unified Evaluation Methodology for AI-Native Integrated Sensing and Communication",
-      "title_cn": "AI原生一体化感知与通信的统一评估方法",
+      "title_cn": "AI原生感知通信一体化的统一评估方法",
       "author": "Filip Lemic",
       "paper_id": "2607.14806v1",
       "paper_url": "http://arxiv.org/abs/2607.14806v1"
@@ -589,7 +589,7 @@
     "2607.14523": {
       "date": "2026-07-16",
       "title_en": "SLIPT-Enabled Ground-to-UAV FSO Systems with Optical Reconfigurable Intelligent Surfaces",
-      "title_cn": "搭载光学可重构智能表面的SLIPT赋能地空无人机自由空间光通信系统",
+      "title_cn": "基于光学可重构智能表面的SLIPT使能地空无人机FSO系统",
       "author": "Luna Sugiyama",
       "paper_id": "2607.14523v1",
       "paper_url": "http://arxiv.org/abs/2607.14523v1"
@@ -597,7 +597,7 @@
     "2607.13710": {
       "date": "2026-07-15",
       "title_en": "From Metric to Mechanism: Designing Wireless Resilience through Finite Blocklength Dynamics",
-      "title_cn": "从度量到机制：通过有限码长动态设计无线韧性",
+      "title_cn": "从度量到机制：通过有限码长动态设计无线弹性",
       "author": "Kevin Weinberger",
       "paper_id": "2607.13710v1",
       "paper_url": "http://arxiv.org/abs/2607.13710v1"
@@ -605,7 +605,7 @@
     "2607.13583": {
       "date": "2026-07-15",
       "title_en": "RIS Beamforming under Element-Level Variations: Statistical Characterization and Robust Design",
-      "title_cn": "单元级变化下的RIS波束赋形：统计特性分析与鲁棒设计",
+      "title_cn": "单元级变化下RIS波束赋形：统计特性与鲁棒设计",
       "author": "Dimitris Kompostiotis",
       "paper_id": "2607.13583v1",
       "paper_url": "http://arxiv.org/abs/2607.13583v1"
@@ -625,6 +625,142 @@
       "author": "Xiyao Wang",
       "paper_id": "2607.12514v1",
       "paper_url": "http://arxiv.org/abs/2607.12514v1"
+    },
+    "2607.28081": {
+      "date": "2026-07-30",
+      "title_en": "Beamforming and Phase Shift Design for STAR-RIS Assisted Secure Sensing and Communication in ISAC Systems",
+      "title_cn": "STAR-RIS辅助ISAC系统中安全感知与通信的波束赋形与相移设计",
+      "author": "Haijun Zhang",
+      "paper_id": "2607.28081v1",
+      "paper_url": "http://arxiv.org/abs/2607.28081v1"
+    },
+    "2607.28018": {
+      "date": "2026-07-30",
+      "title_en": "A Stochastic Optimization Framework for RIS-Aided Wireless Network Design",
+      "title_cn": "RIS辅助无线网络设计的随机优化框架",
+      "author": "Davide Gagliardi",
+      "paper_id": "2607.28018v1",
+      "paper_url": "http://arxiv.org/abs/2607.28018v1"
+    },
+    "2607.27972": {
+      "date": "2026-07-30",
+      "title_en": "Geometric View on Integrated Cascaded Channel of IRS-Aided Communications",
+      "title_cn": "IRS辅助通信中集成级联信道的几何视角",
+      "author": "Yunli Li",
+      "paper_id": "2607.27972v1",
+      "paper_url": "http://arxiv.org/abs/2607.27972v1"
+    },
+    "2607.27716": {
+      "date": "2026-07-30",
+      "title_en": "V-RIS: Virtual-Aperture DoA Estimation with Sparse RIS",
+      "title_cn": "V-RIS：基于稀疏RIS的虚拟孔径到达角估计",
+      "author": "Fenghao Zheng",
+      "paper_id": "2607.27716v1",
+      "paper_url": "http://arxiv.org/abs/2607.27716v1"
+    },
+    "2607.26658": {
+      "date": "2026-07-29",
+      "title_en": "Active Movable-Element RIS Assisted Vehicular Semantic Communications: Modeling and Optimization",
+      "title_cn": "有源可移动单元RIS辅助车载语义通信：建模与优化",
+      "author": "Maoxin Ji",
+      "paper_id": "2607.26658v1",
+      "paper_url": "http://arxiv.org/abs/2607.26658v1"
+    },
+    "2607.26531": {
+      "date": "2026-07-29",
+      "title_en": "Secure Relay Low-Altitude Networks via Hybrid Fixed-Position and Rotatable Antenna Arrays",
+      "title_cn": "基于混合固定位置与可旋转天线阵列的安全中继低空网络",
+      "author": "Maolin Li",
+      "paper_id": "2607.26531v1",
+      "paper_url": "http://arxiv.org/abs/2607.26531v1"
+    },
+    "2607.25924": {
+      "date": "2026-07-28",
+      "title_en": "Secure Energy-Efficient Uplink Transmission in Movable-Element RIS-aided Systems with Movable Antennas and Artificial Noise",
+      "title_cn": "可移动天线与人工噪声辅助的可移动单元RIS系统中安全节能上行传输",
+      "author": "Ayda Nodel Hokmabadi",
+      "paper_id": "2607.25924v1",
+      "paper_url": "http://arxiv.org/abs/2607.25924v1"
+    },
+    "2607.25632": {
+      "date": "2026-07-28",
+      "title_en": "Zeroth-Order Blind Interference Suppression for Multi-RIS-Aided Wireless Systems",
+      "title_cn": "多RIS辅助无线系统中的零阶盲干扰抑制",
+      "author": "Binyao Ma",
+      "paper_id": "2607.25632v1",
+      "paper_url": "http://arxiv.org/abs/2607.25632v1"
+    },
+    "2607.24497": {
+      "date": "2026-07-27",
+      "title_en": "Wearable metasurfaces for boosting the effective area of mobile-device antennas",
+      "title_cn": "用于提升移动设备天线有效面积的可穿戴超表面",
+      "author": "Mohammad M. Asgari",
+      "paper_id": "2607.24497v1",
+      "paper_url": "http://arxiv.org/abs/2607.24497v1"
+    },
+    "2607.24183": {
+      "date": "2026-07-27",
+      "title_en": "Secrecy Energy Efficiency for IRS-Assisted Low-Altitude Communications: A D3QN-PER Based Approach",
+      "title_cn": "IRS辅助低空通信的保密能量效率：一种基于D3QN-PER的方法",
+      "author": "Ya Gao",
+      "paper_id": "2607.24183v1",
+      "paper_url": "http://arxiv.org/abs/2607.24183v1"
+    },
+    "2607.24080": {
+      "date": "2026-07-27",
+      "title_en": "On-Site Beam Calibration for RIS-Aided Positioning Systems",
+      "title_cn": "RIS辅助定位系统中的现场波束校准",
+      "author": "Mengting Li",
+      "paper_id": "2607.24080v1",
+      "paper_url": "http://arxiv.org/abs/2607.24080v1"
+    },
+    "2607.24003": {
+      "date": "2026-07-27",
+      "title_en": "Beam Training for RIS-Aided ISAC Systems",
+      "title_cn": "RIS辅助ISAC系统中的波束训练",
+      "author": "Jinho Yang",
+      "paper_id": "2607.24003v1",
+      "paper_url": "http://arxiv.org/abs/2607.24003v1"
+    },
+    "2607.23277": {
+      "date": "2026-07-25",
+      "title_en": "GLRT for Reconfigurable Intelligent Surface aided Spectrum Sensing",
+      "title_cn": "可重构智能表面辅助频谱感知的广义似然比检验",
+      "author": "Nikhilsingh Parihar",
+      "paper_id": "2607.23277v1",
+      "paper_url": "http://arxiv.org/abs/2607.23277v1"
+    },
+    "2607.23005": {
+      "date": "2026-07-25",
+      "title_en": "Mobile Tracking via Target-Mounted IRS-Assisted ISAC System",
+      "title_cn": "基于目标搭载IRS辅助ISAC系统的移动跟踪",
+      "author": "Ziheng Zhang",
+      "paper_id": "2607.23005v1",
+      "paper_url": "http://arxiv.org/abs/2607.23005v1"
+    },
+    "2607.22259": {
+      "date": "2026-07-24",
+      "title_en": "Over-the-Air Interference Nulling Using Passive RIS for Two-Way K-User Interference Channel",
+      "title_cn": "基于无源RIS的双向K用户干扰信道空中干扰置零",
+      "author": "Junzhi Wang",
+      "paper_id": "2607.22259v1",
+      "paper_url": "http://arxiv.org/abs/2607.22259v1"
+    },
+    "2607.22239": {
+      "date": "2026-07-24",
+      "title_en": "Over-the-Air Interference Nulling Using Active RIS",
+      "title_cn": "基于有源RIS的空中干扰置零",
+      "author": "Junzhi Wang",
+      "paper_id": "2607.22239v1",
+      "paper_url": "http://arxiv.org/abs/2607.22239v1"
+    },
+    "2607.22170": {
+      "date": "2026-07-24",
+      "title_en": "Group-Connected Riemannian Manifold Optimization for Reciprocal BD-RIS",
+      "title_cn": "互易BD-RIS的群连接黎曼流形优化",
+      "author": "Marko Fidanovski",
+      "paper_id": "2607.22170v1",
+      "paper_url": "http://arxiv.org/abs/2607.22170v1"
     }
   }
 }
