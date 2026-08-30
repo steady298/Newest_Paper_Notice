@@ -765,7 +765,7 @@
     "2608.25803": {
       "date": "2026-08-26",
       "title_en": "Generative AI-Enabled Mission-Aware Radio Orchestration for RIS-Assisted LEO Satellite ISAC Systems",
-      "title_cn": "生成式AI赋能的RIS辅助低轨卫星ISAC系统任务感知无线电编排",
+      "title_cn": "生成式人工智能赋能的RIS辅助低轨卫星ISAC系统任务感知无线电编排",
       "author": "Fitsum Debebe Tilahun",
       "paper_id": "2608.25803v1",
       "paper_url": "http://arxiv.org/abs/2608.25803v1"
@@ -773,7 +773,7 @@
     "2608.25402": {
       "date": "2026-08-26",
       "title_en": "Lightweight AI for UAV-Mounted RIS: An Overview",
-      "title_cn": "无人机搭载RIS的轻量级AI：综述",
+      "title_cn": "无人机搭载RIS的轻量级人工智能：综述",
       "author": "Sherief Hashima",
       "paper_id": "2608.25402v1",
       "paper_url": "http://arxiv.org/abs/2608.25402v1"
@@ -797,7 +797,7 @@
     "2608.23422": {
       "date": "2026-08-24",
       "title_en": "RIS-Assisted Radar-Communication Coexistence: Detection Analysis with Channel Uncertainties",
-      "title_cn": "RIS辅助雷达通信共存：信道不确定性下的检测分析",
+      "title_cn": "RIS辅助的雷达通信共存：信道不确定性下的检测分析",
       "author": "Rawan Derbas",
       "paper_id": "2608.23422v1",
       "paper_url": "http://arxiv.org/abs/2608.23422v1"
@@ -805,7 +805,7 @@
     "2608.22169": {
       "date": "2026-08-23",
       "title_en": "MARL-Based Sequential RIS Auctions: A Physical-Layer Security Analysis",
-      "title_cn": "基于MARL的序列RIS拍卖：物理层安全分析",
+      "title_cn": "基于多智能体强化学习的序列RIS拍卖：物理层安全分析",
       "author": "Yuanyu Zhang",
       "paper_id": "2608.22169v1",
       "paper_url": "http://arxiv.org/abs/2608.22169v1"
@@ -837,7 +837,7 @@
     "2608.19736": {
       "date": "2026-08-20",
       "title_en": "Tri-Hybrid Beamforming for T-RIS-Enabled Base Station",
-      "title_cn": "T-RIS使能基站的三混合波束赋形",
+      "title_cn": "T-RIS赋能基站的三混合波束成形",
       "author": "Hongtao Zhang",
       "paper_id": "2608.19736v1",
       "paper_url": "http://arxiv.org/abs/2608.19736v1"
@@ -845,7 +845,7 @@
     "2608.18458": {
       "date": "2026-08-19",
       "title_en": "Joint Beamforming and Phase Shifts Design for RIS-Enabled RSMA-ISAC Systems",
-      "title_cn": "RIS使能RSMA-ISAC系统的联合波束赋形与相移设计",
+      "title_cn": "RIS赋能RSMA-ISAC系统的联合波束成形与相移设计",
       "author": "Xuejun Cheng",
       "paper_id": "2608.18458v1",
       "paper_url": "http://arxiv.org/abs/2608.18458v1"
@@ -877,7 +877,7 @@
     "2608.15245": {
       "date": "2026-08-15",
       "title_en": "Unlocking Downlink NOMA with FARIS: Joint Clustering and Surface Configuration Design",
-      "title_cn": "利用FARIS实现下行NOMA：联合聚类与表面配置设计",
+      "title_cn": "借助FARIS释放下行NOMA：联合聚类与表面配置设计",
       "author": "Hong-Bae Jeon",
       "paper_id": "2608.15245v1",
       "paper_url": "http://arxiv.org/abs/2608.15245v1"
@@ -885,7 +885,7 @@
     "2608.13985": {
       "date": "2026-08-14",
       "title_en": "Standard-Compliant Neuromorphic Integrated Sensing and Communications Aided by an Intelligent Reflecting Surface",
-      "title_cn": "智能反射面辅助的符合标准的神经形态感知与通信一体化",
+      "title_cn": "智能反射面辅助的符合标准的神经形态集成感知与通信",
       "author": "Jiho Park",
       "paper_id": "2608.13985v1",
       "paper_url": "http://arxiv.org/abs/2608.13985v1"
@@ -909,7 +909,7 @@
     "2608.12267": {
       "date": "2026-08-12",
       "title_en": "Digital Twin Networks for 6G Wireless Systems: Architecture, Enabling Technologies, Intelligent Control, and Open Challenges",
-      "title_cn": "6G无线系统中的数字孪生网络：架构、关键技术、智能控制与开放挑战",
+      "title_cn": "用于6G无线系统的数字孪生网络：架构、使能技术、智能控制与开放挑战",
       "author": "Charalampos Oikonomidis",
       "paper_id": "2608.12267v1",
       "paper_url": "http://arxiv.org/abs/2608.12267v1"
@@ -933,7 +933,7 @@
     "2608.11798": {
       "date": "2026-08-12",
       "title_en": "TRACE: A Modular Framework for RIS-Assisted Channel Estimation and Differential Channel-Aware Reconfiguration",
-      "title_cn": "TRACE：用于RIS辅助信道估计和差分信道感知重构的模块化框架",
+      "title_cn": "TRACE：一个用于RIS辅助信道估计和差分信道感知重构的模块化框架",
       "author": "Smriti Kumar",
       "paper_id": "2608.11798v1",
       "paper_url": "http://arxiv.org/abs/2608.11798v1"
@@ -941,7 +941,7 @@
     "2608.11476": {
       "date": "2026-08-11",
       "title_en": "Extremely Large Beyond-Diagonal RIS: Low-Rank Modal Optimization for Near-Field Communications",
-      "title_cn": "超大规模超对角RIS：近场通信的低秩模态优化",
+      "title_cn": "超大非对角RIS：用于近场通信的低秩模态优化",
       "author": "Giovanni Iacovelli",
       "paper_id": "2608.11476v1",
       "paper_url": "http://arxiv.org/abs/2608.11476v1"
@@ -957,7 +957,7 @@
     "2608.10653": {
       "date": "2026-08-11",
       "title_en": "Unified Analytical Framework for Emergency RIS-UAV Networks Under Practical Impairments",
-      "title_cn": "实际损伤下应急RIS-无人机网络的统一分析框架",
+      "title_cn": "实际损伤下应急RIS-UAV网络的统一分析框架",
       "author": "Yinong Chen",
       "paper_id": "2608.10653v1",
       "paper_url": "http://arxiv.org/abs/2608.10653v1"
@@ -965,7 +965,7 @@
     "2608.10603": {
       "date": "2026-08-11",
       "title_en": "Statistical Channel Model for FSO Systems Assisted by a UAV-Mounted IRS",
-      "title_cn": "无人机搭载IRS辅助自由空间光系统的统计信道模型",
+      "title_cn": "无人机搭载IRS辅助的自由空间光通信系统统计信道模型",
       "author": "Ferdaous Tarhouni",
       "paper_id": "2608.10603v1",
       "paper_url": "http://arxiv.org/abs/2608.10603v1"
@@ -981,7 +981,7 @@
     "2608.07992": {
       "date": "2026-08-08",
       "title_en": "Dual-polarized RIS versus dual-polarized network-controlled repeater",
-      "title_cn": "双极化RIS与双极化网络控制中继器的比较",
+      "title_cn": "双极化RIS与双极化网络控制中继器对比",
       "author": "Özlem Tuğfe Demir",
       "paper_id": "2608.07992v1",
       "paper_url": "http://arxiv.org/abs/2608.07992v1"
@@ -989,7 +989,7 @@
     "2608.07444": {
       "date": "2026-08-07",
       "title_en": "RIS-Aided mmWave Localization Under Cross-Link Interference via Beam-Domain ML Fingerprinting",
-      "title_cn": "基于波束域机器学习指纹识别的跨链路干扰下RIS辅助毫米波定位",
+      "title_cn": "通过波束域机器学习指纹识别在跨链路干扰下RIS辅助的毫米波定位",
       "author": "Md Tarek Hassan",
       "paper_id": "2608.07444v1",
       "paper_url": "http://arxiv.org/abs/2608.07444v1"
@@ -997,7 +997,7 @@
     "2608.06541": {
       "date": "2026-08-06",
       "title_en": "A 28-GHz Varactor-Based RIS With Continuous Phase Control: From Unit-Cell Modeling to Programmable Wavefront Control and Synthesis",
-      "title_cn": "28 GHz基于变容二极管的连续相位控制RIS：从单元建模到可编程波前控制与合成",
+      "title_cn": "一种具有连续相移控制的28 GHz变容二极管RIS：从单元建模到可编程波前控制与合成",
       "author": "Spandan Manna",
       "paper_id": "2608.06541v1",
       "paper_url": "http://arxiv.org/abs/2608.06541v1"
