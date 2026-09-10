@@ -1,6 +1,6 @@
 # 曲面RIS 论文追踪
 
-**最后更新**: 2026年08月30日
+**最后更新**: 2026年09月10日
 
 本文档自动追踪 arXiv 上关于曲面RIS相关领域的最新论文。
 
@@ -33,30 +33,47 @@
 
 ## RIS
 
-**总计**: 121 篇论文
+**总计**: 133 篇论文
+
+### 2026年09月
+
+| 发布日期 | 论文标题 | 第一作者 | PDF链接 |
+|:--------|:---------|:---------|:--------|
+|2026-09-09|[HAPS-RIS or HAPS-Relay: Which Outperforms Under Impairments with NOMA in 6G NTN?](http://arxiv.org/abs/2609.10468v1)|Bilal Karaman et.al.|[2609.10468v1](http://arxiv.org/abs/2609.10468v1)|
+|2026-09-09|[Decision Transformer for UAV-Mounted RIS-Assisted Dynamic D2D Communications](http://arxiv.org/abs/2609.09885v1)|Yaxuan Liu et.al.|[2609.09885v1](http://arxiv.org/abs/2609.09885v1)|
+|2026-09-08|[Movable-Element STAR-RIS for 6G: From Programmable Propagation to Programmable Geometry](http://arxiv.org/abs/2609.08545v1)|Wali Ullah Khan et.al.|[2609.08545v1](http://arxiv.org/abs/2609.08545v1)|
+|2026-09-07|[Characterization of Beam-Squint and Beam-Split Effects in RIS-assisted Multi-Frequency Networks](http://arxiv.org/abs/2609.07995v1)|Mohammad Amin Saeidi et.al.|[2609.07995v1](http://arxiv.org/abs/2609.07995v1)|
+|2026-09-03|[Deep Reinforcement Learning for Optimization of STAR-RIS Phase and Energy Splitting Coefficients in OTFS-NOMA Framework](http://arxiv.org/abs/2609.04536v1)|Rais. J. Gachaba et.al.|[2609.04536v1](http://arxiv.org/abs/2609.04536v1)|
+|2026-09-03|[Polarization-Aware Rotatable Antennas for RIS-Empowered Symbiotic Radios](http://arxiv.org/abs/2609.03484v1)|Chao Zhang et.al.|[2609.03484v1](http://arxiv.org/abs/2609.03484v1)|
 
 ### 2026年08月
 
 | 发布日期 | 论文标题 | 第一作者 | PDF链接 |
 |:--------|:---------|:---------|:--------|
-|2026-08-26|[Generative AI-Enabled Mission-Aware Radio Orchestration for RIS-Assisted LEO Satellite ISAC Systems](http://arxiv.org/abs/2608.25803v1)<br/>*生成式人工智能赋能的RIS辅助低轨卫星ISAC系统任务感知无线电编排*|Fitsum Debebe Tilahun et.al.|[2608.25803v1](http://arxiv.org/abs/2608.25803v1)|
-|2026-08-26|[Lightweight AI for UAV-Mounted RIS: An Overview](http://arxiv.org/abs/2608.25402v1)<br/>*无人机搭载RIS的轻量级人工智能：综述*|Sherief Hashima et.al.|[2608.25402v1](http://arxiv.org/abs/2608.25402v1)|
-|2026-08-26|[End-to-End Mobility-Aware Multi-RIS Optimization via Blockage Detection and Closed-Form Riemannian Updates](http://arxiv.org/abs/2608.25393v1)<br/>*基于阻塞检测和闭式黎曼更新的端到端移动性感知多RIS优化*|Sehyun Ryu et.al.|[2608.25393v1](http://arxiv.org/abs/2608.25393v1)|
-|2026-08-25|[Impact of Optical Reconfigurable Intelligent Surfaces on Channel Estimation for VLC Systems](http://arxiv.org/abs/2608.24287v1)<br/>*光学可重构智能表面对可见光通信系统信道估计的影响*|Borja Genoves Guzman et.al.|[2608.24287v1](http://arxiv.org/abs/2608.24287v1)|
-|2026-08-24|[RIS-Assisted Radar-Communication Coexistence: Detection Analysis with Channel Uncertainties](http://arxiv.org/abs/2608.23422v1)<br/>*RIS辅助的雷达通信共存：信道不确定性下的检测分析*|Rawan Derbas et.al.|[2608.23422v1](http://arxiv.org/abs/2608.23422v1)|
-|2026-08-23|[MARL-Based Sequential RIS Auctions: A Physical-Layer Security Analysis](http://arxiv.org/abs/2608.22169v1)<br/>*基于多智能体强化学习的序列RIS拍卖：物理层安全分析*|Yuanyu Zhang et.al.|[2608.22169v1](http://arxiv.org/abs/2608.22169v1)|
-|2026-08-21|[Reconfigurable Intelligent Surfaces for Cognitive Radio Networks: Design, Optimization, and Emerging Trends](http://arxiv.org/abs/2608.21669v1)<br/>*用于认知无线电网络的可重构智能表面：设计、优化与新兴趋势*|Diluka Galappaththige et.al.|[2608.21669v1](http://arxiv.org/abs/2608.21669v1)|
-|2026-08-20|[Secrecy Rate Maximization for UAV-Mounted Six-Dimensional Movable IRS-Assisted ISAC Systems](http://arxiv.org/abs/2608.20278v1)<br/>*无人机搭载六维可移动IRS辅助ISAC系统的保密速率最大化*|Chengye Hong et.al.|[2608.20278v1](http://arxiv.org/abs/2608.20278v1)|
-|2026-08-20|[Real Interference Alignment for Active IRS-Aided Systems: A Rate-Profile Learning-Based Approach](http://arxiv.org/abs/2608.20007v1)<br/>*有源IRS辅助系统的实际干扰对齐：一种基于速率剖面学习的方法*|Junda Liao et.al.|[2608.20007v1](http://arxiv.org/abs/2608.20007v1)|
-|2026-08-20|[Tri-Hybrid Beamforming for T-RIS-Enabled Base Station](http://arxiv.org/abs/2608.19736v1)<br/>*T-RIS赋能基站的三混合波束成形*|Hongtao Zhang et.al.|[2608.19736v1](http://arxiv.org/abs/2608.19736v1)|
-|2026-08-19|[Joint Beamforming and Phase Shifts Design for RIS-Enabled RSMA-ISAC Systems](http://arxiv.org/abs/2608.18458v1)<br/>*RIS赋能RSMA-ISAC系统的联合波束成形与相移设计*|Xuejun Cheng et.al.|[2608.18458v1](http://arxiv.org/abs/2608.18458v1)|
-|2026-08-17|[Exploiting Movable-Element STARS for Rate Splitting Multiple Access](http://arxiv.org/abs/2608.16866v1)<br/>*利用可移动单元STARS实现速率分裂多址*|Muhammad Asif et.al.|[2608.16866v1](http://arxiv.org/abs/2608.16866v1)|
-|2026-08-17|[Rank-Aware Element Grouping for Power-Efficient Multiuser ISAC With an Extremely Large-Scale IRS](http://arxiv.org/abs/2608.16790v2)<br/>*超大规模IRS中功率高效多用户ISAC的秩感知单元分组*|Shengsheng Zhang et.al.|[2608.16790v2](http://arxiv.org/abs/2608.16790v2)|
-|2026-08-15|[Bringing Environmental Enhancement Back to Its Physical Essence via Specular Reflecting Surfaces](http://arxiv.org/abs/2608.15271v1)<br/>*通过镜面反射表面将环境增强回归其物理本质*|Qingxiao Huang et.al.|[2608.15271v1](http://arxiv.org/abs/2608.15271v1)|
-|2026-08-15|[Unlocking Downlink NOMA with FARIS: Joint Clustering and Surface Configuration Design](http://arxiv.org/abs/2608.15245v1)<br/>*借助FARIS释放下行NOMA：联合聚类与表面配置设计*|Hong-Bae Jeon et.al.|[2608.15245v1](http://arxiv.org/abs/2608.15245v1)|
-|2026-08-14|[Standard-Compliant Neuromorphic Integrated Sensing and Communications Aided by an Intelligent Reflecting Surface](http://arxiv.org/abs/2608.13985v1)<br/>*智能反射面辅助的符合标准的神经形态集成感知与通信*|Jiho Park et.al.|[2608.13985v1](http://arxiv.org/abs/2608.13985v1)|
-|2026-08-13|[Low-Complexity Channel Parameter Estimation for Coprime HRIS-Assisted MIMO Systems](http://arxiv.org/abs/2608.13436v1)<br/>*互素HRIS辅助MIMO系统的低复杂度信道参数估计*|Jean C. S. Ferreira et.al.|[2608.13436v1](http://arxiv.org/abs/2608.13436v1)|
-|2026-08-13|[Pareto-Aware Hierarchical Reinforcement Learning for Online Resource Allocation in RIS-assisted Large-Scale IoT Systems](http://arxiv.org/abs/2608.13032v1)<br/>*RIS辅助大规模物联网系统中在线资源分配的帕累托感知分层强化学习*|Wenhan Xu et.al.|[2608.13032v1](http://arxiv.org/abs/2608.13032v1)|
+|2026-08-31|[Intelligent Reflecting Surface Deployment for Low-Altitude Coverage: Illumination Geometry, Directional Characteristics, and Optimization](http://arxiv.org/abs/2608.30586v1)|Guoying Zhang et.al.|[2608.30586v1](http://arxiv.org/abs/2608.30586v1)|
+|2026-08-30|[A New Paradigm of 6G Networks: Proactive Channel Cognition and Reconfiguration](http://arxiv.org/abs/2608.29725v1)|Wenyan Ma et.al.|[2608.29725v1](http://arxiv.org/abs/2608.29725v1)|
+|2026-08-29|[Transmissive RIS-Assisted Vehicular Direct-to-Satellite Communications: Opportunities, Limitations, and Comparison with Phased Arrays](http://arxiv.org/abs/2608.29424v1)|Wali Ullah Khan et.al.|[2608.29424v1](http://arxiv.org/abs/2608.29424v1)|
+|2026-08-28|[Adaptive RIS-aided Communications through ML-based Generation of Phase Masks](http://arxiv.org/abs/2608.28890v1)|Corwin Carpenter et.al.|[2608.28890v1](http://arxiv.org/abs/2608.28890v1)|
+|2026-08-28|[Enabling Secure Wireless Communications for FARIS-Aided Systems](http://arxiv.org/abs/2608.27837v1)|Hong-Bae Jeon et.al.|[2608.27837v1](http://arxiv.org/abs/2608.27837v1)|
+|2026-08-28|[Robust Joint Beamforming and Configuration Design in FARIS-Aided Systems](http://arxiv.org/abs/2608.27835v1)|Hong-Bae Jeon et.al.|[2608.27835v1](http://arxiv.org/abs/2608.27835v1)|
+|2026-08-26|[Generative AI-Enabled Mission-Aware Radio Orchestration for RIS-Assisted LEO Satellite ISAC Systems](http://arxiv.org/abs/2608.25803v1)|Fitsum Debebe Tilahun et.al.|[2608.25803v1](http://arxiv.org/abs/2608.25803v1)|
+|2026-08-26|[Lightweight AI for UAV-Mounted RIS: An Overview](http://arxiv.org/abs/2608.25402v1)|Sherief Hashima et.al.|[2608.25402v1](http://arxiv.org/abs/2608.25402v1)|
+|2026-08-26|[End-to-End Mobility-Aware Multi-RIS Optimization via Blockage Detection and Closed-Form Riemannian Updates](http://arxiv.org/abs/2608.25393v1)|Sehyun Ryu et.al.|[2608.25393v1](http://arxiv.org/abs/2608.25393v1)|
+|2026-08-25|[Impact of Optical Reconfigurable Intelligent Surfaces on Channel Estimation for VLC Systems](http://arxiv.org/abs/2608.24287v1)|Borja Genoves Guzman et.al.|[2608.24287v1](http://arxiv.org/abs/2608.24287v1)|
+|2026-08-24|[RIS-Assisted Radar-Communication Coexistence: Detection Analysis with Channel Uncertainties](http://arxiv.org/abs/2608.23422v1)|Rawan Derbas et.al.|[2608.23422v1](http://arxiv.org/abs/2608.23422v1)|
+|2026-08-23|[MARL-Based Sequential RIS Auctions: A Physical-Layer Security Analysis](http://arxiv.org/abs/2608.22169v1)|Yuanyu Zhang et.al.|[2608.22169v1](http://arxiv.org/abs/2608.22169v1)|
+|2026-08-21|[Reconfigurable Intelligent Surfaces for Cognitive Radio Networks: Design, Optimization, and Emerging Trends](http://arxiv.org/abs/2608.21669v1)|Diluka Galappaththige et.al.|[2608.21669v1](http://arxiv.org/abs/2608.21669v1)|
+|2026-08-20|[Secrecy Rate Maximization for UAV-Mounted Six-Dimensional Movable IRS-Assisted ISAC Systems](http://arxiv.org/abs/2608.20278v1)|Chengye Hong et.al.|[2608.20278v1](http://arxiv.org/abs/2608.20278v1)|
+|2026-08-20|[Real Interference Alignment for Active IRS-Aided Systems: A Rate-Profile Learning-Based Approach](http://arxiv.org/abs/2608.20007v1)|Junda Liao et.al.|[2608.20007v1](http://arxiv.org/abs/2608.20007v1)|
+|2026-08-20|[Tri-Hybrid Beamforming for T-RIS-Enabled Base Station](http://arxiv.org/abs/2608.19736v1)|Hongtao Zhang et.al.|[2608.19736v1](http://arxiv.org/abs/2608.19736v1)|
+|2026-08-19|[Joint Beamforming and Phase Shifts Design for RIS-Enabled RSMA-ISAC Systems](http://arxiv.org/abs/2608.18458v1)|Xuejun Cheng et.al.|[2608.18458v1](http://arxiv.org/abs/2608.18458v1)|
+|2026-08-17|[Exploiting Movable-Element STARS for Rate Splitting Multiple Access](http://arxiv.org/abs/2608.16866v1)|Muhammad Asif et.al.|[2608.16866v1](http://arxiv.org/abs/2608.16866v1)|
+|2026-08-17|[Rank-Aware Element Grouping for Power-Efficient Multiuser ISAC With an Extremely Large-Scale IRS](http://arxiv.org/abs/2608.16790v2)|Shengsheng Zhang et.al.|[2608.16790v2](http://arxiv.org/abs/2608.16790v2)|
+|2026-08-15|[Bringing Environmental Enhancement Back to Its Physical Essence via Specular Reflecting Surfaces](http://arxiv.org/abs/2608.15271v1)|Qingxiao Huang et.al.|[2608.15271v1](http://arxiv.org/abs/2608.15271v1)|
+|2026-08-15|[Unlocking Downlink NOMA with FARIS: Joint Clustering and Surface Configuration Design](http://arxiv.org/abs/2608.15245v1)|Hong-Bae Jeon et.al.|[2608.15245v1](http://arxiv.org/abs/2608.15245v1)|
+|2026-08-14|[Standard-Compliant Neuromorphic Integrated Sensing and Communications Aided by an Intelligent Reflecting Surface](http://arxiv.org/abs/2608.13985v1)|Jiho Park et.al.|[2608.13985v1](http://arxiv.org/abs/2608.13985v1)|
+|2026-08-13|[Low-Complexity Channel Parameter Estimation for Coprime HRIS-Assisted MIMO Systems](http://arxiv.org/abs/2608.13436v1)|Jean C. S. Ferreira et.al.|[2608.13436v1](http://arxiv.org/abs/2608.13436v1)|
+|2026-08-13|[Pareto-Aware Hierarchical Reinforcement Learning for Online Resource Allocation in RIS-assisted Large-Scale IoT Systems](http://arxiv.org/abs/2608.13032v1)|Wenhan Xu et.al.|[2608.13032v1](http://arxiv.org/abs/2608.13032v1)|
 |2026-08-12|[Digital Twin Networks for 6G Wireless Systems: Architecture, Enabling Technologies, Intelligent Control, and Open Challenges](http://arxiv.org/abs/2608.12267v1)<br/>*用于6G无线系统的数字孪生网络：架构、使能技术、智能控制与开放挑战*|Charalampos Oikonomidis et.al.|[2608.12267v1](http://arxiv.org/abs/2608.12267v1)|
 |2026-08-12|[Hybrid STAR-RIS Architecture for Joint Localization, Communication, and Power Transfer](http://arxiv.org/abs/2608.12085v1)<br/>*用于联合定位、通信与能量传输的混合STAR-RIS架构*|Haoran Ni et.al.|[2608.12085v1](http://arxiv.org/abs/2608.12085v1)|
 |2026-08-12|[Secure Coverage Enhancement in Aerial Reconfigurable Intelligent Surface-Assisted High-Speed Train Communication Systems](http://arxiv.org/abs/2608.12046v2)<br/>*空中可重构智能表面辅助高速列车通信系统的安全覆盖增强*|Changzhu Liu et.al.|[2608.12046v2](http://arxiv.org/abs/2608.12046v2)|

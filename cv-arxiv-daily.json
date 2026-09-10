@@ -765,7 +765,7 @@
     "2608.25803": {
       "date": "2026-08-26",
       "title_en": "Generative AI-Enabled Mission-Aware Radio Orchestration for RIS-Assisted LEO Satellite ISAC Systems",
-      "title_cn": "生成式人工智能赋能的RIS辅助低轨卫星ISAC系统任务感知无线电编排",
+      "title_cn": "",
       "author": "Fitsum Debebe Tilahun",
       "paper_id": "2608.25803v1",
       "paper_url": "http://arxiv.org/abs/2608.25803v1"
@@ -773,7 +773,7 @@
     "2608.25402": {
       "date": "2026-08-26",
       "title_en": "Lightweight AI for UAV-Mounted RIS: An Overview",
-      "title_cn": "无人机搭载RIS的轻量级人工智能：综述",
+      "title_cn": "",
       "author": "Sherief Hashima",
       "paper_id": "2608.25402v1",
       "paper_url": "http://arxiv.org/abs/2608.25402v1"
@@ -781,7 +781,7 @@
     "2608.25393": {
       "date": "2026-08-26",
       "title_en": "End-to-End Mobility-Aware Multi-RIS Optimization via Blockage Detection and Closed-Form Riemannian Updates",
-      "title_cn": "基于阻塞检测和闭式黎曼更新的端到端移动性感知多RIS优化",
+      "title_cn": "",
       "author": "Sehyun Ryu",
       "paper_id": "2608.25393v1",
       "paper_url": "http://arxiv.org/abs/2608.25393v1"
@@ -789,7 +789,7 @@
     "2608.24287": {
       "date": "2026-08-25",
       "title_en": "Impact of Optical Reconfigurable Intelligent Surfaces on Channel Estimation for VLC Systems",
-      "title_cn": "光学可重构智能表面对可见光通信系统信道估计的影响",
+      "title_cn": "",
       "author": "Borja Genoves Guzman",
       "paper_id": "2608.24287v1",
       "paper_url": "http://arxiv.org/abs/2608.24287v1"
@@ -797,7 +797,7 @@
     "2608.23422": {
       "date": "2026-08-24",
       "title_en": "RIS-Assisted Radar-Communication Coexistence: Detection Analysis with Channel Uncertainties",
-      "title_cn": "RIS辅助的雷达通信共存：信道不确定性下的检测分析",
+      "title_cn": "",
       "author": "Rawan Derbas",
       "paper_id": "2608.23422v1",
       "paper_url": "http://arxiv.org/abs/2608.23422v1"
@@ -805,7 +805,7 @@
     "2608.22169": {
       "date": "2026-08-23",
       "title_en": "MARL-Based Sequential RIS Auctions: A Physical-Layer Security Analysis",
-      "title_cn": "基于多智能体强化学习的序列RIS拍卖：物理层安全分析",
+      "title_cn": "",
       "author": "Yuanyu Zhang",
       "paper_id": "2608.22169v1",
       "paper_url": "http://arxiv.org/abs/2608.22169v1"
@@ -813,7 +813,7 @@
     "2608.21669": {
       "date": "2026-08-21",
       "title_en": "Reconfigurable Intelligent Surfaces for Cognitive Radio Networks: Design, Optimization, and Emerging Trends",
-      "title_cn": "用于认知无线电网络的可重构智能表面：设计、优化与新兴趋势",
+      "title_cn": "",
       "author": "Diluka Galappaththige",
       "paper_id": "2608.21669v1",
       "paper_url": "http://arxiv.org/abs/2608.21669v1"
@@ -821,7 +821,7 @@
     "2608.20278": {
       "date": "2026-08-20",
       "title_en": "Secrecy Rate Maximization for UAV-Mounted Six-Dimensional Movable IRS-Assisted ISAC Systems",
-      "title_cn": "无人机搭载六维可移动IRS辅助ISAC系统的保密速率最大化",
+      "title_cn": "",
       "author": "Chengye Hong",
       "paper_id": "2608.20278v1",
       "paper_url": "http://arxiv.org/abs/2608.20278v1"
@@ -829,7 +829,7 @@
     "2608.20007": {
       "date": "2026-08-20",
       "title_en": "Real Interference Alignment for Active IRS-Aided Systems: A Rate-Profile Learning-Based Approach",
-      "title_cn": "有源IRS辅助系统的实际干扰对齐：一种基于速率剖面学习的方法",
+      "title_cn": "",
       "author": "Junda Liao",
       "paper_id": "2608.20007v1",
       "paper_url": "http://arxiv.org/abs/2608.20007v1"
@@ -837,7 +837,7 @@
     "2608.19736": {
       "date": "2026-08-20",
       "title_en": "Tri-Hybrid Beamforming for T-RIS-Enabled Base Station",
-      "title_cn": "T-RIS赋能基站的三混合波束成形",
+      "title_cn": "",
       "author": "Hongtao Zhang",
       "paper_id": "2608.19736v1",
       "paper_url": "http://arxiv.org/abs/2608.19736v1"
@@ -845,7 +845,7 @@
     "2608.18458": {
       "date": "2026-08-19",
       "title_en": "Joint Beamforming and Phase Shifts Design for RIS-Enabled RSMA-ISAC Systems",
-      "title_cn": "RIS赋能RSMA-ISAC系统的联合波束成形与相移设计",
+      "title_cn": "",
       "author": "Xuejun Cheng",
       "paper_id": "2608.18458v1",
       "paper_url": "http://arxiv.org/abs/2608.18458v1"
@@ -853,7 +853,7 @@
     "2608.16866": {
       "date": "2026-08-17",
       "title_en": "Exploiting Movable-Element STARS for Rate Splitting Multiple Access",
-      "title_cn": "利用可移动单元STARS实现速率分裂多址",
+      "title_cn": "",
       "author": "Muhammad Asif",
       "paper_id": "2608.16866v1",
       "paper_url": "http://arxiv.org/abs/2608.16866v1"
@@ -861,7 +861,7 @@
     "2608.16790": {
       "date": "2026-08-17",
       "title_en": "Rank-Aware Element Grouping for Power-Efficient Multiuser ISAC With an Extremely Large-Scale IRS",
-      "title_cn": "超大规模IRS中功率高效多用户ISAC的秩感知单元分组",
+      "title_cn": "",
       "author": "Shengsheng Zhang",
       "paper_id": "2608.16790v2",
       "paper_url": "http://arxiv.org/abs/2608.16790v2"
@@ -869,7 +869,7 @@
     "2608.15271": {
       "date": "2026-08-15",
       "title_en": "Bringing Environmental Enhancement Back to Its Physical Essence via Specular Reflecting Surfaces",
-      "title_cn": "通过镜面反射表面将环境增强回归其物理本质",
+      "title_cn": "",
       "author": "Qingxiao Huang",
       "paper_id": "2608.15271v1",
       "paper_url": "http://arxiv.org/abs/2608.15271v1"
@@ -877,7 +877,7 @@
     "2608.15245": {
       "date": "2026-08-15",
       "title_en": "Unlocking Downlink NOMA with FARIS: Joint Clustering and Surface Configuration Design",
-      "title_cn": "借助FARIS释放下行NOMA：联合聚类与表面配置设计",
+      "title_cn": "",
       "author": "Hong-Bae Jeon",
       "paper_id": "2608.15245v1",
       "paper_url": "http://arxiv.org/abs/2608.15245v1"
@@ -885,7 +885,7 @@
     "2608.13985": {
       "date": "2026-08-14",
       "title_en": "Standard-Compliant Neuromorphic Integrated Sensing and Communications Aided by an Intelligent Reflecting Surface",
-      "title_cn": "智能反射面辅助的符合标准的神经形态集成感知与通信",
+      "title_cn": "",
       "author": "Jiho Park",
       "paper_id": "2608.13985v1",
       "paper_url": "http://arxiv.org/abs/2608.13985v1"
@@ -893,7 +893,7 @@
     "2608.13436": {
       "date": "2026-08-13",
       "title_en": "Low-Complexity Channel Parameter Estimation for Coprime HRIS-Assisted MIMO Systems",
-      "title_cn": "互素HRIS辅助MIMO系统的低复杂度信道参数估计",
+      "title_cn": "",
       "author": "Jean C. S. Ferreira",
       "paper_id": "2608.13436v1",
       "paper_url": "http://arxiv.org/abs/2608.13436v1"
@@ -901,7 +901,7 @@
     "2608.13032": {
       "date": "2026-08-13",
       "title_en": "Pareto-Aware Hierarchical Reinforcement Learning for Online Resource Allocation in RIS-assisted Large-Scale IoT Systems",
-      "title_cn": "RIS辅助大规模物联网系统中在线资源分配的帕累托感知分层强化学习",
+      "title_cn": "",
       "author": "Wenhan Xu",
       "paper_id": "2608.13032v1",
       "paper_url": "http://arxiv.org/abs/2608.13032v1"
@@ -1001,6 +1001,102 @@
       "author": "Spandan Manna",
       "paper_id": "2608.06541v1",
       "paper_url": "http://arxiv.org/abs/2608.06541v1"
+    },
+    "2609.10468": {
+      "date": "2026-09-09",
+      "title_en": "HAPS-RIS or HAPS-Relay: Which Outperforms Under Impairments with NOMA in 6G NTN?",
+      "title_cn": "",
+      "author": "Bilal Karaman",
+      "paper_id": "2609.10468v1",
+      "paper_url": "http://arxiv.org/abs/2609.10468v1"
+    },
+    "2609.09885": {
+      "date": "2026-09-09",
+      "title_en": "Decision Transformer for UAV-Mounted RIS-Assisted Dynamic D2D Communications",
+      "title_cn": "",
+      "author": "Yaxuan Liu",
+      "paper_id": "2609.09885v1",
+      "paper_url": "http://arxiv.org/abs/2609.09885v1"
+    },
+    "2609.08545": {
+      "date": "2026-09-08",
+      "title_en": "Movable-Element STAR-RIS for 6G: From Programmable Propagation to Programmable Geometry",
+      "title_cn": "",
+      "author": "Wali Ullah Khan",
+      "paper_id": "2609.08545v1",
+      "paper_url": "http://arxiv.org/abs/2609.08545v1"
+    },
+    "2609.07995": {
+      "date": "2026-09-07",
+      "title_en": "Characterization of Beam-Squint and Beam-Split Effects in RIS-assisted Multi-Frequency Networks",
+      "title_cn": "",
+      "author": "Mohammad Amin Saeidi",
+      "paper_id": "2609.07995v1",
+      "paper_url": "http://arxiv.org/abs/2609.07995v1"
+    },
+    "2609.04536": {
+      "date": "2026-09-03",
+      "title_en": "Deep Reinforcement Learning for Optimization of STAR-RIS Phase and Energy Splitting Coefficients in OTFS-NOMA Framework",
+      "title_cn": "",
+      "author": "Rais. J. Gachaba",
+      "paper_id": "2609.04536v1",
+      "paper_url": "http://arxiv.org/abs/2609.04536v1"
+    },
+    "2609.03484": {
+      "date": "2026-09-03",
+      "title_en": "Polarization-Aware Rotatable Antennas for RIS-Empowered Symbiotic Radios",
+      "title_cn": "",
+      "author": "Chao Zhang",
+      "paper_id": "2609.03484v1",
+      "paper_url": "http://arxiv.org/abs/2609.03484v1"
+    },
+    "2608.30586": {
+      "date": "2026-08-31",
+      "title_en": "Intelligent Reflecting Surface Deployment for Low-Altitude Coverage: Illumination Geometry, Directional Characteristics, and Optimization",
+      "title_cn": "",
+      "author": "Guoying Zhang",
+      "paper_id": "2608.30586v1",
+      "paper_url": "http://arxiv.org/abs/2608.30586v1"
+    },
+    "2608.29725": {
+      "date": "2026-08-30",
+      "title_en": "A New Paradigm of 6G Networks: Proactive Channel Cognition and Reconfiguration",
+      "title_cn": "",
+      "author": "Wenyan Ma",
+      "paper_id": "2608.29725v1",
+      "paper_url": "http://arxiv.org/abs/2608.29725v1"
+    },
+    "2608.29424": {
+      "date": "2026-08-29",
+      "title_en": "Transmissive RIS-Assisted Vehicular Direct-to-Satellite Communications: Opportunities, Limitations, and Comparison with Phased Arrays",
+      "title_cn": "",
+      "author": "Wali Ullah Khan",
+      "paper_id": "2608.29424v1",
+      "paper_url": "http://arxiv.org/abs/2608.29424v1"
+    },
+    "2608.28890": {
+      "date": "2026-08-28",
+      "title_en": "Adaptive RIS-aided Communications through ML-based Generation of Phase Masks",
+      "title_cn": "",
+      "author": "Corwin Carpenter",
+      "paper_id": "2608.28890v1",
+      "paper_url": "http://arxiv.org/abs/2608.28890v1"
+    },
+    "2608.27837": {
+      "date": "2026-08-28",
+      "title_en": "Enabling Secure Wireless Communications for FARIS-Aided Systems",
+      "title_cn": "",
+      "author": "Hong-Bae Jeon",
+      "paper_id": "2608.27837v1",
+      "paper_url": "http://arxiv.org/abs/2608.27837v1"
+    },
+    "2608.27835": {
+      "date": "2026-08-28",
+      "title_en": "Robust Joint Beamforming and Configuration Design in FARIS-Aided Systems",
+      "title_cn": "",
+      "author": "Hong-Bae Jeon",
+      "paper_id": "2608.27835v1",
+      "paper_url": "http://arxiv.org/abs/2608.27835v1"
     }
   }
 }
