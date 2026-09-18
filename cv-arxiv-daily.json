@@ -1097,6 +1097,54 @@
       "author": "Hong-Bae Jeon",
       "paper_id": "2608.27835v1",
       "paper_url": "http://arxiv.org/abs/2608.27835v1"
+    },
+    "2609.18360": {
+      "date": "2026-09-16",
+      "title_en": "Physically Consistent Modeling of Dispersive Time-Modulated Reconfigurable Intelligent Surfaces for Wideband OFDM",
+      "title_cn": "",
+      "author": "Ivan Iudice",
+      "paper_id": "2609.18360v1",
+      "paper_url": "http://arxiv.org/abs/2609.18360v1"
+    },
+    "2609.15173": {
+      "date": "2026-09-14",
+      "title_en": "Full-Wave-Calibrated Element-Wise RIS Modeling With Cross-Aperture Coefficient Transfer for Multipath Channel Prediction",
+      "title_cn": "",
+      "author": "Yuxuan Ding",
+      "paper_id": "2609.15173v1",
+      "paper_url": "http://arxiv.org/abs/2609.15173v1"
+    },
+    "2609.14974": {
+      "date": "2026-09-14",
+      "title_en": "Discrete Antenna Positioning and Beamforming Design for RIS-Assisted MA Secure ISAC Systems",
+      "title_cn": "",
+      "author": "Zhendong Li",
+      "paper_id": "2609.14974v1",
+      "paper_url": "http://arxiv.org/abs/2609.14974v1"
+    },
+    "2609.14511": {
+      "date": "2026-09-13",
+      "title_en": "Combating Suppressive Jamming with Dynamic Agile Reconfigurable Intelligent Surface Antenna Array (DARISAA)",
+      "title_cn": "",
+      "author": "Yakun Ma",
+      "paper_id": "2609.14511v1",
+      "paper_url": "http://arxiv.org/abs/2609.14511v1"
+    },
+    "2609.14037": {
+      "date": "2026-09-12",
+      "title_en": "Beam Squint and Aperture--Bandwidth Limitations in Wideband RIS-Assisted THz Links",
+      "title_cn": "",
+      "author": "Waqas Khalid",
+      "paper_id": "2609.14037v1",
+      "paper_url": "http://arxiv.org/abs/2609.14037v1"
+    },
+    "2609.12481": {
+      "date": "2026-09-11",
+      "title_en": "Secrecy Sum-Rate Maximization in Finite Blocklength IRS-aided Systems With Perfect and Imperfect CSI",
+      "title_cn": "",
+      "author": "Monir Abughalwa",
+      "paper_id": "2609.12481v1",
+      "paper_url": "http://arxiv.org/abs/2609.12481v1"
     }
   }
 }

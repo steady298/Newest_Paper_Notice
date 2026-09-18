@@ -1,6 +1,6 @@
 # 曲面RIS 论文追踪
 
-**最后更新**: 2026年09月10日
+**最后更新**: 2026年09月18日
 
 本文档自动追踪 arXiv 上关于曲面RIS相关领域的最新论文。
 
@@ -33,12 +33,18 @@
 
 ## RIS
 
-**总计**: 133 篇论文
+**总计**: 139 篇论文
 
 ### 2026年09月
 
 | 发布日期 | 论文标题 | 第一作者 | PDF链接 |
 |:--------|:---------|:---------|:--------|
+|2026-09-16|[Physically Consistent Modeling of Dispersive Time-Modulated Reconfigurable Intelligent Surfaces for Wideband OFDM](http://arxiv.org/abs/2609.18360v1)|Ivan Iudice et.al.|[2609.18360v1](http://arxiv.org/abs/2609.18360v1)|
+|2026-09-14|[Full-Wave-Calibrated Element-Wise RIS Modeling With Cross-Aperture Coefficient Transfer for Multipath Channel Prediction](http://arxiv.org/abs/2609.15173v1)|Yuxuan Ding et.al.|[2609.15173v1](http://arxiv.org/abs/2609.15173v1)|
+|2026-09-14|[Discrete Antenna Positioning and Beamforming Design for RIS-Assisted MA Secure ISAC Systems](http://arxiv.org/abs/2609.14974v1)|Zhendong Li et.al.|[2609.14974v1](http://arxiv.org/abs/2609.14974v1)|
+|2026-09-13|[Combating Suppressive Jamming with Dynamic Agile Reconfigurable Intelligent Surface Antenna Array (DARISAA)](http://arxiv.org/abs/2609.14511v1)|Yakun Ma et.al.|[2609.14511v1](http://arxiv.org/abs/2609.14511v1)|
+|2026-09-12|[Beam Squint and Aperture--Bandwidth Limitations in Wideband RIS-Assisted THz Links](http://arxiv.org/abs/2609.14037v1)|Waqas Khalid et.al.|[2609.14037v1](http://arxiv.org/abs/2609.14037v1)|
+|2026-09-11|[Secrecy Sum-Rate Maximization in Finite Blocklength IRS-aided Systems With Perfect and Imperfect CSI](http://arxiv.org/abs/2609.12481v1)|Monir Abughalwa et.al.|[2609.12481v1](http://arxiv.org/abs/2609.12481v1)|
 |2026-09-09|[HAPS-RIS or HAPS-Relay: Which Outperforms Under Impairments with NOMA in 6G NTN?](http://arxiv.org/abs/2609.10468v1)|Bilal Karaman et.al.|[2609.10468v1](http://arxiv.org/abs/2609.10468v1)|
 |2026-09-09|[Decision Transformer for UAV-Mounted RIS-Assisted Dynamic D2D Communications](http://arxiv.org/abs/2609.09885v1)|Yaxuan Liu et.al.|[2609.09885v1](http://arxiv.org/abs/2609.09885v1)|
 |2026-09-08|[Movable-Element STAR-RIS for 6G: From Programmable Propagation to Programmable Geometry](http://arxiv.org/abs/2609.08545v1)|Wali Ullah Khan et.al.|[2609.08545v1](http://arxiv.org/abs/2609.08545v1)|
