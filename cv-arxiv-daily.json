@@ -765,7 +765,7 @@
     "2608.25803": {
       "date": "2026-08-26",
       "title_en": "Generative AI-Enabled Mission-Aware Radio Orchestration for RIS-Assisted LEO Satellite ISAC Systems",
-      "title_cn": "生成式人工智能赋能的可重构智能表面辅助低轨卫星感知与通信一体化系统中的任务感知无线电编排",
+      "title_cn": "生成式人工智能赋能的任务感知无线电编排用于可重构智能表面辅助的低地球轨道卫星感知通信一体化系统",
       "author": "Fitsum Debebe Tilahun",
       "paper_id": "2608.25803v1",
       "paper_url": "http://arxiv.org/abs/2608.25803v1"
@@ -773,7 +773,7 @@
     "2608.25402": {
       "date": "2026-08-26",
       "title_en": "Lightweight AI for UAV-Mounted RIS: An Overview",
-      "title_cn": "无人机搭载可重构智能表面中的轻量级人工智能：综述",
+      "title_cn": "轻量级人工智能用于无人机搭载可重构智能表面：综述",
       "author": "Sherief Hashima",
       "paper_id": "2608.25402v1",
       "paper_url": "http://arxiv.org/abs/2608.25402v1"
@@ -1005,7 +1005,7 @@
     "2609.10468": {
       "date": "2026-09-09",
       "title_en": "HAPS-RIS or HAPS-Relay: Which Outperforms Under Impairments with NOMA in 6G NTN?",
-      "title_cn": "高空平台站-可重构智能表面还是高空平台站-中继：6G非地面网络中非正交多址在损伤下的性能比较",
+      "title_cn": "高空平台站-可重构智能表面还是高空平台站-中继：在6G非地面网络中，NOMA干扰下哪个性能更优？",
       "author": "Bilal Karaman",
       "paper_id": "2609.10468v1",
       "paper_url": "http://arxiv.org/abs/2609.10468v1"
@@ -1013,7 +1013,7 @@
     "2609.09885": {
       "date": "2026-09-09",
       "title_en": "Decision Transformer for UAV-Mounted RIS-Assisted Dynamic D2D Communications",
-      "title_cn": "用于无人机搭载可重构智能表面辅助动态设备到设备通信的决策Transformer",
+      "title_cn": "决策Transformer用于无人机搭载可重构智能表面辅助的动态设备到设备通信",
       "author": "Yaxuan Liu",
       "paper_id": "2609.09885v1",
       "paper_url": "http://arxiv.org/abs/2609.09885v1"
@@ -1029,7 +1029,7 @@
     "2609.07995": {
       "date": "2026-09-07",
       "title_en": "Characterization of Beam-Squint and Beam-Split Effects in RIS-assisted Multi-Frequency Networks",
-      "title_cn": "可重构智能表面辅助多频网络中波束斜视与波束分裂效应的特性分析",
+      "title_cn": "可重构智能表面辅助多频网络中波束斜视和波束分裂效应的表征",
       "author": "Mohammad Amin Saeidi",
       "paper_id": "2609.07995v1",
       "paper_url": "http://arxiv.org/abs/2609.07995v1"
@@ -1037,7 +1037,7 @@
     "2609.04536": {
       "date": "2026-09-03",
       "title_en": "Deep Reinforcement Learning for Optimization of STAR-RIS Phase and Energy Splitting Coefficients in OTFS-NOMA Framework",
-      "title_cn": "正交时频空-非正交多址框架中同传同反可重构智能表面相位与能量分裂系数优化的深度强化学习",
+      "title_cn": "深度强化学习用于正交时频空-非正交多址框架中同传同反可重构智能表面相位和能量分裂系数的优化",
       "author": "Rais. J. Gachaba",
       "paper_id": "2609.04536v1",
       "paper_url": "http://arxiv.org/abs/2609.04536v1"
@@ -1045,7 +1045,7 @@
     "2609.03484": {
       "date": "2026-09-03",
       "title_en": "Polarization-Aware Rotatable Antennas for RIS-Empowered Symbiotic Radios",
-      "title_cn": "用于可重构智能表面赋能共生无线电的极化感知可旋转天线",
+      "title_cn": "极化感知可旋转天线用于可重构智能表面赋能的共生无线电",
       "author": "Chao Zhang",
       "paper_id": "2609.03484v1",
       "paper_url": "http://arxiv.org/abs/2609.03484v1"
@@ -1053,7 +1053,7 @@
     "2608.30586": {
       "date": "2026-08-31",
       "title_en": "Intelligent Reflecting Surface Deployment for Low-Altitude Coverage: Illumination Geometry, Directional Characteristics, and Optimization",
-      "title_cn": "用于低空覆盖的智能反射面部署：照明几何、方向特性与优化",
+      "title_cn": "智能反射面部署用于低空覆盖：照明几何、方向特性与优化",
       "author": "Guoying Zhang",
       "paper_id": "2608.30586v1",
       "paper_url": "http://arxiv.org/abs/2608.30586v1"
@@ -1069,7 +1069,7 @@
     "2608.29424": {
       "date": "2026-08-29",
       "title_en": "Transmissive RIS-Assisted Vehicular Direct-to-Satellite Communications: Opportunities, Limitations, and Comparison with Phased Arrays",
-      "title_cn": "透射式可重构智能表面辅助车载直连卫星通信：机遇、局限性与相控阵比较",
+      "title_cn": "透射式可重构智能表面辅助车载直通卫星通信：机遇、局限性与相控阵比较",
       "author": "Wali Ullah Khan",
       "paper_id": "2608.29424v1",
       "paper_url": "http://arxiv.org/abs/2608.29424v1"
@@ -1077,7 +1077,7 @@
     "2608.28890": {
       "date": "2026-08-28",
       "title_en": "Adaptive RIS-aided Communications through ML-based Generation of Phase Masks",
-      "title_cn": "基于机器学习相位掩模生成的自适应可重构智能表面辅助通信",
+      "title_cn": "通过基于机器学习的相位掩模生成实现自适应可重构智能表面辅助通信",
       "author": "Corwin Carpenter",
       "paper_id": "2608.28890v1",
       "paper_url": "http://arxiv.org/abs/2608.28890v1"
@@ -1085,7 +1085,7 @@
     "2608.27837": {
       "date": "2026-08-28",
       "title_en": "Enabling Secure Wireless Communications for FARIS-Aided Systems",
-      "title_cn": "实现频率感知可重构智能表面辅助系统的安全无线通信",
+      "title_cn": "赋能频率捷变可重构智能表面辅助系统的安全无线通信",
       "author": "Hong-Bae Jeon",
       "paper_id": "2608.27837v1",
       "paper_url": "http://arxiv.org/abs/2608.27837v1"
@@ -1093,7 +1093,7 @@
     "2608.27835": {
       "date": "2026-08-28",
       "title_en": "Robust Joint Beamforming and Configuration Design in FARIS-Aided Systems",
-      "title_cn": "频率感知可重构智能表面辅助系统中的鲁棒联合波束赋形与配置设计",
+      "title_cn": "频率捷变可重构智能表面辅助系统中的鲁棒联合波束赋形与配置设计",
       "author": "Hong-Bae Jeon",
       "paper_id": "2608.27835v1",
       "paper_url": "http://arxiv.org/abs/2608.27835v1"
@@ -1101,7 +1101,7 @@
     "2609.18360": {
       "date": "2026-09-16",
       "title_en": "Physically Consistent Modeling of Dispersive Time-Modulated Reconfigurable Intelligent Surfaces for Wideband OFDM",
-      "title_cn": "宽带正交频分复用中色散时变调制可重构智能表面的物理一致性建模",
+      "title_cn": "宽带OFDM中色散时调制可重构智能表面的物理一致性建模",
       "author": "Ivan Iudice",
       "paper_id": "2609.18360v1",
       "paper_url": "http://arxiv.org/abs/2609.18360v1"
@@ -1109,7 +1109,7 @@
     "2609.15173": {
       "date": "2026-09-14",
       "title_en": "Full-Wave-Calibrated Element-Wise RIS Modeling With Cross-Aperture Coefficient Transfer for Multipath Channel Prediction",
-      "title_cn": "用于多径信道预测的全波校准单元级可重构智能表面建模与跨孔径系数传输",
+      "title_cn": "全波校准的单元级可重构智能表面建模与跨孔径系数传输用于多径信道预测",
       "author": "Yuxuan Ding",
       "paper_id": "2609.15173v1",
       "paper_url": "http://arxiv.org/abs/2609.15173v1"
@@ -1117,7 +1117,7 @@
     "2609.14974": {
       "date": "2026-09-14",
       "title_en": "Discrete Antenna Positioning and Beamforming Design for RIS-Assisted MA Secure ISAC Systems",
-      "title_cn": "可重构智能表面辅助多用户安全感知与通信一体化系统中的离散天线定位与波束赋形设计",
+      "title_cn": "离散天线定位与波束赋形设计用于可重构智能表面辅助多址安全感知通信一体化系统",
       "author": "Zhendong Li",
       "paper_id": "2609.14974v1",
       "paper_url": "http://arxiv.org/abs/2609.14974v1"
@@ -1125,7 +1125,7 @@
     "2609.14511": {
       "date": "2026-09-13",
       "title_en": "Combating Suppressive Jamming with Dynamic Agile Reconfigurable Intelligent Surface Antenna Array (DARISAA)",
-      "title_cn": "基于动态敏捷可重构智能表面天线阵列（DARISAA）对抗抑制性干扰",
+      "title_cn": "基于动态捷变可重构智能表面天线阵列 (DARISAA) 对抗抑制性干扰",
       "author": "Yakun Ma",
       "paper_id": "2609.14511v1",
       "paper_url": "http://arxiv.org/abs/2609.14511v1"
@@ -1141,10 +1141,90 @@
     "2609.12481": {
       "date": "2026-09-11",
       "title_en": "Secrecy Sum-Rate Maximization in Finite Blocklength IRS-aided Systems With Perfect and Imperfect CSI",
-      "title_cn": "完美与不完美信道状态信息下有限码长智能反射面辅助系统中的安全和速率最大化",
+      "title_cn": "有限码长智能反射面辅助系统中具有完美和不完美信道状态信息的安全和速率最大化",
       "author": "Monir Abughalwa",
       "paper_id": "2609.12481v1",
       "paper_url": "http://arxiv.org/abs/2609.12481v1"
+    },
+    "2609.26601": {
+      "date": "2026-09-22",
+      "title_en": "Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition",
+      "title_cn": "预测感知结构化资源控制用于分区智能反射面辅助移动物联网上行链路的半盲级联信道获取",
+      "author": "Hediyeh Soltanizadeh",
+      "paper_id": "2609.26601v1",
+      "paper_url": "http://arxiv.org/abs/2609.26601v1"
+    },
+    "2609.23319": {
+      "date": "2026-09-20",
+      "title_en": "Secrets in Radio Waves: Towards Practical and Protocol-Agnostic PHY Information Hiding",
+      "title_cn": "无线电波中的秘密：迈向实用和协议无关的物理层信息隐藏",
+      "author": "Guanxiong Shen",
+      "paper_id": "2609.23319v1",
+      "paper_url": "http://arxiv.org/abs/2609.23319v1"
+    },
+    "2609.23157": {
+      "date": "2026-09-19",
+      "title_en": "Orientation-Aware Control and Trajectory Design for Aerial RIS-Assisted Wireless Communications",
+      "title_cn": "方向感知控制与轨迹设计用于空中可重构智能表面辅助无线通信",
+      "author": "Abdoul Karim A. H. Saliah",
+      "paper_id": "2609.23157v1",
+      "paper_url": "http://arxiv.org/abs/2609.23157v1"
+    },
+    "2609.23112": {
+      "date": "2026-09-19",
+      "title_en": "Black-Box Attack for IRS-Aided Communications with BER-Only Feedback",
+      "title_cn": "基于仅误码率反馈的智能反射面辅助通信黑盒攻击",
+      "author": "Zhengkai Tu",
+      "paper_id": "2609.23112v1",
+      "paper_url": "http://arxiv.org/abs/2609.23112v1"
+    },
+    "2609.21723": {
+      "date": "2026-09-18",
+      "title_en": "Secure RIS-Aided Multicasting: Globally Optimal Beam Management and Discrete-Phase RIS Configuration",
+      "title_cn": "安全可重构智能表面辅助多播：全局最优波束管理与离散相位可重构智能表面配置",
+      "author": "Luis F. Abanto-Leon",
+      "paper_id": "2609.21723v1",
+      "paper_url": "http://arxiv.org/abs/2609.21723v1"
+    },
+    "2609.21077": {
+      "date": "2026-09-17",
+      "title_en": "GeoRIS: Geofencing With Reconfigurable Intelligent Surfaces",
+      "title_cn": "GeoRIS：基于可重构智能表面的地理围栏",
+      "author": "André Gomes",
+      "paper_id": "2609.21077v1",
+      "paper_url": "http://arxiv.org/abs/2609.21077v1"
+    },
+    "2609.21070": {
+      "date": "2026-09-17",
+      "title_en": "Structured Channel Parameter Estimation for RIS-Assisted MIMO Systems via Kronecker and Tensor Factorizations",
+      "title_cn": "基于克罗内克积和张量分解的可重构智能表面辅助MIMO系统结构化信道参数估计",
+      "author": "Melryllin G. O. Sousa",
+      "paper_id": "2609.21070v1",
+      "paper_url": "http://arxiv.org/abs/2609.21070v1"
+    },
+    "2609.21062": {
+      "date": "2026-09-17",
+      "title_en": "Exploiting Mutual Coupling Structure for Channel Estimation of Active RIS-Assisted Links",
+      "title_cn": "利用互耦结构进行有源可重构智能表面辅助链路的信道估计",
+      "author": "Simon Tarboush",
+      "paper_id": "2609.21062v1",
+      "paper_url": "http://arxiv.org/abs/2609.21062v1"
+    },
+    "2609.22314": {
+      "date": "2026-09-15",
+      "title_en": "Integrated Sensing and Communications: A Tutorial on Mathematical Foundations, Signal Processing and System Design for 6G",
+      "title_cn": "感知通信一体化：面向6G的数学基础、信号处理与系统设计综述",
+      "author": "Sabit Ekin",
+      "paper_id": "2609.22314v1",
+      "paper_url": "http://arxiv.org/abs/2609.22314v1"
+    },
+    "2609.22307": {
+      "date": "2026-09-15",
+      "title_en": "Joint Beamforming Optimization and Dynamic Tracking in RIS-Enabled Secure ISAC Systems",
+      "title_cn": "可重构智能表面赋能的安全感知通信一体化系统中的联合波束赋形优化与动态跟踪",
+      "author": "Zhendong Li",
+      "paper_id": "2609.22307v1",
+      "paper_url": "http://arxiv.org/abs/2609.22307v1"
     }
   }
 }
