@@ -1,6 +1,6 @@
 # 曲面RIS 论文追踪
 
-**最后更新**: 2026年10月02日
+**最后更新**: 2026年10月15日
 
 本文档自动追踪 arXiv 上关于曲面RIS相关领域的最新论文。
 
@@ -33,14 +33,42 @@
 
 ## RIS
 
-**总计**: 166 篇论文
+**总计**: 194 篇论文
 
 ### 2026年10月
 
 | 发布日期 | 论文标题 | 第一作者 | PDF链接 |
 |:--------|:---------|:---------|:--------|
-|2026-10-01|[System-Level Gains of Dual-Band RIS: From Wireless Communication to SWIPT](http://arxiv.org/abs/2610.01526v1)<br/>*双频段可重构智能表面的系统级增益：从无线通信到无线信息与功率同步传输*|Aritra Basu et.al.|[2610.01526v1](http://arxiv.org/abs/2610.01526v1)|
-|2026-10-01|[Cramér-Rao Bound Optimization for Joint Beamforming and Mode Selection in RDARS-Assisted ISAC Systems](http://arxiv.org/abs/2610.01474v1)<br/>*RDARS辅助感知与通信一体化系统中联合波束赋形与模式选择的克拉默-劳界优化*|Ahmad Reza Hassanshahi et.al.|[2610.01474v1](http://arxiv.org/abs/2610.01474v1)|
+|2026-10-13|[A Wideband STAR-RIS Employing Shared-Aperture Polarization Conversion and Diagonal Switching Topology for 6G Applications](http://arxiv.org/abs/2610.19040v1)<br/>*一种采用共享孔径极化转换和对角开关拓扑的宽带同传同反可重构智能表面用于6G应用*|Ruiqi Wang et.al.|[2610.19040v1](http://arxiv.org/abs/2610.19040v1)|
+|2026-10-13|[Rate-Splitting Multiple Access for RIS-Enabled Full-Duplex Communications with User Relaying](http://arxiv.org/abs/2610.18578v1)<br/>*速率分裂多址接入用于RIS使能的带用户中继全双工通信*|Yuwen Cao et.al.|[2610.18578v1](http://arxiv.org/abs/2610.18578v1)|
+|2026-10-13|[Learning or Modeling? Virtual XL-RIS Observation Reconstruction for Near-Field Sensing](http://arxiv.org/abs/2610.17566v1)<br/>*学习还是建模？用于近场感知的虚拟超大可重构智能表面观测重建*|Tuo Wu et.al.|[2610.17566v1](http://arxiv.org/abs/2610.17566v1)|
+|2026-10-12|[Investigation of RIS Integration in Satellite Systems Guided by ITU-R VSAT Radiation Diagram](http://arxiv.org/abs/2610.16699v1)<br/>*基于国际电信联盟无线电通信部门甚小口径终端辐射图的卫星系统中RIS集成研究*|Symeon Vaidanis et.al.|[2610.16699v1](http://arxiv.org/abs/2610.16699v1)|
+|2026-10-12|[Properties of Array Factor of Reconfigurable Intelligent Surfaces for Radio Communications](http://arxiv.org/abs/2610.16683v1)<br/>*可重构智能表面阵列因子在无线电通信中的特性*|Symeon Vaidanis et.al.|[2610.16683v1](http://arxiv.org/abs/2610.16683v1)|
+|2026-10-12|[A Reduced Greedy Minimum Distance Phase Shift Design for Quantized RIS-Assisted Spatial Modulation](http://arxiv.org/abs/2610.16519v1)<br/>*一种简化的贪婪最小距离相移设计用于量化RIS辅助的空间调制*|Alexander Kelly et.al.|[2610.16519v1](http://arxiv.org/abs/2610.16519v1)|
+|2026-10-10|[UAV-Mounted Hybrid RIS-Assisted ISAC-RSMA: Performance Analysis with Imperfect CSI and SIC](http://arxiv.org/abs/2610.15072v1)<br/>*无人机载混合RIS辅助的ISAC-RSMA：不完美CSI和SIC下的性能分析*|Chandan Kumar Singh et.al.|[2610.15072v1](http://arxiv.org/abs/2610.15072v1)|
+|2026-10-10|[Sum Rate Maximization for Practical RIS-Enhanced Rate-Splitting Multiple Access Systems](http://arxiv.org/abs/2610.14765v1)<br/>*实际RIS增强的速率分裂多址接入系统和速率最大化*|Qian Zhang et.al.|[2610.14765v1](http://arxiv.org/abs/2610.14765v1)|
+|2026-10-10|[DeepTelecom: A Differentiable Multimodal Framework for Channel Twinning in Dynamic Heterogeneous Wireless Environments](http://arxiv.org/abs/2610.14545v1)<br/>*DeepTelecom：一种用于动态异构无线环境中信道孪生的可微分多模态框架*|Bohao Wang et.al.|[2610.14545v1](http://arxiv.org/abs/2610.14545v1)|
+|2026-10-09|[Optimization of Active Reconfigurable Surfaces for Spatiotemporal MU-MIMO Wave Routing in Disordered Media: Application to the Cocktail-Party Problem](http://arxiv.org/abs/2610.14328v1)<br/>*有源可重构表面在无序介质中时空多用户多输入多输出波路由的优化：应用于鸡尾酒会问题*|Frederic J. N. Jorgensen et.al.|[2610.14328v1](http://arxiv.org/abs/2610.14328v1)|
+|2026-10-08|[Generative Control of Time-Modulated Intelligent Reflecting Surfaces for Scalable Directional Modulation](http://arxiv.org/abs/2610.12773v1)<br/>*时变智能反射面的生成式控制用于可扩展定向调制*|Kailong Wang et.al.|[2610.12773v1](http://arxiv.org/abs/2610.12773v1)|
+|2026-10-08|[Simultaneous Direct and Indirect Channel Estimation for RIS-Assisted MIMO Communications](http://arxiv.org/abs/2610.12592v1)<br/>*RIS辅助多输入多输出通信中的同时直接和间接信道估计*|Daniel V. C. de Oliveira et.al.|[2610.12592v1](http://arxiv.org/abs/2610.12592v1)|
+|2026-10-08|[Large-Scale Partition-Based RIS Beamforming For Uplink RIS-Equipped Multi-User Systems: Asymptotic Analysis](http://arxiv.org/abs/2610.11904v1)<br/>*大规模分区式RIS波束赋形用于上行RIS装备的多用户系统：渐近分析*|Samira Rahimian et.al.|[2610.11904v1](http://arxiv.org/abs/2610.11904v1)|
+|2026-10-07|[Near-Field Beamforming Design for Multi-IRS Wireless Beam Routing](http://arxiv.org/abs/2610.10155v1)<br/>*多IRS无线波束路由的近场波束赋形设计*|Tao Wang et.al.|[2610.10155v1](http://arxiv.org/abs/2610.10155v1)|
+|2026-10-06|[Hierarchical RIS Association for FR3 Space-Air-Ground Integrated Networks](http://arxiv.org/abs/2610.09010v1)<br/>*频段3空天地一体化网络的分层RIS关联*|Muddasir Rahim et.al.|[2610.09010v1](http://arxiv.org/abs/2610.09010v1)|
+|2026-10-06|[Beamforming Design for RIS-Assisted Backscatter NOMA in Underlay Cognitive Radio](http://arxiv.org/abs/2610.08973v1)<br/>*RIS辅助反向散射非正交多址接入在底层认知无线电中的波束赋形设计*|Kgomotjo Seipobi et.al.|[2610.08973v1](http://arxiv.org/abs/2610.08973v1)|
+|2026-10-06|[RIS-Assisted Reliability Maximization for URLLC in Upper Mid-Band 6G Networks](http://arxiv.org/abs/2610.08744v1)<br/>*RIS辅助的中高频段6G网络中超可靠低时延通信的可靠性最大化*|Muddasir Rahim et.al.|[2610.08744v1](http://arxiv.org/abs/2610.08744v1)|
+|2026-10-06|[Joint Beamforming for Continuous Transmissive RIS-Enabled Multiuser Communications](http://arxiv.org/abs/2610.07618v1)<br/>*连续透射式RIS使能的多用户通信的联合波束赋形*|Beining Han et.al.|[2610.07618v1](http://arxiv.org/abs/2610.07618v1)|
+|2026-10-05|[Reconfigurable Intelligent Surfaces: Architectures, Models, and Applications](http://arxiv.org/abs/2610.07436v1)<br/>*可重构智能表面：架构、模型与应用*|Mojtaba Fallahzadeh et.al.|[2610.07436v1](http://arxiv.org/abs/2610.07436v1)|
+|2026-10-05|[Goal-Oriented Wave Computing for Direction-of-Arrival Estimation](http://arxiv.org/abs/2610.06839v1)<br/>*面向目标的波计算用于到达方向估计*|Mert Kalfa et.al.|[2610.06839v1](http://arxiv.org/abs/2610.06839v1)|
+|2026-10-05|[Blind Beamforming for Intelligent Reflecting Surfaces: A Gradient Bandit Approach](http://arxiv.org/abs/2610.06565v1)<br/>*智能反射面的盲波束赋形：一种梯度赌博机方法*|Wenhai Lai et.al.|[2610.06565v1](http://arxiv.org/abs/2610.06565v1)|
+|2026-10-05|[Graph Neural Network-Driven Deep Reinforcement Learning for Scalable RIS Allocation](http://arxiv.org/abs/2610.06295v1)<br/>*图神经网络驱动的深度强化学习用于可扩展RIS分配*|Martin Mark Zan et.al.|[2610.06295v1](http://arxiv.org/abs/2610.06295v1)|
+|2026-10-05|[Doppler-Aware Meta-Learning for Evolutive STAR-RIS in Cognitive Autonomous Networks](http://arxiv.org/abs/2610.05641v2)<br/>*多普勒感知的元学习用于认知自治网络中的演进式同传同反可重构智能表面*|Noha Hassan et.al.|[2610.05641v2](http://arxiv.org/abs/2610.05641v2)|
+|2026-10-04|[Beamforming and Trajectory Optimization for Aerial RIS-Aided Secure ISAC via Model Predictive Control](http://arxiv.org/abs/2610.04885v1)<br/>*通过模型预测控制的空中RIS辅助安全感知与通信一体化中的波束赋形与轨迹优化*|Zhendong Li et.al.|[2610.04885v1](http://arxiv.org/abs/2610.04885v1)|
+|2026-10-02|[RIS Aided Multi-Way Communication Systems based on SIC Decoding Techniques](http://arxiv.org/abs/2610.03967v1)<br/>*基于连续干扰消除解码技术的RIS辅助多向通信系统*|Lingya Wang et.al.|[2610.03967v1](http://arxiv.org/abs/2610.03967v1)|
+|2026-10-02|[Network Adaptation in IRS-Aided Hybrid RF/VLC Systems Using Cooperative Multi-Agent DRL](http://arxiv.org/abs/2610.03964v1)<br/>*使用协作多智能体深度强化学习的IRS辅助混合射频/可见光通信系统中的网络自适应*|Ahrar N. Hamad et.al.|[2610.03964v1](http://arxiv.org/abs/2610.03964v1)|
+|2026-10-02|[Joint Beamforming and RIS Deployment Optimization for Outdoor-to-Indoor Coverage at Upper Mid-Band: A Dual-Band Ray-Tracing Study](http://arxiv.org/abs/2610.03887v1)<br/>*中高频段室外到室内覆盖的联合波束赋形与RIS部署优化：一项双频段射线追踪研究*|Mingjun Ying et.al.|[2610.03887v1](http://arxiv.org/abs/2610.03887v1)|
+|2026-10-02|[SAC-Controlled RIS-Assisted Monopulse Radar for Multipath-Robust Vital-Sign Localization](http://arxiv.org/abs/2610.03643v1)<br/>*SAC控制的RIS辅助单脉冲雷达用于多径鲁棒的生命体征定位*|Jafar Norolahi et.al.|[2610.03643v1](http://arxiv.org/abs/2610.03643v1)|
+|2026-10-01|[System-Level Gains of Dual-Band RIS: From Wireless Communication to SWIPT](http://arxiv.org/abs/2610.01526v1)<br/>*双频段RIS的系统级增益：从无线通信到无线信息与功率同步传输*|Aritra Basu et.al.|[2610.01526v1](http://arxiv.org/abs/2610.01526v1)|
+|2026-10-01|[Cramér-Rao Bound Optimization for Joint Beamforming and Mode Selection in RDARS-Assisted ISAC Systems](http://arxiv.org/abs/2610.01474v1)<br/>*RDARS辅助的感知与通信一体化系统中联合波束赋形与模式选择的克拉默-劳界优化*|Ahmad Reza Hassanshahi et.al.|[2610.01474v1](http://arxiv.org/abs/2610.01474v1)|
 
 ### 2026年09月
 
