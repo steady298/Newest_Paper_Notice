@@ -1365,7 +1365,7 @@
     "2610.19040": {
       "date": "2026-10-13",
       "title_en": "A Wideband STAR-RIS Employing Shared-Aperture Polarization Conversion and Diagonal Switching Topology for 6G Applications",
-      "title_cn": "一种采用共享孔径极化转换和对角开关拓扑的宽带同传同反可重构智能表面用于6G应用",
+      "title_cn": "一种采用共享孔径极化转换和对角切换拓扑的宽带STAR-RIS用于6G应用",
       "author": "Ruiqi Wang",
       "paper_id": "2610.19040v1",
       "paper_url": "http://arxiv.org/abs/2610.19040v1"
@@ -1373,7 +1373,7 @@
     "2610.18578": {
       "date": "2026-10-13",
       "title_en": "Rate-Splitting Multiple Access for RIS-Enabled Full-Duplex Communications with User Relaying",
-      "title_cn": "速率分裂多址接入用于RIS使能的带用户中继全双工通信",
+      "title_cn": "带用户中继的RIS赋能全双工通信中的速率分裂多址接入",
       "author": "Yuwen Cao",
       "paper_id": "2610.18578v1",
       "paper_url": "http://arxiv.org/abs/2610.18578v1"
@@ -1381,7 +1381,7 @@
     "2610.17566": {
       "date": "2026-10-13",
       "title_en": "Learning or Modeling? Virtual XL-RIS Observation Reconstruction for Near-Field Sensing",
-      "title_cn": "学习还是建模？用于近场感知的虚拟超大可重构智能表面观测重建",
+      "title_cn": "学习还是建模？用于近场感知的虚拟XL-RIS观测重建",
       "author": "Tuo Wu",
       "paper_id": "2610.17566v1",
       "paper_url": "http://arxiv.org/abs/2610.17566v1"
@@ -1389,7 +1389,7 @@
     "2610.16699": {
       "date": "2026-10-12",
       "title_en": "Investigation of RIS Integration in Satellite Systems Guided by ITU-R VSAT Radiation Diagram",
-      "title_cn": "基于国际电信联盟无线电通信部门甚小口径终端辐射图的卫星系统中RIS集成研究",
+      "title_cn": "ITU-R VSAT辐射图引导的卫星系统中RIS集成研究",
       "author": "Symeon Vaidanis",
       "paper_id": "2610.16699v1",
       "paper_url": "http://arxiv.org/abs/2610.16699v1"
@@ -1397,7 +1397,7 @@
     "2610.16683": {
       "date": "2026-10-12",
       "title_en": "Properties of Array Factor of Reconfigurable Intelligent Surfaces for Radio Communications",
-      "title_cn": "可重构智能表面阵列因子在无线电通信中的特性",
+      "title_cn": "用于无线通信的可重构智能表面阵列因子特性",
       "author": "Symeon Vaidanis",
       "paper_id": "2610.16683v1",
       "paper_url": "http://arxiv.org/abs/2610.16683v1"
@@ -1405,7 +1405,7 @@
     "2610.16519": {
       "date": "2026-10-12",
       "title_en": "A Reduced Greedy Minimum Distance Phase Shift Design for Quantized RIS-Assisted Spatial Modulation",
-      "title_cn": "一种简化的贪婪最小距离相移设计用于量化RIS辅助的空间调制",
+      "title_cn": "一种用于量化RIS辅助空间调制的简化贪婪最小距离相移设计",
       "author": "Alexander Kelly",
       "paper_id": "2610.16519v1",
       "paper_url": "http://arxiv.org/abs/2610.16519v1"
@@ -1413,7 +1413,7 @@
     "2610.15072": {
       "date": "2026-10-10",
       "title_en": "UAV-Mounted Hybrid RIS-Assisted ISAC-RSMA: Performance Analysis with Imperfect CSI and SIC",
-      "title_cn": "无人机载混合RIS辅助的ISAC-RSMA：不完美CSI和SIC下的性能分析",
+      "title_cn": "无人机搭载混合RIS辅助的ISAC-RSMA：不完美CSI和SIC下的性能分析",
       "author": "Chandan Kumar Singh",
       "paper_id": "2610.15072v1",
       "paper_url": "http://arxiv.org/abs/2610.15072v1"
@@ -1421,7 +1421,7 @@
     "2610.14765": {
       "date": "2026-10-10",
       "title_en": "Sum Rate Maximization for Practical RIS-Enhanced Rate-Splitting Multiple Access Systems",
-      "title_cn": "实际RIS增强的速率分裂多址接入系统和速率最大化",
+      "title_cn": "实用RIS增强速率分裂多址接入系统的和速率最大化",
       "author": "Qian Zhang",
       "paper_id": "2610.14765v1",
       "paper_url": "http://arxiv.org/abs/2610.14765v1"
@@ -1429,7 +1429,7 @@
     "2610.14545": {
       "date": "2026-10-10",
       "title_en": "DeepTelecom: A Differentiable Multimodal Framework for Channel Twinning in Dynamic Heterogeneous Wireless Environments",
-      "title_cn": "DeepTelecom：一种用于动态异构无线环境中信道孪生的可微分多模态框架",
+      "title_cn": "DeepTelecom：动态异构无线环境中用于信道孪生的一种可微分多模态框架",
       "author": "Bohao Wang",
       "paper_id": "2610.14545v1",
       "paper_url": "http://arxiv.org/abs/2610.14545v1"
@@ -1437,7 +1437,7 @@
     "2610.14328": {
       "date": "2026-10-09",
       "title_en": "Optimization of Active Reconfigurable Surfaces for Spatiotemporal MU-MIMO Wave Routing in Disordered Media: Application to the Cocktail-Party Problem",
-      "title_cn": "有源可重构表面在无序介质中时空多用户多输入多输出波路由的优化：应用于鸡尾酒会问题",
+      "title_cn": "无序介质中时空多用户MIMO波路由的有源可重构表面优化：应用于鸡尾酒会问题",
       "author": "Frederic J. N. Jorgensen",
       "paper_id": "2610.14328v1",
       "paper_url": "http://arxiv.org/abs/2610.14328v1"
@@ -1445,7 +1445,7 @@
     "2610.12773": {
       "date": "2026-10-08",
       "title_en": "Generative Control of Time-Modulated Intelligent Reflecting Surfaces for Scalable Directional Modulation",
-      "title_cn": "时变智能反射面的生成式控制用于可扩展定向调制",
+      "title_cn": "用于可扩展定向调制的时变智能反射面生成式控制",
       "author": "Kailong Wang",
       "paper_id": "2610.12773v1",
       "paper_url": "http://arxiv.org/abs/2610.12773v1"
@@ -1453,7 +1453,7 @@
     "2610.12592": {
       "date": "2026-10-08",
       "title_en": "Simultaneous Direct and Indirect Channel Estimation for RIS-Assisted MIMO Communications",
-      "title_cn": "RIS辅助多输入多输出通信中的同时直接和间接信道估计",
+      "title_cn": "RIS辅助MIMO通信中的直射与间接信道联合估计",
       "author": "Daniel V. C. de Oliveira",
       "paper_id": "2610.12592v1",
       "paper_url": "http://arxiv.org/abs/2610.12592v1"
@@ -1461,7 +1461,7 @@
     "2610.11904": {
       "date": "2026-10-08",
       "title_en": "Large-Scale Partition-Based RIS Beamforming For Uplink RIS-Equipped Multi-User Systems: Asymptotic Analysis",
-      "title_cn": "大规模分区式RIS波束赋形用于上行RIS装备的多用户系统：渐近分析",
+      "title_cn": "面向上行RIS装备多用户系统的大规模分区RIS波束赋形：渐近分析",
       "author": "Samira Rahimian",
       "paper_id": "2610.11904v1",
       "paper_url": "http://arxiv.org/abs/2610.11904v1"
@@ -1469,7 +1469,7 @@
     "2610.10155": {
       "date": "2026-10-07",
       "title_en": "Near-Field Beamforming Design for Multi-IRS Wireless Beam Routing",
-      "title_cn": "多IRS无线波束路由的近场波束赋形设计",
+      "title_cn": "用于多IRS无线波束路由的近场波束赋形设计",
       "author": "Tao Wang",
       "paper_id": "2610.10155v1",
       "paper_url": "http://arxiv.org/abs/2610.10155v1"
@@ -1477,7 +1477,7 @@
     "2610.09010": {
       "date": "2026-10-06",
       "title_en": "Hierarchical RIS Association for FR3 Space-Air-Ground Integrated Networks",
-      "title_cn": "频段3空天地一体化网络的分层RIS关联",
+      "title_cn": "面向FR3空天地一体化网络的分层RIS关联",
       "author": "Muddasir Rahim",
       "paper_id": "2610.09010v1",
       "paper_url": "http://arxiv.org/abs/2610.09010v1"
@@ -1485,7 +1485,7 @@
     "2610.08973": {
       "date": "2026-10-06",
       "title_en": "Beamforming Design for RIS-Assisted Backscatter NOMA in Underlay Cognitive Radio",
-      "title_cn": "RIS辅助反向散射非正交多址接入在底层认知无线电中的波束赋形设计",
+      "title_cn": "底层认知无线电中RIS辅助反向散射NOMA的波束赋形设计",
       "author": "Kgomotjo Seipobi",
       "paper_id": "2610.08973v1",
       "paper_url": "http://arxiv.org/abs/2610.08973v1"
@@ -1493,7 +1493,7 @@
     "2610.08744": {
       "date": "2026-10-06",
       "title_en": "RIS-Assisted Reliability Maximization for URLLC in Upper Mid-Band 6G Networks",
-      "title_cn": "RIS辅助的中高频段6G网络中超可靠低时延通信的可靠性最大化",
+      "title_cn": "中高频段6G网络中RIS辅助URLLC可靠性最大化",
       "author": "Muddasir Rahim",
       "paper_id": "2610.08744v1",
       "paper_url": "http://arxiv.org/abs/2610.08744v1"
@@ -1501,7 +1501,7 @@
     "2610.07618": {
       "date": "2026-10-06",
       "title_en": "Joint Beamforming for Continuous Transmissive RIS-Enabled Multiuser Communications",
-      "title_cn": "连续透射式RIS使能的多用户通信的联合波束赋形",
+      "title_cn": "用于连续透射式RIS赋能多用户通信的联合波束赋形",
       "author": "Beining Han",
       "paper_id": "2610.07618v1",
       "paper_url": "http://arxiv.org/abs/2610.07618v1"
@@ -1585,6 +1585,102 @@
       "author": "Jafar Norolahi",
       "paper_id": "2610.03643v1",
       "paper_url": "http://arxiv.org/abs/2610.03643v1"
+    },
+    "2610.27972": {
+      "date": "2026-10-20",
+      "title_en": "RIS Configuration with Low-Overhead Measurements via Physics-Guided Neural Networks",
+      "title_cn": "基于物理引导神经网络的低开销测量RIS配置",
+      "author": "Son Dinh-Van",
+      "paper_id": "2610.27972v1",
+      "paper_url": "http://arxiv.org/abs/2610.27972v1"
+    },
+    "2610.27695": {
+      "date": "2026-10-20",
+      "title_en": "Revolutionizing 6G Wireless Networks with RISs: Enhancements in Sensing and Communications",
+      "title_cn": "RIS赋能6G无线网络革新：感知与通信增强",
+      "author": "Jiguang He",
+      "paper_id": "2610.27695v1",
+      "paper_url": "http://arxiv.org/abs/2610.27695v1"
+    },
+    "2610.27291": {
+      "date": "2026-10-19",
+      "title_en": "QoS-Aware Joint 1-Bit RIS Element Activation and Fluid-Antenna Port Selection",
+      "title_cn": "QoS感知的1比特RIS单元激活与流体天线端口联合选择",
+      "author": "Khalid Yahya",
+      "paper_id": "2610.27291v1",
+      "paper_url": "http://arxiv.org/abs/2610.27291v1"
+    },
+    "2610.26344": {
+      "date": "2026-10-19",
+      "title_en": "On the Performance of RIS Transmitter with Receive Combining Techniques",
+      "title_cn": "采用接收合并技术的RIS发射机性能研究",
+      "author": "Muhammed Faruk Karabay",
+      "paper_id": "2610.26344v1",
+      "paper_url": "http://arxiv.org/abs/2610.26344v1"
+    },
+    "2610.25798": {
+      "date": "2026-10-19",
+      "title_en": "Robust Resource Allocation for STAR-RIS-Assisted ISAC Networks Using Deep Learning",
+      "title_cn": "基于深度学习的STAR-RIS辅助ISAC网络鲁棒资源分配",
+      "author": "Yuwen Cao",
+      "paper_id": "2610.25798v1",
+      "paper_url": "http://arxiv.org/abs/2610.25798v1"
+    },
+    "2610.24560": {
+      "date": "2026-10-17",
+      "title_en": "Discrete Phase-Shift Optimization of Reconfigurable Intelligent Surfaces using Uniform Reference Directions",
+      "title_cn": "采用均匀参考方向的可重构智能表面离散相移优化",
+      "author": "Pavithra P.",
+      "paper_id": "2610.24560v1",
+      "paper_url": "http://arxiv.org/abs/2610.24560v1"
+    },
+    "2610.23602": {
+      "date": "2026-10-16",
+      "title_en": "Integrated sensing, communications, and identification for low-altitude economy",
+      "title_cn": "面向低空经济的感知、通信与识别一体化",
+      "author": "Shanxing Zeng",
+      "paper_id": "2610.23602v1",
+      "paper_url": "http://arxiv.org/abs/2610.23602v1"
+    },
+    "2610.23437": {
+      "date": "2026-10-16",
+      "title_en": "Sensing-Driven Secure Transmission with Mobile Eavesdropper Tracking in RIS-Assisted ISAC",
+      "title_cn": "RIS辅助ISAC中带移动窃听者跟踪的感知驱动安全传输",
+      "author": "Jie Li",
+      "paper_id": "2610.23437v1",
+      "paper_url": "http://arxiv.org/abs/2610.23437v1"
+    },
+    "2610.23139": {
+      "date": "2026-10-16",
+      "title_en": "Robust Design of Sensing-Assisted Secure Transmission for RIS-Aided ISAC System under Eavesdropper 3D Positioning Uncertainty",
+      "title_cn": "窃听者三维定位不确定性下RIS辅助ISAC系统感知辅助安全传输的鲁棒设计",
+      "author": "Jie Li",
+      "paper_id": "2610.23139v1",
+      "paper_url": "http://arxiv.org/abs/2610.23139v1"
+    },
+    "2610.22884": {
+      "date": "2026-10-16",
+      "title_en": "Federated Multiagent Soft Actor Critic for IRS Assisted Cognitive Radio Networks under Partial Observability",
+      "title_cn": "部分可观测性下IRS辅助认知无线电网络的联邦多智能体软演员-评论家",
+      "author": "Satvika Pullisani",
+      "paper_id": "2610.22884v1",
+      "paper_url": "http://arxiv.org/abs/2610.22884v1"
+    },
+    "2610.22431": {
+      "date": "2026-10-15",
+      "title_en": "GPU-Accelerated Robust MA--RIS Pre-Optimization for Communication and Target Illumination",
+      "title_cn": "GPU加速的鲁棒MA-RIS预优化用于通信与目标照明",
+      "author": "Tran Le Dung",
+      "paper_id": "2610.22431v1",
+      "paper_url": "http://arxiv.org/abs/2610.22431v1"
+    },
+    "2610.21043": {
+      "date": "2026-10-15",
+      "title_en": "Orientation-Aware Deep Learning Framework for RSSI-Based Indoor Localization in RIS-Aided mmWave Systems",
+      "title_cn": "RIS辅助毫米波系统中基于RSSI的室内定位方向感知深度学习框架",
+      "author": "Varun S. Advani",
+      "paper_id": "2610.21043v1",
+      "paper_url": "http://arxiv.org/abs/2610.21043v1"
     }
   }
 }
