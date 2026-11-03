@@ -1365,7 +1365,7 @@
     "2610.19040": {
       "date": "2026-10-13",
       "title_en": "A Wideband STAR-RIS Employing Shared-Aperture Polarization Conversion and Diagonal Switching Topology for 6G Applications",
-      "title_cn": "一种采用共享孔径极化转换和对角切换拓扑的宽带STAR-RIS用于6G应用",
+      "title_cn": "一种面向6G应用的采用共享孔径极化转换与对角切换拓扑的宽带同传同反RIS",
       "author": "Ruiqi Wang",
       "paper_id": "2610.19040v1",
       "paper_url": "http://arxiv.org/abs/2610.19040v1"
@@ -1373,7 +1373,7 @@
     "2610.18578": {
       "date": "2026-10-13",
       "title_en": "Rate-Splitting Multiple Access for RIS-Enabled Full-Duplex Communications with User Relaying",
-      "title_cn": "面向RIS使能的全双工通信与用户中继的速率分裂多址",
+      "title_cn": "面向带用户中继的RIS赋能全双工通信的速率分裂多址",
       "author": "Yuwen Cao",
       "paper_id": "2610.18578v1",
       "paper_url": "http://arxiv.org/abs/2610.18578v1"
@@ -1381,7 +1381,7 @@
     "2610.17566": {
       "date": "2026-10-13",
       "title_en": "Learning or Modeling? Virtual XL-RIS Observation Reconstruction for Near-Field Sensing",
-      "title_cn": "学习还是建模？用于近场感知的虚拟XL-RIS观测重建",
+      "title_cn": "学习还是建模？面向近场感知的虚拟超大RIS观测重建",
       "author": "Tuo Wu",
       "paper_id": "2610.17566v1",
       "paper_url": "http://arxiv.org/abs/2610.17566v1"
@@ -1389,7 +1389,7 @@
     "2610.16699": {
       "date": "2026-10-12",
       "title_en": "Investigation of RIS Integration in Satellite Systems Guided by ITU-R VSAT Radiation Diagram",
-      "title_cn": "ITU-R VSAT辐射图引导下RIS在卫星系统中的集成研究",
+      "title_cn": "基于ITU-R甚小口径终端辐射图的RIS在卫星系统中的集成研究",
       "author": "Symeon Vaidanis",
       "paper_id": "2610.16699v1",
       "paper_url": "http://arxiv.org/abs/2610.16699v1"
@@ -1397,7 +1397,7 @@
     "2610.16683": {
       "date": "2026-10-12",
       "title_en": "Properties of Array Factor of Reconfigurable Intelligent Surfaces for Radio Communications",
-      "title_cn": "用于无线通信的可重构智能表面阵列因子特性",
+      "title_cn": "面向无线通信的可重构智能表面阵列因子特性",
       "author": "Symeon Vaidanis",
       "paper_id": "2610.16683v1",
       "paper_url": "http://arxiv.org/abs/2610.16683v1"
@@ -1405,7 +1405,7 @@
     "2610.16519": {
       "date": "2026-10-12",
       "title_en": "A Reduced Greedy Minimum Distance Phase Shift Design for Quantized RIS-Assisted Spatial Modulation",
-      "title_cn": "一种用于量化RIS辅助空间调制的简化贪婪最小距离相移设计",
+      "title_cn": "面向量化RIS辅助空间调制的简化贪婪最小距离相移设计",
       "author": "Alexander Kelly",
       "paper_id": "2610.16519v1",
       "paper_url": "http://arxiv.org/abs/2610.16519v1"
@@ -1597,31 +1597,31 @@
     "2610.27695": {
       "date": "2026-10-20",
       "title_en": "Revolutionizing 6G Wireless Networks with RISs: Enhancements in Sensing and Communications",
-      "title_cn": "利用RISs变革6G无线网络：感知与通信的增强",
+      "title_cn": "RISs变革6G无线网络：感知与通信的增强",
       "author": "Jiguang He",
-      "paper_id": "2610.27695v1",
-      "paper_url": "http://arxiv.org/abs/2610.27695v1"
+      "paper_id": "2610.27695v2",
+      "paper_url": "http://arxiv.org/abs/2610.27695v2"
     },
     "2610.27291": {
       "date": "2026-10-19",
       "title_en": "QoS-Aware Joint 1-Bit RIS Element Activation and Fluid-Antenna Port Selection",
-      "title_cn": "QoS感知的1比特RIS单元激活与流体天线端口联合选择",
+      "title_cn": "业务质量感知的1比特RIS单元激活与流体天线端口联合选择",
       "author": "Khalid Yahya",
       "paper_id": "2610.27291v1",
       "paper_url": "http://arxiv.org/abs/2610.27291v1"
     },
     "2610.26344": {
       "date": "2026-10-19",
-      "title_en": "On the Performance of RIS Transmitter with Receive Combining Techniques",
-      "title_cn": "采用接收合并技术的RIS发射机性能研究",
+      "title_en": "On the Performance of RIS-Empowered Transmitters with Receive Combining Techniques",
+      "title_cn": "关于RIS赋能发射机与接收合并技术的性能",
       "author": "Muhammed Faruk Karabay",
-      "paper_id": "2610.26344v1",
-      "paper_url": "http://arxiv.org/abs/2610.26344v1"
+      "paper_id": "2610.26344v2",
+      "paper_url": "http://arxiv.org/abs/2610.26344v2"
     },
     "2610.25798": {
       "date": "2026-10-19",
       "title_en": "Robust Resource Allocation for STAR-RIS-Assisted ISAC Networks Using Deep Learning",
-      "title_cn": "基于深度学习的STAR-RIS辅助ISAC网络鲁棒资源分配",
+      "title_cn": "基于深度学习的同传同反RIS辅助ISAC网络的鲁棒资源分配",
       "author": "Yuwen Cao",
       "paper_id": "2610.25798v1",
       "paper_url": "http://arxiv.org/abs/2610.25798v1"
@@ -1629,7 +1629,7 @@
     "2610.24560": {
       "date": "2026-10-17",
       "title_en": "Discrete Phase-Shift Optimization of Reconfigurable Intelligent Surfaces using Uniform Reference Directions",
-      "title_cn": "采用均匀参考方向的可重构智能表面离散相移优化",
+      "title_cn": "基于均匀参考方向的可重构智能表面离散相移优化",
       "author": "Pavithra P.",
       "paper_id": "2610.24560v1",
       "paper_url": "http://arxiv.org/abs/2610.24560v1"
@@ -1637,7 +1637,7 @@
     "2610.23602": {
       "date": "2026-10-16",
       "title_en": "Integrated sensing, communications, and identification for low-altitude economy",
-      "title_cn": "面向低空经济的综合感知、通信与识别",
+      "title_cn": "面向低空经济的感知、通信与识别一体化",
       "author": "Shanxing Zeng",
       "paper_id": "2610.23602v1",
       "paper_url": "http://arxiv.org/abs/2610.23602v1"
@@ -1653,7 +1653,7 @@
     "2610.23139": {
       "date": "2026-10-16",
       "title_en": "Robust Design of Sensing-Assisted Secure Transmission for RIS-Aided ISAC System under Eavesdropper 3D Positioning Uncertainty",
-      "title_cn": "窃听者三维定位不确定性下RIS辅助ISAC系统感知辅助安全传输的鲁棒设计",
+      "title_cn": "窃听者三维定位不确定性下RIS辅助ISAC系统中感知辅助安全传输的鲁棒设计",
       "author": "Jie Li",
       "paper_id": "2610.23139v1",
       "paper_url": "http://arxiv.org/abs/2610.23139v1"
@@ -1661,7 +1661,7 @@
     "2610.22884": {
       "date": "2026-10-16",
       "title_en": "Federated Multiagent Soft Actor Critic for IRS Assisted Cognitive Radio Networks under Partial Observability",
-      "title_cn": "部分可观测性下IRS辅助认知无线电网络的联邦多智能体软演员-评论家算法",
+      "title_cn": "部分可观测性下RIS辅助认知无线电网络的联邦多智能体软Actor-Critic",
       "author": "Satvika Pullisani",
       "paper_id": "2610.22884v1",
       "paper_url": "http://arxiv.org/abs/2610.22884v1"
@@ -1669,7 +1669,7 @@
     "2610.22431": {
       "date": "2026-10-15",
       "title_en": "GPU-Accelerated Robust MA--RIS Pre-Optimization for Communication and Target Illumination",
-      "title_cn": "GPU加速的鲁棒MA-RIS预优化用于通信和目标照明",
+      "title_cn": "面向通信与目标照射的GPU加速鲁棒移动天线RIS预优化",
       "author": "Tran Le Dung",
       "paper_id": "2610.22431v1",
       "paper_url": "http://arxiv.org/abs/2610.22431v1"
@@ -1677,10 +1677,98 @@
     "2610.21043": {
       "date": "2026-10-15",
       "title_en": "Orientation-Aware Deep Learning Framework for RSSI-Based Indoor Localization in RIS-Aided mmWave Systems",
-      "title_cn": "RIS辅助毫米波系统中基于RSSI的室内定位方向感知深度学习框架",
+      "title_cn": "RIS辅助毫米波系统中基于RSSI的室内定位的方向感知深度学习框架",
       "author": "Varun S. Advani",
       "paper_id": "2610.21043v1",
       "paper_url": "http://arxiv.org/abs/2610.21043v1"
+    },
+    "2611.01881": {
+      "date": "2026-11-01",
+      "title_en": "Green Learning-Based Signal-Level Detection of RIS Spoofing Attacks in Vehicular ISAC Systems",
+      "title_cn": "基于绿色学习的车载ISAC系统中RIS欺骗攻击的信号级检测",
+      "author": "Po-Heng Chou",
+      "paper_id": "2611.01881v1",
+      "paper_url": "http://arxiv.org/abs/2611.01881v1"
+    },
+    "2611.01650": {
+      "date": "2026-11-01",
+      "title_en": "Worst-User Outage Probability Minimization in Active RIS-Aided Systems",
+      "title_cn": "有源RIS辅助系统中最差用户中断概率最小化",
+      "author": "Donghwan Shin",
+      "paper_id": "2611.01650v1",
+      "paper_url": "http://arxiv.org/abs/2611.01650v1"
+    },
+    "2610.39827": {
+      "date": "2026-10-29",
+      "title_en": "Deep Reinforcement Learning for Blind Passive Beamforming in RIS-Assisted MIMO Systems",
+      "title_cn": "RIS辅助MIMO系统中盲无源波束赋形的深度强化学习",
+      "author": "Oumaïma Bounhar",
+      "paper_id": "2610.39827v1",
+      "paper_url": "http://arxiv.org/abs/2610.39827v1"
+    },
+    "2610.39533": {
+      "date": "2026-10-29",
+      "title_en": "Beyond Diagonal RIS for Physical-Layer Security: Low-Complexity Solution in the Low-SNR Regime",
+      "title_cn": "面向物理层安全的超对角RIS：低信噪比区域的低复杂度解决方案",
+      "author": "Rawan Derbas",
+      "paper_id": "2610.39533v1",
+      "paper_url": "http://arxiv.org/abs/2610.39533v1"
+    },
+    "2610.38483": {
+      "date": "2026-10-28",
+      "title_en": "Movable Beyond-Diagonal RIS for ISAC: Optimal Placement and Pareto Boundary",
+      "title_cn": "面向ISAC的可移动超对角RIS：最优放置与帕累托边界",
+      "author": "Chandan Kumar Sheemar",
+      "paper_id": "2610.38483v1",
+      "paper_url": "http://arxiv.org/abs/2610.38483v1"
+    },
+    "2610.34701": {
+      "date": "2026-10-26",
+      "title_en": "Movable-Element Multi-Functional RIS-Assisted Hybrid RSMA-NOMA: A Constrained Hybrid Reinforcement Learning Approach",
+      "title_cn": "可移动单元多功能RIS辅助的混合RSMA-NOMA：一种受限混合强化学习方法",
+      "author": "Li-Hsiang Shen",
+      "paper_id": "2610.34701v1",
+      "paper_url": "http://arxiv.org/abs/2610.34701v1"
+    },
+    "2610.34275": {
+      "date": "2026-10-25",
+      "title_en": "RIS-Assisted Downlink Pinching-Antenna Systems With NLOS Environments",
+      "title_cn": "RIS辅助的非视距环境下行夹持天线系统",
+      "author": "Yue Geng",
+      "paper_id": "2610.34275v1",
+      "paper_url": "http://arxiv.org/abs/2610.34275v1"
+    },
+    "2610.34088": {
+      "date": "2026-10-25",
+      "title_en": "Secure Integrated Sensing and Communications with Movable Beyond-Diagonal RIS",
+      "title_cn": "基于可移动超对角RIS的安全感知与通信一体化",
+      "author": "Chandan Kumar Sheemar",
+      "paper_id": "2610.34088v1",
+      "paper_url": "http://arxiv.org/abs/2610.34088v1"
+    },
+    "2610.33945": {
+      "date": "2026-10-24",
+      "title_en": "Learning-Accelerated Joint AP/RIS Optimization for Low-Latency Indoor mmWave XR Networks",
+      "title_cn": "面向低时延室内毫米波XR网络的学习加速AP/RIS联合优化",
+      "author": "Ali Elghariani",
+      "paper_id": "2610.33945v1",
+      "paper_url": "http://arxiv.org/abs/2610.33945v1"
+    },
+    "2610.33415": {
+      "date": "2026-10-24",
+      "title_en": "Statistical Design of Multi-BD-RIS-Assisted User-Centric Cell-Free Massive MIMO",
+      "title_cn": "多超对角RIS辅助的以用户为中心的无蜂窝大规模MIMO的统计设计",
+      "author": "Mohammad Ezaz",
+      "paper_id": "2610.33415v1",
+      "paper_url": "http://arxiv.org/abs/2610.33415v1"
+    },
+    "2610.32898": {
+      "date": "2026-10-23",
+      "title_en": "Polyhedral RIS Architecture with Quantum-Assisted Facet Selection for Uniform Coverage",
+      "title_cn": "面向均匀覆盖的量子辅助面选择多面体RIS架构",
+      "author": "Noha Hassan",
+      "paper_id": "2610.32898v1",
+      "paper_url": "http://arxiv.org/abs/2610.32898v1"
     }
   }
 }
