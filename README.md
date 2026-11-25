@@ -1,6 +1,6 @@
 # 曲面RIS 论文追踪
 
-**最后更新**: 2026年11月17日
+**最后更新**: 2026年11月25日
 
 本文档自动追踪 arXiv 上关于曲面RIS相关领域的最新论文。
 
@@ -33,41 +33,47 @@
 
 ## RIS
 
-**总计**: 236 篇论文
+**总计**: 242 篇论文
 
 ### 2026年11月
 
 | 发布日期 | 论文标题 | 第一作者 | PDF链接 |
 |:--------|:---------|:---------|:--------|
-|2026-11-16|[SiGMA: Site-Grounded Multi-Modal ISAC Data Generation for Environment-Aware Communications](http://arxiv.org/abs/2611.20665v1)<br/>*SiGMA：基于站点的多模态ISAC数据生成，实现环境感知通信*|Yijie Bian et.al.|[2611.20665v1](http://arxiv.org/abs/2611.20665v1)|
-|2026-11-16|[Weighted Sum-Rate Optimization of Near-Field STAR-RIS-Aided ISAC Systems Under Hardware Impairments](http://arxiv.org/abs/2611.20492v1)<br/>*硬件损伤下近场STAR-RIS辅助ISAC系统的加权和速率优化*|Huy T. Nguyen et.al.|[2611.20492v1](http://arxiv.org/abs/2611.20492v1)|
-|2026-11-14|[Active-Element Configuration for Energy-Efficient Secure Near-Field ISAC With Hybrid RISs](http://arxiv.org/abs/2611.19309v1)<br/>*混合RIS中用于节能安全近场ISAC的有源元件配置*|Ling Zhuang et.al.|[2611.19309v1](http://arxiv.org/abs/2611.19309v1)|
+|2026-11-24|[QoS-Constrained Sum-Rate Maximization in RIS-Assisted Pinching-Antenna NOMA Systems](http://arxiv.org/abs/2611.32849v1)<br/>*RIS辅助夹持天线NOMA系统中QoS约束的和速率最大化*|Lütfullah Özkan et.al.|[2611.32849v1](http://arxiv.org/abs/2611.32849v1)|
+|2026-11-20|[A Dual-Mode Protocol for Space-Time-Coding Metasurfaces in OFDM ISAC Systems](http://arxiv.org/abs/2611.27813v1)<br/>*OFDM感知与通信一体化系统中空时编码超表面的双模协议*|Donatella Darsena et.al.|[2611.27813v1](http://arxiv.org/abs/2611.27813v1)|
+|2026-11-19|[DNN-Assisted Deterministic Policy Learning for Adaptive IRS-NOMA-OWC Networks](http://arxiv.org/abs/2611.26742v1)<br/>*深度神经网络辅助的自适应IRS-NOMA-OWC网络确定性策略学习*|Ahrar N. Hamad et.al.|[2611.26742v1](http://arxiv.org/abs/2611.26742v1)|
+|2026-11-19|[An LLM-Orchestrated Agent Framework for CKM-Assisted Network Deployment Optimization](http://arxiv.org/abs/2611.25556v1)<br/>*大语言模型编排的信道知识图辅助网络部署优化智能体框架*|Yilong Chen et.al.|[2611.25556v1](http://arxiv.org/abs/2611.25556v1)|
+|2026-11-18|[SFiD: Self-Supervised Fitness-Driven Optimization for Next-Generation Networking](http://arxiv.org/abs/2611.23802v1)<br/>*SFiD：面向下一代网络的自监督适应度驱动优化*|Kalpesh K. Patel et.al.|[2611.23802v1](http://arxiv.org/abs/2611.23802v1)|
+|2026-11-18|[Towards Environment-Aware 6G Network Planning: An Any-to-Any Channel Knowledge Map Approach](http://arxiv.org/abs/2611.23724v1)<br/>*迈向环境感知6G网络规划：一种任意到任意信道知识图方法*|Yilong Chen et.al.|[2611.23724v1](http://arxiv.org/abs/2611.23724v1)|
+|2026-11-16|[SiGMA: Site-Grounded Multi-Modal ISAC Data Generation for Environment-Aware Communications](http://arxiv.org/abs/2611.20665v1)<br/>*SiGMA：面向环境感知通信的站点基础多模态感知与通信一体化数据生成*|Yijie Bian et.al.|[2611.20665v1](http://arxiv.org/abs/2611.20665v1)|
+|2026-11-16|[Weighted Sum-Rate Optimization of Near-Field STAR-RIS-Aided ISAC Systems Under Hardware Impairments](http://arxiv.org/abs/2611.20492v1)<br/>*考虑硬件损伤的近场STAR-RIS辅助感知与通信一体化系统加权和速率优化*|Huy T. Nguyen et.al.|[2611.20492v1](http://arxiv.org/abs/2611.20492v1)|
+|2026-11-14|[Active-Element Configuration for Energy-Efficient Secure Near-Field ISAC With Hybrid RISs](http://arxiv.org/abs/2611.19309v1)<br/>*混合RIS下节能安全近场感知与通信一体化的有源元件配置*|Ling Zhuang et.al.|[2611.19309v1](http://arxiv.org/abs/2611.19309v1)|
 |2026-11-14|[Towards Self-Organizing Channel Coding in 6G-Enabled IoT Networks: Trends, Cognitive Architectures, and Open Challenges](http://arxiv.org/abs/2611.19169v1)<br/>*迈向6G使能物联网中的自组织信道编码：趋势、认知架构与开放挑战*|M. Moazam Azeem et.al.|[2611.19169v1](http://arxiv.org/abs/2611.19169v1)|
-|2026-11-13|[Game-Theoretic Analysis of RIS-Assisted Challenge-Response PLA - Part II: Partial Channel Knowledge](http://arxiv.org/abs/2611.17907v1)<br/>*RIS辅助挑战-响应物理层认证的博弈论分析——第二部分：部分信道知识*|Anna V. Guglielmi et.al.|[2611.17907v1](http://arxiv.org/abs/2611.17907v1)|
-|2026-11-13|[Resource Management and Trajectory Optimization for UAV-IRS Assisted Maritime Edge Computing Networks](http://arxiv.org/abs/2611.17803v1)<br/>*无人机-IRS辅助海事边缘计算网络的资源管理与轨迹优化*|Chaoyue Zhang et.al.|[2611.17803v1](http://arxiv.org/abs/2611.17803v1)|
+|2026-11-13|[Game-Theoretic Analysis of RIS-Assisted Challenge-Response PLA - Part II: Partial Channel Knowledge](http://arxiv.org/abs/2611.17907v1)<br/>*RIS辅助挑战-响应物理层认证的博弈论分析 - 第二部分：部分信道知识*|Anna V. Guglielmi et.al.|[2611.17907v1](http://arxiv.org/abs/2611.17907v1)|
+|2026-11-13|[Resource Management and Trajectory Optimization for UAV-IRS Assisted Maritime Edge Computing Networks](http://arxiv.org/abs/2611.17803v1)<br/>*无人机-IRS辅助海洋边缘计算网络的资源管理与轨迹优化*|Chaoyue Zhang et.al.|[2611.17803v1](http://arxiv.org/abs/2611.17803v1)|
 |2026-11-13|[Brain-inspired Beam Selection for mmWave RIS Communication](http://arxiv.org/abs/2611.17666v1)<br/>*毫米波RIS通信中的仿脑波束选择*|Aris Karampelas Timotijevic et.al.|[2611.17666v1](http://arxiv.org/abs/2611.17666v1)|
-|2026-11-12|[Game-Theoretic Analysis of RIS-Assisted Challenge-Response PLA - Part I: Perfect Channel Knowledge](http://arxiv.org/abs/2611.16557v1)<br/>*RIS辅助挑战-响应物理层认证的博弈论分析——第一部分：完美信道知识*|Anna V. Guglielmi et.al.|[2611.16557v1](http://arxiv.org/abs/2611.16557v1)|
-|2026-11-11|[Harnessing Environmental Scatterers for Endogenous Target Covertness in 6G ISAC: A New Paradigm for Sensing Security](http://arxiv.org/abs/2611.16110v1)<br/>*在6G ISAC中利用环境散射体实现内生目标隐蔽性：感知安全的新范式*|Yifan Zhang et.al.|[2611.16110v1](http://arxiv.org/abs/2611.16110v1)|
-|2026-11-11|[A Tutorial on Infrastructure Self-Calibration for Radio-Based Indoor Positioning](http://arxiv.org/abs/2611.15503v1)<br/>*基于无线电的室内定位中基础设施自校准的教程*|Paul Schwarzbach et.al.|[2611.15503v1](http://arxiv.org/abs/2611.15503v1)|
+|2026-11-12|[Game-Theoretic Analysis of RIS-Assisted Challenge-Response PLA - Part I: Perfect Channel Knowledge](http://arxiv.org/abs/2611.16557v1)<br/>*RIS辅助挑战-响应物理层认证的博弈论分析 - 第一部分：完美信道知识*|Anna V. Guglielmi et.al.|[2611.16557v1](http://arxiv.org/abs/2611.16557v1)|
+|2026-11-11|[Harnessing Environmental Scatterers for Endogenous Target Covertness in 6G ISAC: A New Paradigm for Sensing Security](http://arxiv.org/abs/2611.16110v1)<br/>*6G感知与通信一体化中利用环境散射体实现内生目标隐蔽性：感知安全的新范式*|Yifan Zhang et.al.|[2611.16110v1](http://arxiv.org/abs/2611.16110v1)|
+|2026-11-11|[A Tutorial on Infrastructure Self-Calibration for Radio-Based Indoor Positioning](http://arxiv.org/abs/2611.15503v1)<br/>*基于无线电室内定位的基础设施自校准教程*|Paul Schwarzbach et.al.|[2611.15503v1](http://arxiv.org/abs/2611.15503v1)|
 |2026-11-07|[A Bussgang-based Latent Lifting Method: Discrete RIS Channel Estimation and Beamforming](http://arxiv.org/abs/2611.10814v1)<br/>*一种基于Bussgang的潜在提升方法：离散RIS信道估计与波束赋形*|Mintaek Oh et.al.|[2611.10814v1](http://arxiv.org/abs/2611.10814v1)|
-|2026-11-07|[Intelligent Reflecting Surface for ISAC: From Beamforming to Joint Design With Surface Orientation](http://arxiv.org/abs/2611.10589v1)<br/>*用于ISAC的智能反射面：从波束赋形到与表面方向的联合设计*|Qiaoyan Peng et.al.|[2611.10589v1](http://arxiv.org/abs/2611.10589v1)|
-|2026-11-07|[Learning-Assisted Beamforming Optimization for Hybrid XL-RIS-Aided Communication](http://arxiv.org/abs/2611.10569v1)<br/>*混合XL-RIS辅助通信中的学习辅助波束赋形优化*|Awuni Mohammed Abdul-Razak et.al.|[2611.10569v1](http://arxiv.org/abs/2611.10569v1)|
+|2026-11-07|[Intelligent Reflecting Surface for ISAC: From Beamforming to Joint Design With Surface Orientation](http://arxiv.org/abs/2611.10589v1)<br/>*用于感知与通信一体化的智能反射面：从波束赋形到表面方向的联合设计*|Qiaoyan Peng et.al.|[2611.10589v1](http://arxiv.org/abs/2611.10589v1)|
+|2026-11-07|[Learning-Assisted Beamforming Optimization for Hybrid XL-RIS-Aided Communication](http://arxiv.org/abs/2611.10569v1)<br/>*学习辅助的混合XL-RIS辅助通信波束赋形优化*|Awuni Mohammed Abdul-Razak et.al.|[2611.10569v1](http://arxiv.org/abs/2611.10569v1)|
 |2026-11-05|[Uplink Enhancement for Low-Altitude UAVs via Active RISs Under Existing Cellular Infrastructure](http://arxiv.org/abs/2611.07724v1)<br/>*现有蜂窝基础设施下通过有源RIS增强低空无人机的上行链路*|Weicong Chen et.al.|[2611.07724v1](http://arxiv.org/abs/2611.07724v1)|
 |2026-11-05|[Sharp Minimum-Rate Guarantees for Power-Based Discrete RIS Design](http://arxiv.org/abs/2611.07548v1)<br/>*基于功率的离散RIS设计的严格最小速率保证*|Hernan X. Cordova et.al.|[2611.07548v1](http://arxiv.org/abs/2611.07548v1)|
 |2026-11-04|[Optimization of Joint Beamforming in RIS-aided Multi-carrier and Multi-user MIMO Systems](http://arxiv.org/abs/2611.05796v1)<br/>*RIS辅助多载波多用户MIMO系统中的联合波束赋形优化*|Nuwan Balasuriya et.al.|[2611.05796v1](http://arxiv.org/abs/2611.05796v1)|
-|2026-11-02|[Deep Reinforcement Learning for BD-RIS-Assisted Multi-UAV RSMA Communications](http://arxiv.org/abs/2611.03047v1)<br/>*BD-RIS辅助多无人机RSMA通信中的深度强化学习*|Aamer Mohamed Huroon et.al.|[2611.03047v1](http://arxiv.org/abs/2611.03047v1)|
+|2026-11-02|[Deep Reinforcement Learning for BD-RIS-Assisted Multi-UAV RSMA Communications](http://arxiv.org/abs/2611.03047v1)<br/>*深度强化学习在BD-RIS辅助多无人机RSMA通信中的应用*|Aamer Mohamed Huroon et.al.|[2611.03047v1](http://arxiv.org/abs/2611.03047v1)|
 |2026-11-02|[Customizing Wireless Channels via Intelligent Reflecting Surfaces: Feasibility, Fundamental Limits, and Constructive Design](http://arxiv.org/abs/2611.02894v1)<br/>*通过智能反射面定制无线信道：可行性、基本限制与建设性设计*|Xiyuan Liu et.al.|[2611.02894v1](http://arxiv.org/abs/2611.02894v1)|
 |2026-11-02|[S-R3: Secure and Robust RIS-Assisted RSMA under Finite-Resolution Phase Shifts](http://arxiv.org/abs/2611.02662v1)<br/>*S-R3：有限分辨率相移下安全鲁棒的RIS辅助RSMA*|Ibrahima Sory Diallo et.al.|[2611.02662v1](http://arxiv.org/abs/2611.02662v1)|
-|2026-11-01|[Green Learning-Based Signal-Level Detection of RIS Spoofing Attacks in Vehicular ISAC Systems](http://arxiv.org/abs/2611.01881v1)<br/>*车载ISAC系统中基于绿色学习的RIS欺骗攻击信号级检测*|Po-Heng Chou et.al.|[2611.01881v1](http://arxiv.org/abs/2611.01881v1)|
+|2026-11-01|[Green Learning-Based Signal-Level Detection of RIS Spoofing Attacks in Vehicular ISAC Systems](http://arxiv.org/abs/2611.01881v1)<br/>*车载感知与通信一体化系统中基于绿色学习的RIS欺骗攻击信号级检测*|Po-Heng Chou et.al.|[2611.01881v1](http://arxiv.org/abs/2611.01881v1)|
 |2026-11-01|[Worst-User Outage Probability Minimization in Active RIS-Aided Systems](http://arxiv.org/abs/2611.01650v1)<br/>*有源RIS辅助系统中最差用户中断概率最小化*|Donghwan Shin et.al.|[2611.01650v1](http://arxiv.org/abs/2611.01650v1)|
 
 ### 2026年10月
 
 | 发布日期 | 论文标题 | 第一作者 | PDF链接 |
 |:--------|:---------|:---------|:--------|
-|2026-10-29|[Deep Reinforcement Learning for Blind Passive Beamforming in RIS-Assisted MIMO Systems](http://arxiv.org/abs/2610.39827v1)<br/>*RIS辅助MIMO系统中的盲被动波束赋形深度强化学习*|Oumaïma Bounhar et.al.|[2610.39827v1](http://arxiv.org/abs/2610.39827v1)|
-|2026-10-29|[Beyond Diagonal RIS for Physical-Layer Security: Low-Complexity Solution in the Low-SNR Regime](http://arxiv.org/abs/2610.39533v1)<br/>*用于物理层安全的超越对角RIS：低信噪比区域的低复杂度解决方案*|Rawan Derbas et.al.|[2610.39533v1](http://arxiv.org/abs/2610.39533v1)|
-|2026-10-28|[Movable Beyond-Diagonal RIS for ISAC: Optimal Placement and Pareto Boundary](http://arxiv.org/abs/2610.38483v1)<br/>*用于ISAC的可移动超越对角RIS：最优放置与帕累托边界*|Chandan Kumar Sheemar et.al.|[2610.38483v1](http://arxiv.org/abs/2610.38483v1)|
+|2026-10-29|[Deep Reinforcement Learning for Blind Passive Beamforming in RIS-Assisted MIMO Systems](http://arxiv.org/abs/2610.39827v1)<br/>*深度强化学习在RIS辅助MIMO系统盲被动波束赋形中的应用*|Oumaïma Bounhar et.al.|[2610.39827v1](http://arxiv.org/abs/2610.39827v1)|
+|2026-10-29|[Beyond Diagonal RIS for Physical-Layer Security: Low-Complexity Solution in the Low-SNR Regime](http://arxiv.org/abs/2610.39533v1)<br/>*超对角RIS在物理层安全中的应用：低信噪比区域的低复杂度解决方案*|Rawan Derbas et.al.|[2610.39533v1](http://arxiv.org/abs/2610.39533v1)|
+|2026-10-28|[Movable Beyond-Diagonal RIS for ISAC: Optimal Placement and Pareto Boundary](http://arxiv.org/abs/2610.38483v1)<br/>*可移动超对角RIS在感知与通信一体化中的应用：最优放置与帕累托边界*|Chandan Kumar Sheemar et.al.|[2610.38483v1](http://arxiv.org/abs/2610.38483v1)|
 |2026-10-26|[Movable-Element Multi-Functional RIS-Assisted Hybrid RSMA-NOMA: A Constrained Hybrid Reinforcement Learning Approach](http://arxiv.org/abs/2610.34701v1)<br/>*可移动元件多功能RIS辅助混合RSMA-NOMA：一种受限混合强化学习方法*|Li-Hsiang Shen et.al.|[2610.34701v1](http://arxiv.org/abs/2610.34701v1)|
 |2026-10-25|[RIS-Assisted Downlink Pinching-Antenna Systems With NLOS Environments](http://arxiv.org/abs/2610.34275v1)<br/>*非视距环境下RIS辅助下行链路挤压天线系统*|Yue Geng et.al.|[2610.34275v1](http://arxiv.org/abs/2610.34275v1)|
 |2026-10-25|[Secure Integrated Sensing and Communications with Movable Beyond-Diagonal RIS](http://arxiv.org/abs/2610.34088v1)<br/>*采用可移动超越对角RIS的安全集成感知与通信*|Chandan Kumar Sheemar et.al.|[2610.34088v1](http://arxiv.org/abs/2610.34088v1)|
