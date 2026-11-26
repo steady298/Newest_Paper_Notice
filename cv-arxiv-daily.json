@@ -1773,7 +1773,7 @@
     "2611.07724": {
       "date": "2026-11-05",
       "title_en": "Uplink Enhancement for Low-Altitude UAVs via Active RISs Under Existing Cellular Infrastructure",
-      "title_cn": "现有蜂窝基础设施下通过有源RIS增强低空无人机的上行链路",
+      "title_cn": "现有蜂窝基础设施下通过有源RIS实现低空无人机的上行链路增强",
       "author": "Weicong Chen",
       "paper_id": "2611.07724v1",
       "paper_url": "http://arxiv.org/abs/2611.07724v1"
@@ -1797,7 +1797,7 @@
     "2611.03047": {
       "date": "2026-11-02",
       "title_en": "Deep Reinforcement Learning for BD-RIS-Assisted Multi-UAV RSMA Communications",
-      "title_cn": "深度强化学习在BD-RIS辅助多无人机RSMA通信中的应用",
+      "title_cn": "BD-RIS辅助多无人机RSMA通信中的深度强化学习",
       "author": "Aamer Mohamed Huroon",
       "paper_id": "2611.03047v1",
       "paper_url": "http://arxiv.org/abs/2611.03047v1"
@@ -1805,7 +1805,7 @@
     "2611.02894": {
       "date": "2026-11-02",
       "title_en": "Customizing Wireless Channels via Intelligent Reflecting Surfaces: Feasibility, Fundamental Limits, and Constructive Design",
-      "title_cn": "通过智能反射面定制无线信道：可行性、基本限制与建设性设计",
+      "title_cn": "通过智能反射面定制无线信道：可行性、基本限制和建设性设计",
       "author": "Xiyuan Liu",
       "paper_id": "2611.02894v1",
       "paper_url": "http://arxiv.org/abs/2611.02894v1"
@@ -1821,7 +1821,7 @@
     "2611.20665": {
       "date": "2026-11-16",
       "title_en": "SiGMA: Site-Grounded Multi-Modal ISAC Data Generation for Environment-Aware Communications",
-      "title_cn": "SiGMA：面向环境感知通信的站点基础多模态感知与通信一体化数据生成",
+      "title_cn": "SiGMA：面向环境感知通信的现场实测多模态感知与通信一体化数据生成",
       "author": "Yijie Bian",
       "paper_id": "2611.20665v1",
       "paper_url": "http://arxiv.org/abs/2611.20665v1"
@@ -1829,7 +1829,7 @@
     "2611.20492": {
       "date": "2026-11-16",
       "title_en": "Weighted Sum-Rate Optimization of Near-Field STAR-RIS-Aided ISAC Systems Under Hardware Impairments",
-      "title_cn": "考虑硬件损伤的近场STAR-RIS辅助感知与通信一体化系统加权和速率优化",
+      "title_cn": "硬件损伤下近场同传同反RIS辅助感知与通信一体化系统的加权和速率优化",
       "author": "Huy T. Nguyen",
       "paper_id": "2611.20492v1",
       "paper_url": "http://arxiv.org/abs/2611.20492v1"
@@ -1845,7 +1845,7 @@
     "2611.19169": {
       "date": "2026-11-14",
       "title_en": "Towards Self-Organizing Channel Coding in 6G-Enabled IoT Networks: Trends, Cognitive Architectures, and Open Challenges",
-      "title_cn": "迈向6G使能物联网中的自组织信道编码：趋势、认知架构与开放挑战",
+      "title_cn": "面向6G使能物联网网络中的自组织信道编码：趋势、认知架构和开放挑战",
       "author": "M. Moazam Azeem",
       "paper_id": "2611.19169v1",
       "paper_url": "http://arxiv.org/abs/2611.19169v1"
@@ -1861,7 +1861,7 @@
     "2611.17803": {
       "date": "2026-11-13",
       "title_en": "Resource Management and Trajectory Optimization for UAV-IRS Assisted Maritime Edge Computing Networks",
-      "title_cn": "无人机-IRS辅助海洋边缘计算网络的资源管理与轨迹优化",
+      "title_cn": "无人机-智能反射面辅助海事边缘计算网络的资源管理与轨迹优化",
       "author": "Chaoyue Zhang",
       "paper_id": "2611.17803v1",
       "paper_url": "http://arxiv.org/abs/2611.17803v1"
@@ -1869,7 +1869,7 @@
     "2611.17666": {
       "date": "2026-11-13",
       "title_en": "Brain-inspired Beam Selection for mmWave RIS Communication",
-      "title_cn": "毫米波RIS通信中的仿脑波束选择",
+      "title_cn": "毫米波RIS通信中的脑启发式波束选择",
       "author": "Aris Karampelas Timotijevic",
       "paper_id": "2611.17666v1",
       "paper_url": "http://arxiv.org/abs/2611.17666v1"
@@ -1893,7 +1893,7 @@
     "2611.15503": {
       "date": "2026-11-11",
       "title_en": "A Tutorial on Infrastructure Self-Calibration for Radio-Based Indoor Positioning",
-      "title_cn": "基于无线电室内定位的基础设施自校准教程",
+      "title_cn": "基于无线电的室内定位基础设施自校准教程",
       "author": "Paul Schwarzbach",
       "paper_id": "2611.15503v1",
       "paper_url": "http://arxiv.org/abs/2611.15503v1"
@@ -1917,7 +1917,7 @@
     "2611.10569": {
       "date": "2026-11-07",
       "title_en": "Learning-Assisted Beamforming Optimization for Hybrid XL-RIS-Aided Communication",
-      "title_cn": "学习辅助的混合XL-RIS辅助通信波束赋形优化",
+      "title_cn": "混合超大RIS辅助通信中的学习辅助波束赋形优化",
       "author": "Awuni Mohammed Abdul-Razak",
       "paper_id": "2611.10569v1",
       "paper_url": "http://arxiv.org/abs/2611.10569v1"
@@ -1925,7 +1925,7 @@
     "2611.32849": {
       "date": "2026-11-24",
       "title_en": "QoS-Constrained Sum-Rate Maximization in RIS-Assisted Pinching-Antenna NOMA Systems",
-      "title_cn": "RIS辅助夹持天线NOMA系统中QoS约束的和速率最大化",
+      "title_cn": "RIS辅助夹持天线NOMA系统中服务质量约束的和速率最大化",
       "author": "Lütfullah Özkan",
       "paper_id": "2611.32849v1",
       "paper_url": "http://arxiv.org/abs/2611.32849v1"
@@ -1941,7 +1941,7 @@
     "2611.26742": {
       "date": "2026-11-19",
       "title_en": "DNN-Assisted Deterministic Policy Learning for Adaptive IRS-NOMA-OWC Networks",
-      "title_cn": "深度神经网络辅助的自适应IRS-NOMA-OWC网络确定性策略学习",
+      "title_cn": "DNN辅助的自适应智能反射面-NOMA-OWC网络确定性策略学习",
       "author": "Ahrar N. Hamad",
       "paper_id": "2611.26742v1",
       "paper_url": "http://arxiv.org/abs/2611.26742v1"
@@ -1949,7 +1949,7 @@
     "2611.25556": {
       "date": "2026-11-19",
       "title_en": "An LLM-Orchestrated Agent Framework for CKM-Assisted Network Deployment Optimization",
-      "title_cn": "大语言模型编排的信道知识图辅助网络部署优化智能体框架",
+      "title_cn": "一种LLM编排的CKM辅助网络部署优化智能体框架",
       "author": "Yilong Chen",
       "paper_id": "2611.25556v1",
       "paper_url": "http://arxiv.org/abs/2611.25556v1"
@@ -1965,10 +1965,34 @@
     "2611.23724": {
       "date": "2026-11-18",
       "title_en": "Towards Environment-Aware 6G Network Planning: An Any-to-Any Channel Knowledge Map Approach",
-      "title_cn": "迈向环境感知6G网络规划：一种任意到任意信道知识图方法",
+      "title_cn": "面向环境感知的6G网络规划：一种任意到任意信道知识图方法",
       "author": "Yilong Chen",
       "paper_id": "2611.23724v1",
       "paper_url": "http://arxiv.org/abs/2611.23724v1"
+    },
+    "2611.34243": {
+      "date": "2026-11-25",
+      "title_en": "On the Grouping-based RIS-aided Multi-user Networks: A Graph Theoretic Approach",
+      "title_cn": "基于分组的RIS辅助多用户网络：一种图论方法",
+      "author": "Udit Raj",
+      "paper_id": "2611.34243v1",
+      "paper_url": "http://arxiv.org/abs/2611.34243v1"
+    },
+    "2611.33986": {
+      "date": "2026-11-25",
+      "title_en": "Certified Outage Bounds for RIS-Assisted NOMA with Source-Side Thermal Energy Harvesting",
+      "title_cn": "源侧热能收集下RIS辅助NOMA的认证中断界限",
+      "author": "Victor Rabiet",
+      "paper_id": "2611.33986v1",
+      "paper_url": "http://arxiv.org/abs/2611.33986v1"
+    },
+    "2611.33773": {
+      "date": "2026-11-25",
+      "title_en": "Robust Adaptive Channel Estimation for RIS-Assisted mmWave Massive MIMO via a Stochastic Shannon Entropy Criterion",
+      "title_cn": "基于随机香农熵准则的RIS辅助毫米波大规模MIMO鲁棒自适应信道估计",
+      "author": "Mojtaba Hajiabadi",
+      "paper_id": "2611.33773v1",
+      "paper_url": "http://arxiv.org/abs/2611.33773v1"
     }
   }
 }
